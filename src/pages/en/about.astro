@@ -9,8 +9,8 @@ import { formatNumber } from '../../lib/format';
 import { profilePageSchema, breadcrumbSchema } from '../../lib/seo';
 const lang = 'en';
 const path = route('about', lang);
-const title = 'DE Verkaufsoffen 2026: publisher, sources, independence';
-const description = 'Who publishes DE Verkaufsoffen 2026: Radif Partners, independent and promoting no shop. Where the state acts, the town ordinances and all the dates come from.';
+const title = 'Verkaufsoffen Heute: publisher, sources and independence';
+const description = 'Who publishes Verkaufsoffen Heute: Radif Partners, independent and promoting no shop. Where the state acts, the town ordinances and all the dates come from.';
 const s = (k: string, t: string) => srcLink(k, lang, t);
 ---
 <PageLayout title={title} description={description} lang={lang} jsonLd={[profilePageSchema({ path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path }])]} breadcrumbs={[{ label: 'About' }]}>

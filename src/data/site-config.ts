@@ -1,6 +1,6 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://de-verkaufsoffen.example";
-export const SITE_NAMES: Record<string, string> = {"de": "DE Verkaufsoffen", "en": "DE Verkaufsoffen"};
+export const SITE_URL = "https://verkaufsoffen-heute.de";
+export const SITE_NAMES: Record<string, string> = {"de": "Verkaufsoffen Heute", "en": "Verkaufsoffen Heute"};
 // Partie du nom affichée en couleur dans l'en-tête (RECETTE §10.3), « » pour aucune.
 export const BRAND_ACCENT = "Verkaufsoffen";
 export const LANG_TAGS: Record<string, string> = {"de": "de-DE", "en": "en-DE"};
@@ -19,7 +19,7 @@ export const AUTHOR_DESC: Record<string, string> = {"de": "Radif Partners liest 
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"de": ["Ladenöffnungsgesetze der 16 Bundesländer", "Bayerisches Ladenschlussgesetz (seit 1. August 2025)", "Anlassbezug verkaufsoffener Sonntage", "Sonn- und Feiertagsschutz nach Art. 140 GG und Art. 139 WRV", "Kommunale Verordnungen zur Sonntagsöffnung"], "en": ["Shop opening acts of the 16 German states", "Bavarian Shop Closing Act (since 1 August 2025)", "The occasion requirement for Sunday trading", "Constitutional protection of Sundays (Art. 140 Basic Law, Art. 139 Weimar Constitution)", "Municipal Sunday trading ordinances"]};
-export const CONTACT_EMAIL = "contact@de-verkaufsoffen.example";
+export const CONTACT_EMAIL = "contact@verkaufsoffen-heute.de";
 export const THEME_COLOR = '#9F1239';
 export const LOGO_SYMBOL = 'VS';
 export const BING_VERIFY_CODE = '';
