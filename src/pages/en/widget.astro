@@ -1,0 +1,29 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { SITE_URL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema } from '../../lib/seo';
+const lang = 'en';
+const code = (name: string, t: string, h: number) => `<iframe src="${SITE_URL}/embed/${lang}/${name}/" title="${t}" width="100%" height="${h}" style="border:0;max-width:1100px" loading="lazy"></iframe>`;
+const items = [
+  { name: 'termin-finder', h2: 'Date finder', text: 'Pick a town or state: your readers see the next shopping Sundays with their source and can add them to their calendar.', t: 'German shopping Sunday finder', h: 900 },
+  { name: 'sonntag-pruefen', h2: 'Check a Sunday', text: 'Pick a state and a Sunday: the calculator says whether the state act allows a release, and why not if it does not.', t: 'Check a German shopping Sunday', h: 700 },
+];
+---
+<PageLayout title="Embed the date finder for free: German shopping Sundays" description="Embed the German shopping Sunday date finder for free with an iframe: copy the code once, and new dates and cancellations then appear on your own website by themselves." lang={lang} noindex={true} jsonLd={[breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Widget', path: route('widget', lang) }])]} breadcrumbs={[{ label: 'Widget' }]} showAuthor={false}>
+  <header class="mb-6">
+    <h1 class="text-3xl font-bold text-navy-900 md:text-4xl">Embed the date finder</h1>
+    <p class="mt-3 text-lg text-navy-700">For town marketing offices, associations and local papers: copy once, new dates appear by themselves.</p>
+  </header>
+  <div class="prose prose-slate max-w-none">
+    {items.map((i) => (<>
+      <h2>{i.h2}</h2>
+      <p>{i.text}</p>
+      <pre class="overflow-x-auto rounded-lg bg-navy-900 p-4 text-sm text-white"><code>{code(i.name, i.t, i.h)}</code></pre>
+    </>))}
+    <p>For the German version, replace <code>/embed/en/</code> with <code>/embed/de/</code>. Terms: the source link below the tool stays visible, the tool is not altered and is provided without warranty. What your readers enter stays on their device. Questions via the <a href={route('contact', lang)}>contact page</a>.</p>
+  </div>
+  <div class="mt-8 overflow-hidden rounded-xl border border-navy-200">
+    <iframe src={`/embed/${lang}/termin-finder/`} title="Date finder" width="100%" height="900" style="border:0" loading="lazy"></iframe>
+  </div>
+</PageLayout>

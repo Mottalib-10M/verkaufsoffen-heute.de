@@ -1,0 +1,21 @@
+{
+ "name": "DE Verkaufsoffen",
+ "short_name": "Verkaufsoffen",
+ "description": "Verkaufsoffene Sonntage 2026 und 2027 nach Stadt und Bundesland, jeder Termin mit der Verordnung der Gemeinde: heute, dieses Wochenende, Countdown und Kalender.",
+ "start_url": "/de/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#9F1239",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

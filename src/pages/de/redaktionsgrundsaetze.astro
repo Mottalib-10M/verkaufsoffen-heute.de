@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { displayDate } from '../../lib/format';
+const lang = 'de';
+---
+<PageLayout title="Redaktionsgrundsätze: Quellen, Prüfung und Korrekturen" description="Woher Gesetze und Termine der verkaufsoffenen Sonntage kommen, in welcher Rangfolge wir Quellen lesen, wie wir prüfen und was bei einem Fehler oder einer Absage geschieht." lang={lang} noindex={true} breadcrumbs={[{ label: 'Redaktionsgrundsätze' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Redaktionsgrundsätze und Korrekturen</h1>
+    <p>Wer wegen eines falschen Termins in die Stadt fährt, steht vor geschlossenen Türen. Deshalb steht hier, woher jeder Termin kommt und was passiert, wenn etwas nicht stimmt.</p>
+    <h2>Verantwortung</h2><p>Inhalte und Werkzeuge verantwortet {AUTHOR_NAME}. Kontakt: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Rangfolge der Quellen</h2>
+    <ol>
+      <li><strong>Gesetze</strong> in der geltenden Fassung auf den Rechtsportalen der Länder: die sechzehn Ladenöffnungsgesetze, dazu Art. 140 Grundgesetz;</li>
+      <li><strong>Entscheidungen der Städte</strong>: Verordnungen, Satzungen und Allgemeinverfügungen im Amtsblatt, Bekanntmachungen auf der Seite der Stadt;</li>
+      <li><strong>Mitteilungen der Städte</strong>: Seiten der Ordnungsämter und der städtischen Stadtmarketing-Gesellschaften, Pressemitteilungen der Stadt, wo keine Verordnung online steht.</li>
+    </ol>
+    <p>Sammelseiten, Werbung, Seiten von Einkaufszentren und Zeitungsartikel sind keine Quelle für einen Termin. Wo keine amtliche Quelle vorliegt, schreiben wir „noch nicht veröffentlicht“ oder „keine Quelle“.</p>
+    <h2>Gerechnet, wo möglich</h2><p>Kirchliche Sperrtage wie Ostern, Pfingsten, Advent und Totensonntag leitet ein Rechenkern aus ihrer Regel ab. Automatische Tests prüfen bei jeder Änderung, dass jeder eingetragene Termin nach dem Gesetz seines Landes möglich ist und jede Quelle ein Lesedatum trägt.</p>
+    <h2>Rhythmus</h2><p>Die Städte werden bei jeder Aktualisierung neu gelesen, vor allem von November bis Februar. Vollständige Durchsicht der Gesetze mindestens alle {REVIEW_CYCLE_MONTHS} Monate und nach jeder Gesetzesänderung.</p>
+    <h2>Umgang mit Fehlern und Absagen</h2>
+    <ol><li>Prüfung an der Quelle.</li><li>Korrektur oder Streichung des Termins, mit neuem Lesedatum.</li><li>Neuer Stand auf allen Seiten und in der Kalenderdatei.</li></ol>
+    <h2>Unabhängigkeit</h2><p>Kein Geld von Geschäften, Einkaufszentren, Verbänden oder Behörden. Keine Partnerlinks, keine bezahlten Beiträge, kein Formular zur Kundengewinnung.</p>
+    <p>Siehe auch <a href={route('method', lang)}>Methode</a>. Fassung vom {displayDate(LAST_UPDATED, 'de-DE')}.</p>
+  </div>
+</PageLayout>

@@ -1,0 +1,22 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { CONTACT_EMAIL, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'en';
+const description = 'Write to us if a shopping Sunday is missing, has been cancelled or is listed wrongly, or if you would like to embed the date finder on your own website.';
+---
+<PageLayout title={`Contact ${SITE_NAMES[lang]}: report a date, embed the finder`} description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path: route('contact', lang), lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Contact</h1>
+    <p>Email: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. We usually reply within a week.</p>
+    <h2>A date is missing or wrong</h2>
+    <p>Give the town, the date and, if possible, the link to the ordinance, general order or official gazette. We check at the source and correct within a few days. We do not take dates from advertising or aggregator sites.</p>
+    <h2>Your town is missing</h2>
+    <p>Send us the town’s name and, if you know it, where it publishes its Sundays. We add a town once we have read the official source ourselves.</p>
+    <h2>Embed the finder</h2>
+    <p>Town marketing offices, associations and local papers can embed the date finder for free: <a href={route('widget', lang)}>embed</a>.</p>
+    <h2>What we do not do</h2>
+    <p>No legal advice, no information on individual shops’ opening hours and no advertising for shops.</p>
+  </div>
+</PageLayout>

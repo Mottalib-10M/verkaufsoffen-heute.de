@@ -1,0 +1,44 @@
+---
+/** Methode : lois des Länder, moteur de règles, recherche des villes, Termin-Finder, tests, limites. Chiffres : moteur + data/staedte.json. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { srcLink } from '../../lib/helpers';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+import { displayDate, formatNumber } from '../../lib/format';
+const lang = 'de';
+const path = route('method', lang);
+const title = 'Verkaufsoffene Sonntage 2026: Methode, Quellen und Prüfung';
+const description = 'Wie wir verkaufsoffene Sonntage 2026 und 2027 erfassen: 16 Ladenöffnungsgesetze im Wortlaut, Verordnungen der Städte mit Lesedatum, Regelprüfung und Tests.';
+const s = (k: string, t: string) => srcLink(k, lang, t);
+const d = (x: string) => displayDate(x, 'de-DE');
+const n = (x: number) => formatNumber(x, 0, lang);
+const alle = K.alleTermine();
+const ohne = K.STAEDTE.filter((x) => x.status2026 === 'nicht-gefunden').length;
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'Methode', description, path, lang }), breadcrumbSchema([{ name: 'Start', path: route('home', lang) }, { name: 'Methode', path }])]} breadcrumbs={[{ label: 'Methode' }]}>
+  <article class="prose prose-slate max-w-none">
+    <h1>Wie wir verkaufsoffene Sonntage erfassen und prüfen</h1>
+    <p>Diese Seite trennt zwei Fragen, die oft vermischt werden: Was erlaubt das Gesetz eines Landes, und was hat eine Stadt tatsächlich freigegeben? Die erste beantwortet ein Regelwerk aus den sechzehn Ladenöffnungsgesetzen, die zweite eine Liste der Bekanntmachungen der Städte. Stand der Gesetze und der Liste: {d(K.STAND)}.</p>
+
+    <h2>Die sechzehn Gesetze</h2>
+    <p>Jedes Land hat ein eigenes Gesetz, etwa das <Fragment set:html={s('lo-nw', 'Ladenöffnungsgesetz NRW')} />, das <Fragment set:html={s('lo-by', 'Bayerische Ladenschlussgesetz')} /> oder das <Fragment set:html={s('lo-be', 'Berliner Ladenöffnungsgesetz')} />. Wir haben jeden Text im Rechtsportal des Landes gelesen, in der dort angezeigten geltenden Fassung, und daraus festgehalten: die Höchstzahl der Tage, ob Feiertage zählen, frühester Beginn, spätestes Ende und längste Dauer, wer freigibt, welcher Anlass verlangt ist und welche Tage nie freigegeben werden dürfen. Jede Angabe steht so im Gesetz; wo das Gesetz schweigt, etwa zur Uhrzeit in Mecklenburg-Vorpommern, steht „nicht festgelegt“.</p>
+    <p>Die Sperrtage hängen teils am Kirchenjahr. Ostersonntag berechnen wir mit der <Fragment set:html={s('ostern-ptb', 'Osterformel der PTB')} />, Palmsonntag liegt eine Woche davor, Pfingstsonntag 49 Tage danach. Der 4. Advent ist der Sonntag am oder vor dem 24. Dezember, die drei anderen Adventssonntage liegen je eine Woche davor; Totensonntag ist der Sonntag vor dem 1. Advent, Volkstrauertag zwei Wochen vor dem 1. Advent. Daraus prüft der Rechner für jeden Sonntag und jedes Land, ob eine Freigabe rechtlich möglich wäre, und nennt den Grund, wenn nicht.</p>
+
+    <h2>Die Termine der Städte</h2>
+    <p>Für {n(K.STAEDTE.length)} Städte haben wir die Verordnungen, Allgemeinverfügungen und Amtsblätter gesucht, dazu die Seiten der Städte und ihrer Stadtmarketing-Gesellschaften. Jeder der {n(alle.length)} Einträge trägt Datum, Gebiet, Anlass, Uhrzeit und die Quelle mit Lesedatum. Wo eine Verordnung eine Regel statt eines Datums nennt, etwa „zweiter Sonntag im Oktober“, haben wir das Datum berechnet und das in der Quelle vermerkt. Für {n(ohne)} Städte haben wir für 2026 keine amtliche Bekanntmachung gefunden; sie stehen mit „keine Quelle“ in der Liste.</p>
+    <p>Nicht verwendet werden Sammelseiten, Werbung, Seiten von Einkaufszentren und Presseartikel. Namen einzelner Geschäfte, Ketten oder Einkaufszentren, die in einer Verordnung stehen, ersetzen wir durch eine neutrale Beschreibung des Gebiets. Ein Termin, der nur angekündigt, aber noch nicht bekannt gemacht ist, bleibt draußen, bis die Stadt ihn veröffentlicht.</p>
+
+    <h2>Der Termin-Finder</h2>
+    <p>Der Finder läuft in Ihrem Browser. Er liest nach dem Laden das Datum Ihres Geräts und zeigt die Termine ab heute, heute oder an diesem Wochenende. Der Countdown rechnet bis zum Beginn der Öffnung in deutscher Zeit, auch wenn Ihr Gerät in einer anderen Zeitzone steht. Die Kalenderdatei entsteht nach RFC 5545 auf Ihrem Gerät, mit der Zeitzone Europe/Berlin; Termine ohne Uhrzeit erscheinen als ganztägig.</p>
+
+    <h2>Tests</h2>
+    <p>Automatische Tests prüfen bei jeder Änderung: die Adventssonntage und Ostern für viele Jahre, jede Sperrregel an Beispielen aus dem Gesetzestext, dass jede Quelle eine sichere Adresse und ein Lesedatum hat, dass keine Sammelseite verwendet wird und dass jeder eingetragene Termin nach dem Gesetz seines Landes überhaupt möglich ist. Ein Termin, den das Gesetz sperrt, würde den Test scheitern lassen und müsste an der Quelle geklärt werden.</p>
+
+    <h2>Grenzen</h2>
+    <p>Die Liste umfasst große Städte und die Städte, nach denen am häufigsten gesucht wird, nicht alle Gemeinden. Ausflugs-, Kur- und Bäderregelungen sind nicht erfasst. Im Saarland melden die Geschäfte ihre Sonntage nur bei der Ortspolizeibehörde an; eine öffentliche Liste gibt es dort nicht. Gerichtliche Eilentscheidungen erfahren wir erst, wenn die Stadt sie bekannt macht.</p>
+
+    <h2>Aktualisierung</h2>
+    <p>Die Städte werden bei jeder Aktualisierung neu gelesen, vor allem zwischen November und Februar, wenn die Räte die Verordnungen für das neue Jahr beschließen. Fehler melden Sie über die <a href={route('contact', lang)}>Kontaktseite</a>; wie wir korrigieren, steht in den <a href={route('editorial', lang)}>Redaktionsgrundsätzen</a>.</p>
+  </article>
+</PageLayout>

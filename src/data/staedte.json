@@ -1,0 +1,5725 @@
+{
+"stand": "2026-10-29",
+"staedte": [
+{
+"id": "aachen",
+"name": "Aachen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-05-03",
+"anlass": "Burtscheider Weinfest",
+"bereich": "Stadtteil Burtscheid (Viehhofstraße, Kapellenstraße, Altdorfstraße, Burtscheider Markt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-10",
+"anlass": "Brander Weinfest",
+"bereich": "Stadtbezirk Brand (Marktplatz, Marktstraße, Donatusplatz, Trierer Straße u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-07-12",
+"anlass": "Sommerkirmes",
+"bereich": "Stadtbezirk Brand",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-16",
+"anlass": "Weltreiterspiele",
+"bereich": "Stadtbezirk Mitte (Am Gut Wolf, Krefelder Straße, Gut-Dämme-Straße, Grüner Weg)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Burtscheider Aktionstag",
+"bereich": "Stadtteil Burtscheid",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-25",
+"anlass": "Herbstkirmes",
+"bereich": "Stadtbezirk Brand",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Aachener Weihnachtsmarkt",
+"bereich": "Stadtbezirk Mitte (Innenstadt innerhalb des Grabenrings und angrenzende Bereiche)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Weihnachtsmarkt in Burtscheid",
+"bereich": "Stadtteil Burtscheid",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Stadtbezirk Brand",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen für das Jahr 2026 vom 22.04.2026 (Öffentliche Bekanntmachung, Ratsbeschluss vom 22.04.2026)",
+"herausgeber": "Stadt Aachen",
+"art": "Verordnung",
+"url": "https://www.aachen.de/services/oeffentliche-bekanntmachungen/2026/april/fb32-ordnungsbehoerdliche-verordnung-offenhalten-verkaufsstellen-an-sonntagen-2026-27042026.pdf?cid=109b",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Verordnung nennt die Termine je Bezirk und die Anlässe je Bezirk in gleicher Reihenfolge; die Zuordnung Termin–Anlass folgt dieser Reihenfolge. Alle öffentlichen Bekanntmachungen 2025/2026 durchsucht; für 2027 noch keine Verordnung (2025 wurde sie im April beschlossen)."
+},
+{
+"id": "augsburg",
+"name": "Augsburg",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-09-06",
+"anlass": "Zweiter Sonntag des Augsburger Herbstplärrers (Oberhauser Marktsonntag)",
+"bereich": "Umfeld des Plärrergeländes (Oberhausen: Holzbachstraße, Badstraße, Langenmantelstraße, Ulmer Straße bis Oberhauser Bahnhof u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-18",
+"anlass": "Erster Sonntag der Lechhauser Kirchweih (Marktsonntag)",
+"bereich": "Lechhausen (Neuburger Straße, Waterloostraße, Blücherstraße, Klausstraße – Teilabschnitte)",
+"zeit": "12-17 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über das Offenhalten von Verkaufsstellen am zweiten Sonntag des Augsburger Herbstplärrers vom 19.08.2021 (ABl. 08.10.2021, S. 290), gilt 2022–2032 (Stadtrecht 3016)",
+"herausgeber": "Stadt Augsburg",
+"art": "Verordnung",
+"url": "https://www.augsburg.de/fileadmin/user_upload/buergerservice_rathaus/rathaus/stadtrecht/pdf/30/3016.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verordnung über das Offenhalten von Verkaufsstellen am ersten Sonntag der Lechhauser Kirchweih vom 06.09.2019 (ABl. 20.09.2019, S. 300), gilt 2020–2030 (Stadtrecht 3017)",
+"herausgeber": "Stadt Augsburg",
+"art": "Verordnung",
+"url": "https://www.augsburg.de/fileadmin/user_upload/buergerservice_rathaus/rathaus/stadtrecht/pdf/30/3017.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Der Plärrer ist eröffnet (Herbstplärrer 28. August bis 13. September 2026)",
+"herausgeber": "Stadt Augsburg",
+"art": "Pressemitteilung",
+"url": "https://www.augsburg.de/aktuelles-aus-der-stadt/detail/der-plaerrer-ist-eroeffnet",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Lechhauser Kirchweih startet am Samstag (Marktsonntag am 18. Oktober 2026)",
+"herausgeber": "Stadt Augsburg",
+"art": "Pressemitteilung",
+"url": "https://www.augsburg.de/aktuelles-aus-der-stadt/detail/lechhauser-kirchweih-startet-am-samstag",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Marktsonntag in Oberhausen: Diese Straßen sind gesperrt (6. September 2026)",
+"herausgeber": "Stadt Augsburg",
+"art": "Pressemitteilung",
+"url": "https://www.augsburg.de/aktuelles-aus-der-stadt/detail/marktsonntag-in-oberhausen-diese-strassen-sind-gesperrt",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Augsburg hat Dauer-Verordnungen für zwei Stadtteil-Sonntage (Herbstplärrer, Lechhauser Kirchweih); die Daten 2026 ergeben sich aus den von der Stadt veröffentlichten Festterminen. Kein verkaufsoffener Sonntag in der Innenstadt gefunden. Für 2027 gelten dieselben Verordnungen, die Festtermine 2027 sind aber noch nicht veröffentlicht."
+},
+{
+"id": "bergisch-gladbach",
+"name": "Bergisch Gladbach",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-19",
+"anlass": null,
+"bereich": "Ortsteil Stadtmitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-26",
+"anlass": null,
+"bereich": "Ortsteil Bensberg (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-17",
+"anlass": null,
+"bereich": "Ortsteil Refrath (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": null,
+"bereich": "Ortsteil Bensberg (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": null,
+"bereich": "Ortsteil Stadtmitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": null,
+"bereich": "Ortsteil Bensberg (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-08",
+"anlass": null,
+"bereich": "Ortsteil Bensberg (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": null,
+"bereich": "Ortsteil Stadtmitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": null,
+"bereich": "Ortsteil Stadtmitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen vom 10.10.2025 (Amtsblatt Nr. 33 vom 16.10.2025)",
+"herausgeber": "Stadt Bergisch Gladbach",
+"art": "Amtsblatt",
+"url": "https://www.bergischgladbach.de/33-2025-amtsblatt-der-stadt-bergisch-gladbach.pdfx?forced=true",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "1. Verordnung zur Änderung der Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen (Ratsbeschluss 12.05.2026, Amtsblatt Nr. 16 vom 28.05.2026)",
+"herausgeber": "Stadt Bergisch Gladbach",
+"art": "Amtsblatt",
+"url": "https://www.bergischgladbach.de/16a-2026-amtsblatt-der-stadt-bergisch-gladbach.pdfx?forced=true",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "2. Änderungsverordnung (Dringlichkeitsentscheidung, Amtsblatt Nr. 18 vom 18.06.2026): Streichung Schildgen 05.07.2026",
+"herausgeber": "Stadt Bergisch Gladbach",
+"art": "Amtsblatt",
+"url": "https://www.bergischgladbach.de/18a-2026-amtsblatt-der-stadt-bergisch-gladbach.pdfx?forced=true",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Stand nach zwei Änderungsverordnungen: Bensberg 27.09. auf 20.09.2026 verlegt, Paffrath (12.07.) und Schildgen (05.07., Dorffest abgesagt) gestrichen. Die Verordnung nennt keine Anlässe. Für 2027 lag dem Rat am 13.10.2026 die Vorlage „Offenhalten von Verkaufsstellen 2027“ vor (beantragt: 9 Termine); eine Verordnung war bis 29.10.2026 noch nicht im Amtsblatt verkündet."
+},
+{
+"id": "berlin",
+"name": "Berlin",
+"land": "BE",
+"termine": [
+{
+"datum": "2026-01-25",
+"anlass": "100jähriges Jubiläum der Internationalen Grünen Woche",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-21",
+"anlass": "Fête de la Musique",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Weihnachtsmärkte in der ganzen Stadt",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-20",
+"anlass": "Weihnachtsmärkte in der ganzen Stadt und Louis Lewandowski Festival – World Festival of Synagogal Music",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Allgemeinverfügung über das Offenhalten von Verkaufsstellen an Sonntagen im ersten Halbjahr 2026 (Öffentliche Bekanntmachung vom 18.12.2025, IIE3-4464-5.8-2026AllgV-01)",
+"herausgeber": "Senatsverwaltung für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung",
+"art": "Allgemeinverfügung",
+"url": "https://www.berlin.de/sen/arbeit/_assets/beschaeftigung/arbeitsschutz/neuigkeiten/20251218_bekanntm_1allgv2026_internet.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffene Sonntage im Land Berlin im zweiten Halbjahr 2026",
+"herausgeber": "Senatsverwaltung für Wirtschaft, Energie und Betriebe",
+"art": "Stadtseite",
+"url": "https://www.berlin.de/sen/wirtschaft/wirtschaft/branchen/handel/verkaufsoffene-sonntage/artikel.596428.php",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ladenöffnungszeiten in Berlin (berlinweite Öffnung 13 bis 20 Uhr nach § 6 Abs. 1 BerlLadÖffG)",
+"herausgeber": "Senatsverwaltung für Wirtschaft, Energie und Betriebe",
+"art": "Stadtseite",
+"url": "https://www.berlin.de/sen/wirtschaft/branchen/handel/artikel.152543.php",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Dezember-Termine beruhen auf der Allgemeinverfügung vom 08.06.2026 (Amtsblatt für Berlin Nr. 26 vom 19.06.2026); Uhrzeit 13–20 Uhr gemäß § 6 Abs. 1 BerlLadÖffG. Zusätzlich dürfen einzelne Verkaufsstellen an zwei Sonntagen aus besonderem Anlass öffnen (Anzeige beim Bezirksamt, § 6 Abs. 2) – keine stadtweite Liste. Für 2027 noch keine Allgemeinverfügung veröffentlicht."
+},
+{
+"id": "bielefeld",
+"name": "Bielefeld",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-12",
+"anlass": "Straßenkunstfestival Hut ab! (1. Sonntag im April = Ostersonntag, daher Folgesonntag)",
+"bereich": "Stadtbezirk Mitte (Innenstadt, Anlagen 4.1.1/4.1.2)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-19",
+"anlass": "Heeper Frühling",
+"bereich": "Stadtbezirk Heepen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-07",
+"anlass": "Leinewebermarkt",
+"bereich": "Stadtbezirk Mitte (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Heeper Sommer",
+"bereich": "Stadtbezirk Heepen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Sennestadtfest",
+"bereich": "Stadtbezirk Sennestadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-30",
+"anlass": "Schweinemarkt",
+"bereich": "Stadtbezirk Brackwede",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-06",
+"anlass": "Heeper Ting",
+"bereich": "Stadtbezirk Heepen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Jürmker Herbstmarkt",
+"bereich": "Stadtbezirk Jöllenbeck",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Schildescher Stiftsmarkt",
+"bereich": "Stadtbezirk Schildesche",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Glückstalertage",
+"bereich": "Stadtbezirk Brackwede",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Adventsmarkt (2. Advent)",
+"bereich": "Stadtbezirk Brackwede",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Adventsmarkt (2. Advent)",
+"bereich": "Stadtbezirk Heepen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Weihnachtsmarkt (3. Advent)",
+"bereich": "Stadtbezirk Mitte (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-04-04",
+"anlass": "Straßenkunstfestival Hut ab!",
+"bereich": "Stadtbezirk Mitte (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-04-18",
+"anlass": "Heeper Frühling",
+"bereich": "Stadtbezirk Heepen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-05-30",
+"anlass": "Leinewebermarkt",
+"bereich": "Stadtbezirk Mitte (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-06-13",
+"anlass": "Heeper Sommer",
+"bereich": "Stadtbezirk Heepen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-06-13",
+"anlass": "Sennestadtfest",
+"bereich": "Stadtbezirk Sennestadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-08-29",
+"anlass": "Schweinemarkt",
+"bereich": "Stadtbezirk Brackwede",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-09-05",
+"anlass": "Heeper Ting",
+"bereich": "Stadtbezirk Heepen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-09-19",
+"anlass": "Jürmker Herbstmarkt",
+"bereich": "Stadtbezirk Jöllenbeck",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-09-26",
+"anlass": "Schildescher Stiftsmarkt",
+"bereich": "Stadtbezirk Schildesche",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-10-10",
+"anlass": "Glückstalertage",
+"bereich": "Stadtbezirk Brackwede",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-12-05",
+"anlass": "Adventsmarkt (2. Advent)",
+"bereich": "Stadtbezirk Brackwede",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-12-05",
+"anlass": "Adventsmarkt (2. Advent)",
+"bereich": "Stadtbezirk Heepen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-12-12",
+"anlass": "Weihnachtsmarkt (3. Advent)",
+"bereich": "Stadtbezirk Mitte (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen vom 29.09.2018 in der Fassung vom 02.11.2023 (Ortsrecht III-23, gültig bis 31.12.2028)",
+"herausgeber": "Stadt Bielefeld",
+"art": "Verordnung",
+"url": "https://www.bielefeld.de/sites/default/files/datei/2024/III-23-OBVO-Sonn-u.-Feiertage-Internet.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffene Sonn- und Feiertage (Seite des Ordnungsamts)",
+"herausgeber": "Stadt Bielefeld",
+"art": "Stadtseite",
+"url": "https://www.bielefeld.de/verkaufsoffen",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Dauerverordnung legt die Termine überwiegend als Regel fest (z. B. 2. Advent, 1. Sonntag im April); die Daten sind daraus abgeleitet, nur der Leinewebermarkt ist mit festen Daten genannt. Fällt ein Termin auf Ostersonntag, Pfingstsonntag, 1. Mai oder 3. Oktober, gilt der folgende Sonntag (§ 2) – daher Hut ab! 2026 am 12.04. statt am Ostersonntag 05.04. Die Stadtseite nennt Jöllenbeck nicht mehr, die geltende Verordnung (Fassung 2023) führt den Jürmker Herbstmarkt aber weiter."
+},
+{
+"id": "bochum",
+"name": "Bochum",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-05-31",
+"anlass": "Food-Truck-Festival „Hüftgold“",
+"bereich": "Stadtbezirk Südwest, Teilbereich Bochum-Linden",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Fest „Bänke raus“",
+"bereich": "Stadtbezirk Ost, Teilbereich Bochum-Langendreer",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Sommerfest",
+"bereich": "Stadtbezirk Wattenscheid, Teilbereich Bochum-Wattenscheid",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-06",
+"anlass": "Weinfest",
+"bereich": "Stadtbezirk Wattenscheid, Teilbereich Bochum-Wattenscheid",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-13",
+"anlass": "Musiksommer",
+"bereich": "Stadtbezirk Mitte, Teilbereich Bochum-Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-20",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Stadtbezirk Mitte, Teilbereich Bochum-Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt der Stadt Bochum, Ausgabe 19/2026 vom 18. Mai 2026: Nr. 52/26 – Ordnungsbehördliche Verordnungen über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen in den Stadtbezirken Ost (Langendreer), Wattenscheid und Südwest (Linden) vom 09.05.2026",
+"herausgeber": "Stadt Bochum",
+"art": "Amtsblatt",
+"url": "https://www.bochum.de/C125830C0038F229/vwContentByKey/W2DU47ZW196BOCMDE/$FILE/amtsblatt_19_2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtsblatt der Stadt Bochum, Ausgabe 33/2026 vom 17. August 2026: Nr. 85/26 und 86/26 – Ordnungsbehördliche Verordnungen über das Offenhalten von Verkaufsstellen (Wattenscheid 06.09.2026; Innenstadt 13.09. und 20.12.2026) vom 10.08.2026",
+"herausgeber": "Stadt Bochum",
+"art": "Amtsblatt",
+"url": "https://www.bochum.de/C125830C0038F229/vwContentByKey/W2DWXD3S777BOCMDE/$FILE/amtsblatt_33_2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Je Stadtbezirk eine eigene Verordnung; die Verordnungsseiten sind im Amtsblatt als Scan eingebunden (per Texterkennung gelesen). Alle Amtsblatt-Ausgaben 1-43/2026 durchsucht. Eine weitere Verordnung für den Stadtbezirk Südwest (Linden) stand auf der Tagesordnung des Rates vom 18.06.2026, wurde aber bis Ausgabe 43/2026 nicht im Amtsblatt verkündet und ist daher nicht aufgeführt. Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "bonn",
+"name": "Bonn",
+"land": "NW",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt der Bundesstadt Bonn – Übersicht der Ausgaben 2026",
+"herausgeber": "Bundesstadt Bonn",
+"art": "Amtsblatt",
+"url": "https://www.bonn.de/amtsblatt",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Amtsblatt-Ausgaben Nr. 1-9/2026 gelesen: keine Verordnung über das Offenhalten von Verkaufsstellen. Die Ausgaben Nr. 10-47/2026 und die Pressemitteilungen von bonn.de waren am 29.10.2026 wegen einer Browser-Sicherheitsprüfung des Servers nicht abrufbar. In den Vorjahren beschloss der Rat jeweils im Sommer Sonntagsöffnungen zu „Bonn-Fest“ und „Bonn leuchtet“ (Innenstadt); für 2026 konnte die Verordnung nicht eingesehen werden, daher keine Termine aufgeführt."
+},
+{
+"id": "bottrop",
+"name": "Bottrop",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-19",
+"anlass": "Pferdemarkt",
+"bereich": "Ortsteil Bottrop-Stadtmitte (Teilbereich laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-31",
+"anlass": "Kirchhellener Maifest",
+"bereich": "Ortsteil Bottrop-Kirchhellen (Teilbereich laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtliche Bekanntmachung 2026/019: Verordnung über das Offenhalten von Verkaufsstellen im Ortsteil Bottrop-Stadtmitte im Zusammenhang mit dem Pferdemarkt am Sonntag, den 19. April 2026, vom 12.03.2026",
+"herausgeber": "Stadt Bottrop",
+"art": "Verordnung",
+"url": "https://www.bottrop.de/rathaus/bekanntmachungen/artikel-ab-2026/artikel-03-2026/2026-019.php",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtliche Bekanntmachung 2026/020: Verordnung über das Offenhalten von Verkaufsstellen im Ortsteil Bottrop-Kirchhellen im Zusammenhang mit dem Kirchhellener Maifest am Sonntag, den 31. Mai 2026, vom 12.03.2026",
+"herausgeber": "Stadt Bottrop",
+"art": "Verordnung",
+"url": "https://www.bottrop.de/rathaus/bekanntmachungen/artikel-ab-2026/artikel-03-2026/2026-020.php",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Je Sonntag eine eigene Verordnung (Ratsbeschluss vom 03.03.2026). Alle amtlichen Bekanntmachungen 2026 (bis Nr. 2026/060) durchgesehen: keine weiteren Verordnungen für 2026 verkündet (2025 gab es zusätzlich Termine zu Stadtfest, Michaelismarkt, Wintertreff und Advent). Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "braunschweig",
+"name": "Braunschweig",
+"land": "NI",
+"termine": [
+{
+"datum": "2026-04-26",
+"anlass": "Stadtfrühling (Mobilitätsmesse und Frühlingsmode)",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Tag der Niedersachsen",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "trendsporterlebnis",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "mummegenussmeile",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "2026: Vier Innenstadtveranstaltungen mit verkaufsoffenem Sonntag (Pressemitteilung vom 18. März 2026)",
+"herausgeber": "Braunschweig Stadtmarketing GmbH (städtische Gesellschaft, braunschweig.de)",
+"art": "Stadtmarketing",
+"url": "https://www.braunschweig.de/politik_verwaltung/fb_institutionen/staedtische_gesellschaften/bsmportal/presseportal-presseinfos-2026/veranstaltungswochenenden-mit-verkaufsoffenem-sonntag.php",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Innenstadtportal: Verkaufsoffene Sonntage",
+"herausgeber": "Stadt Braunschweig / Braunschweig Stadtmarketing GmbH",
+"art": "Stadtmarketing",
+"url": "https://www.braunschweig.de/leben/innenstadt/veranstaltungen/verkaufsoffene-sonntage.php",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Sonntagsfreigabe selbst (Verordnung/Allgemeinverfügung) wurde online nicht gefunden; Termine laut städtischer Stadtmarketing-Gesellschaft. Für 2027 noch keine Termine veröffentlicht.",
+"en": "Brunswick"
+},
+{
+"id": "bremen",
+"name": "Bremen",
+"land": "HB",
+"termine": [
+{
+"datum": "2026-03-29",
+"anlass": null,
+"bereich": "Ortsteile Altstadt, Bahnhofsvorstadt, Ostertor, Steintor und Fesenfeld sowie Am Schwarzen Meer und Hamburger Straße (zwischen Sankt-Jürgen-Straße und Verdener Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": null,
+"bereich": "Ortsteil Osterholz",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": null,
+"bereich": "Ortsteil Vegesack und Straße Zum Alten Speicher",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-17",
+"anlass": null,
+"bereich": "Ortsteil Borgfeld",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-07",
+"anlass": null,
+"bereich": "Stadtteil Gröpelingen, Ortsteile Industriehäfen und Überseestadt, Straße Auf den Delben sowie Borgwardstraße, Bergfeldstraße, Fritz-Thiele-Straße, Ernst-Buchholz-Straße und Steinsetzerstraße",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": null,
+"bereich": "Stadtteil Findorff",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": null,
+"bereich": "Ortsteil Osterholz",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": null,
+"bereich": "Ortsteil Vegesack und Straße Zum Alten Speicher",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": null,
+"bereich": "Ortsteile Altstadt, Bahnhofsvorstadt, Ostertor, Steintor und Fesenfeld sowie Am Schwarzen Meer und Hamburger Straße (zwischen Sankt-Jürgen-Straße und Verdener Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-01",
+"anlass": null,
+"bereich": "Ortsteile Altstadt, Bahnhofsvorstadt, Ostertor, Steintor und Fesenfeld sowie Am Schwarzen Meer und Hamburger Straße (zwischen Sankt-Jürgen-Straße und Verdener Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": null,
+"bereich": "Stadtteil Gröpelingen, Ortsteile Industriehäfen und Überseestadt, Straße Auf den Delben",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über abweichende Öffnungszeiten von Verkaufsstellen an Sonntagen in der Stadtgemeinde Bremen für das Jahr 2026 vom 16. Dezember 2025 (Brem.GBl. 2025 Nr. 157, verkündet am 18.12.2025)",
+"herausgeber": "Senat der Freien Hansestadt Bremen",
+"art": "Verordnung",
+"url": "https://www.gesetzblatt.bremen.de/fastmedia/218/2025_12_18_GBl_Nr_0157_signed.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Verordnung des Senats nennt keine Anlässe. Die Verordnung für 2027 wird üblicherweise im Dezember verkündet und war am 29.10.2026 noch nicht veröffentlicht."
+},
+{
+"id": "bremerhaven",
+"name": "Bremerhaven",
+"land": "HB",
+"termine": [
+{
+"datum": "2026-01-04",
+"anlass": "Prosit Neujahr",
+"bereich": "Stadtteile Wulsdorf und Fischereihafen",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-12",
+"anlass": "Zweirad- und Freizeitmesse",
+"bereich": "Stadtteile Wulsdorf und Fischereihafen",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": "Blütenfest",
+"bereich": "Stadtteil Geestemünde",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-07",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-06-07",
+"anlass": "Bremerhavener Bürgerbummel und Drachenfest",
+"bereich": "Stadtteil Mitte",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-28",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-07-05",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-07-12",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-07-19",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-07-26",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-08-02",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-08-09",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-08-16",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-08-23",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-08-30",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-06",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-06",
+"anlass": "Bremerhavener Weinfest",
+"bereich": "Stadtteil Mitte",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-13",
+"anlass": "6. Bremerhavener Energie- und Klimastadttag",
+"bereich": "Stadtteile Wulsdorf und Fischereihafen",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-27",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-27",
+"anlass": "Herbstfest",
+"bereich": "Stadtteil Geestemünde",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-04",
+"anlass": "Goldener Oktober",
+"bereich": "Stadtteil Mitte",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-18",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-25",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-01",
+"anlass": "Bauernmarkt",
+"bereich": "Stadtteile Wulsdorf und Fischereihafen",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Ausflugsort „Havenwelten Bremerhaven“ (§ 9a BremLadSchlG, nur touristisch geprägte Sortimente)",
+"bereich": "Gebiet zwischen Alter Hafen, Museumshafen und Weser",
+"zeit": "12-17 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-08",
+"anlass": "Laternenfest mit Lichtermeer",
+"bereich": "Stadtteil Mitte",
+"zeit": "12-17 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven vom 12. November 2025 (Brem.GBl. 2025 Nr. 125, verkündet am 26.11.2025)",
+"herausgeber": "Magistrat der Stadt Bremerhaven",
+"art": "Verordnung",
+"url": "https://www.gesetzblatt.bremen.de/fastmedia/218/2025_11_26_GBl_Nr_0125_signed.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verordnung über den Ladenschluss im Gebiet zwischen Alter Hafen, Museumshafen und Weser in der Stadt Bremerhaven vom 1. Juni 2026 bis 31. Dezember 2026 vom 6. Mai 2026 (Brem.GBl. 2026 Nr. 53)",
+"herausgeber": "Magistrat der Stadt Bremerhaven",
+"art": "Verordnung",
+"url": "https://www.gesetzblatt.bremen.de/fastmedia/218/2026_05_12_GBl_Nr_0053_signed.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Zusätzlich zu den zehn stadtteilbezogenen Sonntagen gilt für die Havenwelten eine Ausflugsort-Regelung (§ 9a BremLadSchlG) mit 20 Sonntagen, beschränkt auf bestimmte Warengruppen. Die Verordnung für 2027 war am 29.10.2026 noch nicht veröffentlicht (Vorjahr: Beschluss im November)."
+},
+{
+"id": "chemnitz",
+"name": "Chemnitz",
+"land": "SN",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "chemnitz.de antwortet auf automatisierte Abrufe mit 403 (auch über WebFetch); Amtsblatt und Verordnung konnten nicht gelesen werden. Keine Termine übernommen."
+},
+{
+"id": "cottbus",
+"name": "Cottbus",
+"land": "BB",
+"termine": [
+{
+"datum": "2026-01-25",
+"anlass": "Handwerkermesse",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-12",
+"anlass": "Ostern bei den Sorben; 19. Lausitzer Walei-Meisterschaft",
+"bereich": "Ortsteil Groß Gaglow",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-09",
+"anlass": "Fantasy-Festival",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Töpfermarkt Cottbus",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": "Lausitzer Herbstmarkt",
+"bereich": "Ortsteil Stadtmitte",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Ehrenamtsveranstaltung",
+"bereich": "Ortsteil Willmersdorf",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Cottbuser Weihnachtsmarkt der tausend Sterne",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-20",
+"anlass": "Cottbuser Weihnachtsmarkt der tausend Sterne",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-20 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung der Stadt Cottbus/Chóśebuz über die Öffnung von Verkaufsstellen an Sonn- oder Feiertagen im Jahr 2026 (Amtsblatt Nr. 1/2026)",
+"herausgeber": "Stadt Cottbus/Chóśebuz",
+"art": "Amtsblatt",
+"url": "https://cottbus.de/amtsblaetter/Amtsblatt-01-2026-vom-24.01.2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Zusätzlich § 3: Ausflugs- und Erholungsbereiche (innerer Ring, Branitzer Park u. a.) mit beschränktem Sortiment an Sonn- und Feiertagen 29.03.–15.11.2026, 11-19 Uhr (nicht als Termine aufgeführt). Verordnung 2027 bis Amtsblatt 18/2026 (10.10.2026) noch nicht veröffentlicht; 2025 erschien sie im Dezember."
+},
+{
+"id": "darmstadt",
+"name": "Darmstadt",
+"land": "HE",
+"termine": [
+{
+"datum": "2026-09-06",
+"anlass": "Darmstädter Weinfest",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Attraktives Cityprogramm und verkaufsoffener Sonntag zum Darmstädter Weinfest vom 3. bis 6. September",
+"herausgeber": "Wissenschaftsstadt Darmstadt",
+"art": "Pressemitteilung",
+"url": "https://www.darmstadt.de/presseportal/pressemitteilungen/einzelansicht/attraktives-cityprogramm-und-verkaufsoffener-sonntag-zum-darmstaedter-weinfest-vom-3-bis-6-september",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Nur dieser Termin 2026 in einer Pressemitteilung der Stadt gefunden (Suche auf darmstadt.de); keine Freigabe nach § 6 HLöG online gefunden, weitere Termine 2026 möglich. 2027 noch nicht veröffentlicht."
+},
+{
+"id": "dortmund",
+"name": "Dortmund",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-19",
+"anlass": "Hörder Frühling",
+"bereich": "Stadtbezirk Hörde (Teilbereiche um Platz an der Schlanken Mathilde, Hermannstraße, Hörder Rathausstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-19",
+"anlass": "E-Bike Festival",
+"bereich": "Stadtbezirk Innenstadt-West (innerhalb des Wallrings)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": "Aplerbecker Künstlermarkt",
+"bereich": "Stadtbezirk Aplerbeck (Marktplatz / Köln-Berliner-Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-30",
+"anlass": "Straßenfest, Radrennen und Tag der Vereine",
+"bereich": "Stadtbezirk Hombruch (Harkortstraße inkl. Marktplatz)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-04",
+"anlass": "Hörder Entenmarkt",
+"bereich": "Stadtbezirk Hörde (Teilbereiche)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-11-08",
+"anlass": "Hansemarkt",
+"bereich": "Stadtbezirk Innenstadt-West (innerhalb des Wallrings)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-11-08",
+"anlass": "Martinsmarkt",
+"bereich": "Stadtbezirk Lütgendortmund (Limbecker Straße u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen in den Stadtbezirken Hörde und Innenstadt-West am 19.04.2026 und Aplerbeck am 03.05.2026 vom 27.03.2026 (Amtsblatt Nr. 13/2026)",
+"herausgeber": "Stadt Dortmund",
+"art": "Amtsblatt",
+"url": "https://www.dortmund.de/dortmund/projekte/rathaus/publikationen/downloads/dobeka-13-2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen im Stadtbezirk Hombruch am 30.08.2026 vom 09.07.2026 (Amtsblatt Nr. 28/2026)",
+"herausgeber": "Stadt Dortmund",
+"art": "Amtsblatt",
+"url": "https://www.dortmund.de/dortmund/projekte/rathaus/publikationen/downloads/dobeka-28-2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen in Hörde am 04.10.2026 sowie Lütgendortmund und Innenstadt-West am 08.11.2026 vom 02.10.2026 (Amtsblatt Nr. 39/2026)",
+"herausgeber": "Stadt Dortmund",
+"art": "Amtsblatt",
+"url": "https://www.dortmund.de/dortmund/projekte/rathaus/publikationen/downloads/dobeka-39-2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Stadt Dortmund plant im nächsten Jahr sieben verkaufsoffene Sonntage (Pressemitteilung vom 05.09.2025)",
+"herausgeber": "Stadt Dortmund",
+"art": "Pressemitteilung",
+"url": "https://www.dortmund.de/newsroom/presse-mitteilungen/stadt-dortmund-plant-im-naechsten-jahr-sieben-verkaufsoffene-sonntage.html",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Dortmund erlässt je Termin eine eigene Verordnung im Amtsblatt (Ausgaben 2026 Nr. 1-42 durchsucht). Die Planung vom 05.09.2025 nannte zusätzlich 30.08. Lütgendortmund, 06.09. Aplerbeck/Mengede/Hombruch und 06.12. City (Weihnachtsmarkt); dafür wurde keine Verordnung gefunden, für den 06.12.2026 steht sie noch aus. 2027 noch nicht veröffentlicht."
+},
+{
+"id": "dresden",
+"name": "Dresden",
+"land": "SN",
+"termine": [
+{
+"datum": "2026-06-07",
+"anlass": "Stadtteilfest »sankt pieschen«",
+"bereich": "Stadtteil Pieschen-Süd (Oschatzer Str., Torgauer Str., Bürgerstr., Konkordienstr.)",
+"zeit": "12-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-06-28",
+"anlass": "Elbhangfest",
+"bereich": "Stadtbezirk Loschwitz (Körnerplatz, Pillnitzer Landstraße u. a. bis Schloss Pillnitz)",
+"zeit": "12-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-04",
+"anlass": "Familienfest Goldener Reiter",
+"bereich": "Stadtteil Innere Neustadt (Königstraße, Jorge-Gomondai-Platz, Albertstraße, Köpckestraße, Große Meißner Straße)",
+"zeit": "12-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-29",
+"anlass": "592. Dresdner Striezelmarkt und weitere Weihnachtsmärkte in Altstadt und Neustadt",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "12-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "592. Dresdner Striezelmarkt und weitere Weihnachtsmärkte in Altstadt und Neustadt",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "12-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2026 vom 29. Januar 2026 (Dresdner Amtsblatt Nr. e07-02-2026 vom 5. Februar 2026)",
+"herausgeber": "Landeshauptstadt Dresden",
+"art": "Verordnung",
+"url": "https://www.dresden.de/media/pdf/satzungen/Verordnung-Offenhalten-der-Verkaufsstellen-aus-besonderem-Anlass-2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus Anlass besonderer regionaler Ereignisse im Jahr 2026 vom 29. Januar 2026 (Dresdner Amtsblatt Nr. e08-02-2026 vom 5. Februar 2026)",
+"herausgeber": "Landeshauptstadt Dresden",
+"art": "Verordnung",
+"url": "https://www.dresden.de/media/pdf/satzungen/Verordnung-Offenhalten-aus-besonderem-regionalen-Anlass-2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Adventssonntage gelten für alle Verkaufsstellen im Stadtgebiet; die drei regionalen Termine nur in den genannten Straßenzügen. Für 2027 noch keine Verordnung veröffentlicht (Beschluss üblicherweise Anfang des Jahres)."
+},
+{
+"id": "duisburg",
+"name": "Duisburg",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-26",
+"anlass": "Frühlingsfest",
+"bereich": "Bezirk Mitte (Duisburger City)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-17",
+"anlass": "Traditionsveranstaltung „673 Jahre Neumühl“",
+"bereich": "Bezirk Hamborn, Ortsteil Neumühl",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Homberger Brunnenfest",
+"bereich": "Bezirk Homberg/Ruhrort/Baerl, Ortsteil Alt-Homberg",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Meidericher Sommerfest",
+"bereich": "Bezirk Meiderich/Beeck, Ortsteil Meiderich",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Hochemmericher Kirmes",
+"bereich": "Bezirk Rheinhausen, Ortsteil Hochemmerich",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Neumühler Revierfest",
+"bereich": "Bezirk Hamborn, Ortsteil Neumühl",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Automesse „Duisburg in Lack und Chrom“",
+"bereich": "Bezirk Mitte (Duisburger City)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-25",
+"anlass": "Mystisches Neumühl mit Mittelaltermarkt",
+"bereich": "Bezirk Hamborn, Ortsteil Neumühl",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-25",
+"anlass": "Kürbisfest",
+"bereich": "Bezirk Mitte (Duisburger City)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Meidericher Martinsmarkt",
+"bereich": "Bezirk Meiderich/Beeck, Ortsteil Meiderich",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-20",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Bezirk Mitte (Duisburger City)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt für die Stadt Duisburg Nr. 11 vom 31. März 2026: Ordnungsbehördliche Verordnung über besondere Öffnungszeiten für Verkaufsstellen im Jahr 2026 (Ratsbeschluss vom 24.02.2026)",
+"herausgeber": "Stadt Duisburg",
+"art": "Amtsblatt",
+"url": "https://www.duisburg.de/rathaus/stadtverwaltung/amtsblatt/Amtsblatt_Nr_11_2026-oZ.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Eine Verordnung für das ganze Jahr 2026 mit Straßenlisten je Bezirk. Amtsblätter Nr. 1-31/2026 durchsucht, keine Änderung gefunden. Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "dueren",
+"name": "Düren",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-03-29",
+"anlass": "Frühlingsfest mit Trödel- und Kindertrödelmarkt",
+"bereich": "Innenstadt (gemäß Einzelhandelskonzept)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Stadtfest",
+"bereich": "Innenstadt (gemäß Einzelhandelskonzept)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Herbstmarkt",
+"bereich": "Innenstadt (gemäß Einzelhandelskonzept)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-20",
+"anlass": "Weihnachtliches Düren mit Weihnachtsmarkt und Weihnachtskirmes",
+"bereich": "Innenstadt (gemäß Einzelhandelskonzept)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2026 vom 12.03.2026 (Amtsblatt der Stadt Düren Nr. 9 vom 26.03.2026)",
+"herausgeber": "Stadt Düren",
+"art": "Verordnung",
+"url": "https://www.dueren.de/assets/userfiles/newsletter/amtsblatt/2026/Amtsblatt_09_20260326.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Ratsbeschluss vom 25.02.2026. Für 2027 noch keine Verordnung veröffentlicht (Amtsblätter bis Nr. 28 vom 22.10.2026 geprüft)."
+},
+{
+"id": "duesseldorf",
+"name": "Düsseldorf",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-03-22",
+"anlass": "Ostermarkt",
+"bereich": "Stadtteil Eller (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-10",
+"anlass": "Messe Interpack",
+"bereich": "Innenstadt (Stadtmitte, Altstadt und Carlstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-10",
+"anlass": "Maimarkt",
+"bereich": "Stadtteil Benrath (Marktplatz, Hauptstraße und angrenzende Straßen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-30",
+"anlass": "Luegalleefest",
+"bereich": "Stadtteil Oberkassel (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Kaiserswerther Kaiserfest bzw. Kartoffelfest",
+"bereich": "Stadtteil Kaiserswerth (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Gumbertstraßenfest",
+"bereich": "gesamter Stadtteil Eller",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Nordstraßenfest",
+"bereich": "Stadtteil Pempelfort (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Innenstadt (Stadtmitte, Altstadt und Carlstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Örtliche Weihnachtsmärkte",
+"bereich": "Stadtteile Benrath, Eller, Kaiserswerth, Oberkassel und Pempelfort (laut Lageplänen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Freigabe verkaufsoffener Sonntagnachmittage – Termine für 2026 (Ordnungsamt; Bekanntmachung im Düsseldorfer Amtsblatt vom 10.01.2026)",
+"herausgeber": "Landeshauptstadt Düsseldorf",
+"art": "Stadtseite",
+"url": "https://www.duesseldorf.de/ordnungsamt/gewerbe/vo-ladenschluss",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Ordnungsbehördliche Verordnungen am 10.01.2026 im Düsseldorfer Amtsblatt bekanntgemacht. Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "erfurt",
+"name": "Erfurt",
+"land": "TH",
+"termine": [
+{
+"datum": "2026-10-04",
+"anlass": "Erfurter Oktoberfest",
+"bereich": "Ortsteil Altstadt",
+"zeit": "12-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Erfurter Weihnachtsmarkt",
+"bereich": "Ortsteil Altstadt",
+"zeit": "12-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über das Offenhalten von Verkaufsstellen in der Landeshauptstadt Erfurt aus besonderem Anlass im Jahr 2026 vom 13.04.2026 (Amtsblatt Nr. 7 vom 29.04.2026)",
+"herausgeber": "Landeshauptstadt Erfurt",
+"art": "Amtsblatt",
+"url": "https://www.erfurt.de/mam/ef/service/mediathek/publikationen/amtsblatt/2026/07_abef_26_barrierefrei.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffener Sonntag (Amtsblatt Nr. 16/2026)",
+"herausgeber": "Landeshauptstadt Erfurt",
+"art": "Amtsblatt",
+"url": "https://www.erfurt.de/mam/ef/service/mediathek/publikationen/amtsblatt/2026/16_abef_26_barrierefrei.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Verordnung erlaubt drei Sonntage (21.06., 04.10., 06.12.). Laut Amtsblatt 16/2026 haben sich die Händler 2026 nur für zwei entschieden (04.10. und 06.12.); der 21.06. wurde nicht genutzt und steht deshalb nicht in der Liste. Für 2027 noch keine Verordnung."
+},
+{
+"id": "erlangen",
+"name": "Erlangen",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-04-12",
+"anlass": "Erlanger Frühlingsfest (erster Sonntag nach Ostersonntag)",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": "Erlanger Weihnachtsmärkte (letzter Sonntag im November)",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-04-04",
+"anlass": "Erlanger Frühlingsfest (erster Sonntag nach Ostersonntag)",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-11-28",
+"anlass": "Erlanger Weihnachtsmärkte (letzter Sonntag im November)",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung der Stadt Erlangen über die Festsetzung von verkaufsoffenen Sonntagen vom 26.02.2026 i. d. F. vom 24.09.2026 (Amtliche Seiten Nr. 6A vom 20.03.2026 und Nr. 20 vom 15.10.2026), Stadtrecht 110.50",
+"herausgeber": "Stadt Erlangen",
+"art": "Verordnung",
+"url": "https://erlangen.de/uwao-api/faila/files/bypath/Dokumente/Stadtrecht/110_50_verkaufsoffene_sonntage.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffene Sonntage (Stand 15.10.2026)",
+"herausgeber": "Stadt Erlangen",
+"art": "Stadtseite",
+"url": "https://erlangen.de/aktuelles/verkaufsoffener-sonntag",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Regel-Verordnung: erster Sonntag nach Ostern (dauerhaft) und letzter Sonntag im November (für 2026 und 2027); Daten daraus abgeleitet. Innenstadtbereich laut Lageplan."
+},
+{
+"id": "essen",
+"name": "Essen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-03-08",
+"anlass": "3. Essener Wintertraum",
+"bereich": "Essener Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-03-22",
+"anlass": "Holländischer Stoff- und Tuchmarkt",
+"bereich": "Stadtteil Werden",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-12",
+"anlass": "6. Retro Classic",
+"bereich": "Stadtteil Rüttenscheid",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-19",
+"anlass": "Frühlingsfest",
+"bereich": "Stadtteil Altenessen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-19",
+"anlass": "10. Kettwiger Frühlingsfest",
+"bereich": "Stadtteil Kettwig",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-19",
+"anlass": "25. Gilde der Marktschreier",
+"bereich": "Stadtteil Steele",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-10",
+"anlass": "28. Essen.Original",
+"bereich": "Essener Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-10",
+"anlass": "4. Kettwiger Weinfest",
+"bereich": "Stadtteil Kettwig",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-17",
+"anlass": "48. Steeler Weinfest",
+"bereich": "Stadtteil Steele",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "12. Rüttenscheider Kunstmeile",
+"bereich": "Stadtteil Rüttenscheid",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Werden swingt",
+"bereich": "Stadtteil Werden",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-07-05",
+"anlass": "27. Borbecker Weinfest mit dem 12. Borbecker Classic Day",
+"bereich": "Stadtteil Borbeck",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-06",
+"anlass": "43. Borbecker Marktfest",
+"bereich": "Stadtteil Borbeck",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-13",
+"anlass": "30. Brunnenfest",
+"bereich": "Stadtteil Kettwig",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-13",
+"anlass": "42. Sonnenblumenfest",
+"bereich": "Stadtteil Kupferdreh",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-20",
+"anlass": "Stadtteilfest mit Herbstkirmes",
+"bereich": "Stadtteil Altenessen",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-25",
+"anlass": "Eröffnung der Essener Lichtwochen",
+"bereich": "Essener Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-25",
+"anlass": "Kürbisfest",
+"bereich": "Stadtteil Kettwig",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-08",
+"anlass": "Eröffnung 50. Steeler Weihnachtsmarkt",
+"bereich": "Stadtteil Steele",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-29",
+"anlass": "Adventsmarkt",
+"bereich": "Stadtteil Altenessen",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-29",
+"anlass": "Borbecker Lichtwochen mit Weihnachtsmarkttag",
+"bereich": "Stadtteil Borbeck",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-29",
+"anlass": "Adventszauber",
+"bereich": "Stadtteil Kupferdreh",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-29",
+"anlass": "50. Steeler Weihnachtsmarkt",
+"bereich": "Stadtteil Steele",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-29",
+"anlass": "44. Werdener Weihnachtsmarkt",
+"bereich": "Stadtteil Werden",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-13",
+"anlass": "54. Internationaler Weihnachtsmarkt Essen",
+"bereich": "Essener Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-13",
+"anlass": "23. Wintermarkt",
+"bereich": "Stadtteil Rüttenscheid",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt der Stadt Essen, 7. Ausgabe 2026: Ordnungsbehördliche Verordnungen vom 17. Februar 2026 über die Freigabe verkaufsoffener Sonntage (Bekanntmachungen 34/2026 bis 45/2026)",
+"herausgeber": "Stadt Essen",
+"art": "Amtsblatt",
+"url": "https://amtsblatt.essen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWLfbUMnmHME7bQOPk7fA-Y",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtsblatt der Stadt Essen, 28. Ausgabe 2026: Ordnungsbehördliche Verordnungen vom 10. Juli 2026 über die Freigabe verkaufsoffener Sonntage (Bekanntmachungen 152/2026 bis 165/2026)",
+"herausgeber": "Stadt Essen",
+"art": "Amtsblatt",
+"url": "https://amtsblatt.essen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZco-tDOhi5bdkL8fVq0CG3A",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Je Sonntag und Stadtteil eine eigene Verordnung im Amtsblatt; Anlass und Öffnungszeit (13-18 Uhr) aus den einzelnen Bekanntmachungen (PDF) entnommen. Amtsblatt-Ausgaben 1-42/2026 durchsucht. Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "esslingen-am-neckar",
+"name": "Esslingen am Neckar",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-11-08",
+"anlass": "Esslinger Herbst",
+"bereich": "Innenstadt",
+"zeit": null,
+"quelle": 0
+},
+{
+"datum": "2027-04-04",
+"anlass": "Esslinger Frühling mit Gartentagen",
+"bereich": "Innenstadt",
+"zeit": null,
+"quelle": 0
+},
+{
+"datum": "2027-11-07",
+"anlass": "Esslinger Herbst",
+"bereich": "Innenstadt",
+"zeit": null,
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Veranstaltungskalender der Stadt Esslingen (Einträge Esslinger Herbst 08.11.2026 und 07.11.2027, Esslinger Frühling 03./04.04.2027; Veranstalter Citymanagement)",
+"herausgeber": "Stadt Esslingen am Neckar",
+"art": "Stadtseite",
+"url": "https://www.esslingen.de/site/Esslingen_Layout_2022/VXC/20307012/loadData/loadData.json?q=Herbst",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Einkaufen – zwei verkaufsoffene Sonntage jährlich (Esslinger Frühling, Esslinger Herbst)",
+"herausgeber": "Stadt Esslingen am Neckar",
+"art": "Stadtseite",
+"url": "https://www.esslingen.de/leben-und-lernen/einkaufen",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Satzung nicht online gefunden. Termine aus dem städtischen Veranstaltungskalender (Citymanagement). Die Ladenöffnungszeit wird dort nicht aktuell angegeben (Beschreibungstext noch vom Vorjahr), daher zeit null. Der Frühjahrstermin 2026 ist im Kalender nicht mehr abrufbar."
+},
+{
+"id": "flensburg",
+"name": "Flensburg",
+"land": "SH",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtliche Bekanntmachungen der Stadt Flensburg (Liste 2016-2026, ohne Stadtverordnung zur Sonntagsöffnung 2026)",
+"herausgeber": "Stadt Flensburg",
+"art": "Stadtseite",
+"url": "https://www.flensburg.de/Aktuelles/Amtliche-Bekanntmachungen/",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Stadtverordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonn- und Feiertagen vom 04.03.2025 (nur Kalenderjahr 2025, Referenz)",
+"herausgeber": "Stadt Flensburg",
+"art": "Verordnung",
+"url": "https://www.flensburg.de/loadDocument.phtml?FID=2306.16181.1&Ext=PDF",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "In den Amtlichen Bekanntmachungen (Stand 28.10.2026) ist für 2026 keine Stadtverordnung über verkaufsoffene Sonntage veröffentlicht; die letzte gilt nur für 2025 (04.05. Weinfest, 05.10. Laekkerschmecker, 09.11. Winterhygge, jeweils 12-17 Uhr). Für 2026 und 2027 keine amtliche Quelle gefunden."
+},
+{
+"id": "frankfurt-am-main",
+"name": "Frankfurt am Main",
+"land": "HE",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "Keine amtliche Festsetzung für 2026 gefunden: frankfurt.de (Ordnungsamt, Suche) verweigert den Abruf (HTTP 403); die IHK-Liste für Frankfurt ist leer. Verkaufsoffene Sonntage werden in Hessen einzeln nach § 6 HLöG genehmigt. Keine Termine übernommen.",
+"en": "Frankfurt"
+},
+{
+"id": "freiburg-im-breisgau",
+"name": "Freiburg im Breisgau",
+"land": "BW",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "Keine Satzung über verkaufsoffene Sonntage für 2026 gefunden: die Volltextsuche auf freiburg.de (»verkaufsoffen«, »verkaufsoffener Sonntag«, »Ladenöffnung«) liefert keinen Freiburger Termin. Keine Termine übernommen."
+},
+{
+"id": "fuerth",
+"name": "Fürth",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-10-04",
+"anlass": "Michaelis-Kirchweih",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Michaelis-Kirchweih (Erntedankfestzug)",
+"bereich": "Innenstadt und Teile der Südstadt bis Herrnstraße",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Michaelis-Kirchweih Fürth – Programm 2026 (Betreiber/verantwortlich: Stadt Fürth, Marktamt)",
+"herausgeber": "Stadt Fürth, Marktamt",
+"art": "Stadtseite",
+"url": "https://michaelis-kirchweih.de/programm-2026/",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Verordnung selbst war nicht abrufbar (fuerth.de verweigert den Abruf, HTTP 403; im Ortsrecht nur die VO Verkaufsoffene Nächte 33-13a gefunden). Termine aus dem Programm der städtischen Kirchweih-Seite. Ein in Portalen genannter Frühjahrssonntag (März) ließ sich amtlich nicht bestätigen und wurde nicht übernommen. Für 2027 nichts veröffentlicht."
+},
+{
+"id": "gelsenkirchen",
+"name": "Gelsenkirchen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-03-29",
+"anlass": "Blumen- und Gartenmarkt",
+"bereich": "Stadtteil Gelsenkirchen-Altstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-26",
+"anlass": "Frühlingsmarkt",
+"bereich": "Stadtteil Gelsenkirchen-Horst",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-31",
+"anlass": "Veranstaltung GEspaña",
+"bereich": "Stadtteil Gelsenkirchen-Altstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-28",
+"anlass": "Sommerfest",
+"bereich": "Stadtteil Gelsenkirchen-Horst",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Herbstmarkt",
+"bereich": "Stadtteil Gelsenkirchen-Horst",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": "Bauernmarkt",
+"bereich": "Stadtteil Gelsenkirchen-Altstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": "Horster Adventmarkt",
+"bereich": "Stadtteil Gelsenkirchen-Horst",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Stadtteil Gelsenkirchen-Altstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt der Stadt Gelsenkirchen Nr. 12 vom 27. März 2026: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen in Gelsenkirchen vom 16.03.2026 (Ratsbeschluss vom 19.02.2026)",
+"herausgeber": "Stadt Gelsenkirchen",
+"art": "Amtsblatt",
+"url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/16020-amtsblatt_12.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Eine Verordnung für 2026 mit Sonntagsöffnungen in Altstadt und Horst. Amtsblätter Nr. 1-42/2026 durchsucht, keine Änderung gefunden. Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "gera",
+"name": "Gera",
+"land": "TH",
+"termine": [
+{
+"datum": "2026-10-04",
+"anlass": "35. Geraer Höhlerfest",
+"bereich": "Innenstadt (in der Verordnung aufgeführte Straßen)",
+"zeit": "12-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "29. Geraer Märchenmarkt",
+"bereich": "Innenstadt (in der Verordnung aufgeführte Straßen)",
+"zeit": "12-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Rechtsverordnung der Stadt Gera über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass für das Jahr 2026 vom 22.09.2026 (Amtsblatt Nr. 67/26)",
+"herausgeber": "Stadt Gera",
+"art": "Amtsblatt",
+"url": "https://cms.gera.de/fileadmin/gera_de/Stadtverwaltung/1000/1020_Kommunikation_Stadtmarketing/Amtsblatt/2026/Amtsblatt_Nr_67_26.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Alle Amtsblätter 2026 durchsucht. Für 2027 noch keine Verordnung."
+},
+{
+"id": "giessen",
+"name": "Gießen",
+"land": "HE",
+"termine": [
+{
+"datum": "2026-05-03",
+"anlass": "Sport in der City 2026",
+"bereich": "Innenstadt (Seltersweg, Marktplatz, Neustadt u. a.)",
+"zeit": "12-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": "Krämermarkt 2026",
+"bereich": "Innenstadt (Seltersweg, Marktplatz, Neustadt u. a.)",
+"zeit": "12-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-27",
+"anlass": "Weihnachtsmarkt 2026",
+"bereich": "Innenstadt (Seltersweg, Marktplatz, Neustadt u. a.)",
+"zeit": "12-18 Uhr",
+"quelle": 2
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtliche Bekanntmachung: Freigabe der Öffnung von Verkaufsstellen gemäß § 6 HLöG – Sport in der City 2026 (03.05.2026)",
+"herausgeber": "Stadt Gießen",
+"art": "Allgemeinverfügung",
+"url": "https://www.giessen.de/media/custom/2874_13839_1.PDF",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtliche Bekanntmachung: Freigabe der Öffnung von Verkaufsstellen gemäß § 6 HLöG – Krämermarkt 2026 (04.10.2026)",
+"herausgeber": "Stadt Gießen",
+"art": "Allgemeinverfügung",
+"url": "https://www.giessen.de/media/custom/2874_15332_1.PDF",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtliche Bekanntmachung: Freigabe der Öffnung von Verkaufsstellen gemäß § 6 HLöG – Weihnachtsmarkt 2026 (27.12.2026)",
+"herausgeber": "Stadt Gießen",
+"art": "Allgemeinverfügung",
+"url": "https://www.giessen.de/media/custom/2874_15930_1.PDF",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Freigaben einzeln je Anlass nach § 6 HLöG. Für 2027 noch keine Freigabe veröffentlicht."
+},
+{
+"id": "goettingen",
+"name": "Göttingen",
+"land": "NI",
+"termine": [
+{
+"datum": "2026-04-19",
+"anlass": "Science goes City",
+"bereich": "Innenstadt (Bereich innerhalb der Wallanlage)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Pro City Gänseliesel-Fest",
+"bereich": "Innenstadt (Bereich innerhalb der Wallanlage)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Allgemeinverfügung zur Öffnung von Verkaufsstellen am Sonntag, 19. April 2026 vom 18.03.2026 (Amtsblatt der Stadt Göttingen Nr. 06 vom 26.03.2026)",
+"herausgeber": "Stadt Göttingen",
+"art": "Allgemeinverfügung",
+"url": "https://www.goettingen.de/downloads/datei/ODk4OTRmNDg2NjBhOTEzNUU4ZlRFaEVIbW5YRStVQitDRXMrZndBdUNIUVFvTjlOWkRSQ21CdzZ5eU1pRzdSUVVBbmViVURQSDJHc1J5ZjFRQ2F3enhMV2xPa3JpKzBxYU9OVzdEM3gzVE9UZVVyNjR4ZnpuUENFS3NZVXNmSUlJWUhzMnhmTUd6ME93Q00yNk5nb0dQVk85VSs2aU4yWTB0VzlZZz09",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Allgemeinverfügung zur Öffnung von Verkaufsstellen am Sonntag, den 27. September 2026 (Amtsblatt der Stadt Göttingen Nr. 23 vom 01.09.2026)",
+"herausgeber": "Stadt Göttingen",
+"art": "Allgemeinverfügung",
+"url": "https://www.goettingen.de/downloads/datei/NzUwZTk4NDczOTRjYzliOEMzeXJ2VzVWK1ptcmdXOER1OGxkTmJkS0dyNkYvWmozNEVqS3UwQWJEbTBDcVNsUGVpUXhFZWJjaXNiTXZGT1FteXo3QlNQMXprUFpqa3AzV2xlM3RBZWc2S0hPMEo3V2lSSDkrcmE5S1BESTRod01jQzVpVExxOHQwK2JOY2tvcWJkbEM1TlREOW44VVk0ZG8yMUtXdz09",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Jede Sonntagsöffnung wird einzeln per Allgemeinverfügung (§ 5 NLöffVZG) im Amtsblatt bekanntgemacht; Amtsblätter Nr. 01-31/2026 durchsucht. Weitere Termine 2026 könnten noch folgen. 2027 noch nicht veröffentlicht."
+},
+{
+"id": "guetersloh",
+"name": "Gütersloh",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-03-22",
+"anlass": "Gütersloher Frühling blüht auf",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": "Gütersloher Frühling in voller Blüte",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-27",
+"anlass": "Michaeliswoche",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2026-11-08",
+"anlass": "Gütersloher Herbst und Lesestadt Gütersloh",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 4
+},
+{
+"datum": "2026-11-29",
+"anlass": "Weihnachtsmarkt Isselhorst (1. Advent)",
+"bereich": "Ortsteil Isselhorst",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2027-03-21",
+"anlass": "Gütersloher Frühling blüht auf",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-05-02",
+"anlass": "Gütersloher Frühling in voller Blüte",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-09-26",
+"anlass": "Michaeliswoche",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-11-07",
+"anlass": "Gütersloher Herbst und Lesestadt Gütersloh",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 4
+},
+{
+"datum": "2027-11-28",
+"anlass": "Weihnachtsmarkt Isselhorst (1. Advent)",
+"bereich": "Ortsteil Isselhorst",
+"zeit": "13-18 Uhr",
+"quelle": 2
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über einen verkaufsoffenen Sonntag anlässlich der Veranstaltung „Gütersloher Frühling blüht auf“ vom 02.02.2024",
+"herausgeber": "Stadt Gütersloh",
+"art": "Verordnung",
+"url": "https://www.guetersloh.de/de-wAssets/docs/ortsrecht/Ordnungsbehoerdliche-Verordnung-Guetersloh-blueht-auf.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über einen verkaufsoffenen Sonntag anlässlich der Veranstaltung „Gütersloher Frühling in voller Blüte“ vom 02.02.2024",
+"herausgeber": "Stadt Gütersloh",
+"art": "Verordnung",
+"url": "https://www.guetersloh.de/de-wAssets/docs/ortsrecht/Ordnungsbehoerdliche-Verordnung-Guetersloh-in-voller-Bluete.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über verkaufsoffene Sonn- und Feiertage im Ortsteil Isselhorst vom 02.02.2024 (Amtsblatt vom 14.03.2024)",
+"herausgeber": "Stadt Gütersloh",
+"art": "Verordnung",
+"url": "https://www.guetersloh.de/de-wAssets/docs/ortsrecht/Ordnungsbehoerdliche-Verordnung-Isselhorst.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über einen verkaufsoffenen Sonntag anlässlich der Veranstaltung „Michaeliswoche“ vom 02.02.2024",
+"herausgeber": "Stadt Gütersloh",
+"art": "Verordnung",
+"url": "https://www.guetersloh.de/de-wAssets/docs/ortsrecht/OV-GT-Michaeliswoche.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über einen verkaufsoffenen Sonntag anlässlich der Veranstaltungen „Gütersloher Herbst“ und „Lesestadt Gütersloh“ vom 02.02.2024",
+"herausgeber": "Stadt Gütersloh",
+"art": "Verordnung",
+"url": "https://www.guetersloh.de/de-wAssets/docs/ortsrecht/VerordnungMartinssonntagLesestadt2019.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Fünf Verordnungen vom 02.02.2024 (gültig bis 31.12.2028) mit Regeltagen: 1. Sonntag nach Frühlingsanfang (Daten 22.03.2026 und 21.03.2027 in der Verordnung genannt), erster Sonntag im Mai, Sonntag vor Michaelis (29.09.), erster Sonntag im November (2026 wegen Allerheiligen der zweite), in Isselhorst Fronleichnam (Donnerstag, Feiertag) und 1. Advent. Die übrigen Daten sind aus diesen Regeln abgeleitet. Öffnung nur, wenn die Veranstaltung stattfindet. Die Öffnung in Isselhorst an Fronleichnam (Donnerstag, 04.06.2026 / 27.05.2027) ist ein Feiertag, kein Sonntag, und wurde deshalb nicht in die Liste aufgenommen."
+},
+{
+"id": "hagen",
+"name": "Hagen",
+"land": "NW",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt der Stadt Hagen Nr. 06/2026 vom 20.03.2026 (Tagesordnung der Ratssitzung, TOP 6.11 und 6.12: Ordnungsbehördliche Verordnungen über besondere Öffnungszeiten am 19.04.2026 und 27.09.2026 für den Stadtteil Hagen-Hohenlimburg)",
+"herausgeber": "Stadt Hagen",
+"art": "Amtsblatt",
+"url": "https://www.hagen.de/dateien/hagen-aktuell/amtsblatt/2026/06-20-03.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Alle 27 Amtsblatt-Ausgaben 2026 (bis 17.10.2026) und die Ausgaben 2025 durchsucht: Für 2026 wurde keine Verordnung über das Offenhalten von Verkaufsstellen verkündet. Der Rat hatte im März 2026 zwei Verordnungen für Hohenlimburg (19.04. und 27.09.2026) auf der Tagesordnung; eine Verkündung im Amtsblatt wurde nicht gefunden, daher keine Termine aufgeführt. 2025 gab es nur Einzelverordnungen für Hohenlimburg (25.05. und 28.09.2025)."
+},
+{
+"id": "halle-saale",
+"name": "Halle (Saale)",
+"land": "ST",
+"termine": [
+{
+"datum": "2026-09-27",
+"anlass": "Hallesches Salz- und Salinefest",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-11-08",
+"anlass": "Hallesches Lichterfest 2026",
+"bereich": "Innenstadt (innerhalb des Rings inkl. gesamter Leipziger Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Hallescher Weihnachtsmarkt 2026",
+"bereich": "Innenstadt (innerhalb des Rings inkl. gesamter Leipziger Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Allgemeinverfügung der Stadt Halle (Saale) über Ladenöffnungszeiten in der Innenstadt – Lichterfest 08.11.2026",
+"herausgeber": "Stadt Halle (Saale)",
+"art": "Allgemeinverfügung",
+"url": "https://halle.de/fileadmin/Binaries/Verwaltung/Stadtpolitik_und_Ortsrecht/Satzungen_und_Verordnungen/GB_OB/FB_Sicherheit/AV08112026_Ladenoeffnung_Lichterfest.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Allgemeinverfügung der Stadt Halle (Saale) über Ladenöffnungszeiten in der Innenstadt – Weihnachtsmarkt 13.12.2026",
+"herausgeber": "Stadt Halle (Saale)",
+"art": "Allgemeinverfügung",
+"url": "https://halle.de/fileadmin/Binaries/Verwaltung/Stadtpolitik_und_Ortsrecht/Satzungen_und_Verordnungen/GB_OB/FB_Sicherheit/AV13122026_Ladenoeffnung_Weihnachtsmarkt.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Pressemitteilung 15.09.2026: Mit der movemix-App kostenlos zum Salz- und Salinefest und zum verkaufsoffenen Sonntag",
+"herausgeber": "Stadt Halle (Saale)",
+"art": "Pressemitteilung",
+"url": "https://halle.de/verwaltung-stadtrat/presseportal/nachrichten/nachricht/mit-der-movemix-app-kostenlos-zum-salz-und-salinefest-und-zum-verkaufsoffenen-sonntag",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Allgemeinverfügungen nach § 7 LÖffZeitG LSA werden einzeln veröffentlicht und nach dem Termin von der Seite entfernt; frühere Termine 2026 (vor September) konnten amtlich nicht mehr nachgewiesen werden. Für 2027 nichts veröffentlicht."
+},
+{
+"id": "hamburg",
+"name": "Hamburg",
+"land": "HH",
+"termine": [
+{
+"datum": "2026-01-04",
+"anlass": "Motto „Sport und Gesundheit“",
+"bereich": "Innenstadt und weitere Stadtteile (nur in unmittelbarer Nähe freigegebener Veranstaltungen)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-03-29",
+"anlass": "Motto „Inklusion und Integration, Paralympics“",
+"bereich": "Innenstadt und weitere Stadtteile (nur in unmittelbarer Nähe freigegebener Veranstaltungen)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-27",
+"anlass": "Motto „Kinder, Jugend und Familie“",
+"bereich": "Innenstadt und weitere Stadtteile (nur in unmittelbarer Nähe freigegebener Veranstaltungen)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-08",
+"anlass": "Motto „Kultur“",
+"bereich": "Innenstadt/HafenCity sowie u. a. Altona-Altstadt/Ottensen, Osdorf, Bergedorf, Moorfleet, Eidelstedt, Eimsbüttel, Niendorf, Schnelsen, Billstedt, Hammerbrook, Barmbek-Süd, Uhlenhorst, Harburg, Bramfeld, Poppenbüttel, Wandsbek (jeweils freigegebene Straßenabschnitte)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-03-21",
+"anlass": "Motto „Sport und Gesundheit“",
+"bereich": "Innenstadt und weitere Stadtteile (nur in unmittelbarer Nähe freigegebener Veranstaltungen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-06-06",
+"anlass": "Motto „Inklusion und Integration“",
+"bereich": "Innenstadt und weitere Stadtteile (nur in unmittelbarer Nähe freigegebener Veranstaltungen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-09-26",
+"anlass": "Motto „Kinder, Jugend und Familie“",
+"bereich": "Innenstadt und weitere Stadtteile (nur in unmittelbarer Nähe freigegebener Veranstaltungen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-11-07",
+"anlass": "Motto „Kultur“",
+"bereich": "Innenstadt und weitere Stadtteile (nur in unmittelbarer Nähe freigegebener Veranstaltungen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffener Sonntag Hamburg 2026 und 2027 (Termine, Stadtteile und Veranstaltungen am 8. November 2026)",
+"herausgeber": "Freie und Hansestadt Hamburg (hamburg.de)",
+"art": "Stadtseite",
+"url": "https://www.hamburg.de/freizeit/shopping/verkaufsoffene-sonntage-hamburg-321768",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffene Sonntage in Hamburg – Termine 2026 mit den vom Senat vorgegebenen Mottos",
+"herausgeber": "Hamburg Tourismus GmbH",
+"art": "Stadtmarketing",
+"url": "https://www.hamburg-tourism.de/shoppen-geniessen/shoppen-in-hamburg/verkaufsoffene-sonntage",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Vier Sonntage pro Jahr mit vom Senat vorgegebenem Motto; geöffnet werden darf nach § 8 Abs. 1 Hamburgisches Ladenöffnungsgesetz nur in Verbindung mit einer Veranstaltung und in deren unmittelbarer Nähe, die freigegebenen Bereiche werden je Termin veröffentlicht. Die Stadtteil-Freigaben für die Termine 2027 stehen noch aus."
+},
+{
+"id": "hamm",
+"name": "Hamm",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-12",
+"anlass": "6. Hammer Mobilitätstag und Westfälische Hansetage",
+"bereich": "Stadtbezirk Hamm-Mitte (Innenstadt innerhalb Hafenstraße, Nordstraße, Wallring, Südring, Bahnlinie)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "9. Hammer GenussFest",
+"bereich": "Stadtbezirk Hamm-Mitte (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-25",
+"anlass": "Hamms Bunter Herbst",
+"bereich": "Stadtbezirk Hamm-Mitte (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Familien-Weihnacht",
+"bereich": "Stadtbezirk Hamm-Mitte (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen im Stadtbezirk Hamm-Mitte vom 29.01.2026 (Ratsbeschluss vom 09.12.2025)",
+"herausgeber": "Stadt Hamm",
+"art": "Verordnung",
+"url": "https://www.hamm.de/fileadmin/user_upload/Medienarchiv_neu/Dokumente/Bekanntmachungen/Verkaufsoffene_Sonntage_Stadtmitte.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffene Sonntage 2026 (Seite von IMPULS. Die Hammer Wirtschaftsagentur – Stadtmarketing, auf hamm.de)",
+"herausgeber": "Stadt Hamm / IMPULS Stadtmarketing",
+"art": "Stadtmarketing",
+"url": "https://www.hamm.de/sonderoeffnungen",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Der Rat hat am 09.12.2025 vier verkaufsoffene Sonntage 2026 für die Innenstadt beschlossen. Verordnungen für andere Stadtbezirke (z. B. Heessen, Bockum-Hövel) wurden auf hamm.de nicht gefunden; das Ratsinformationssystem ist per Browser-Prüfung gesperrt. 2027 noch nicht beschlossen (Ratsbeschluss üblicherweise im Dezember)."
+},
+{
+"id": "hanau",
+"name": "Hanau",
+"land": "HE",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "hanau.de: Bekanntmachungsseite zeigt nur aktuelle Einträge (ohne Freigabe), Sitemap und Suche ohne Treffer; keine offizielle Freigabe 2026 gefunden."
+},
+{
+"id": "hannover",
+"name": "Hannover",
+"land": "NI",
+"termine": [
+{
+"datum": "2026-11-08",
+"anlass": "Kunst & Kultur",
+"bereich": "Stadtteil Hainholz",
+"zeit": null,
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Hannover hilft! – St. Martin",
+"bereich": "Stadtteil Mitte",
+"zeit": null,
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffene Sonntage Hannover & Region 2026 – alle Termine",
+"herausgeber": "Hannover Marketing und Tourismus GmbH (visit-hannover.com, redaktionell verantwortlich für hannover.de)",
+"art": "Stadtmarketing",
+"url": "https://www.visit-hannover.com/News-und-Service/Verkaufsoffene-Sonntage-Hannover-2026",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Landeshauptstadt veröffentlicht die Sonntagsfreigaben nicht im Amtsblatt (ElenA-Ausgaben 1-43/2026 durchsucht, kein Treffer). Die offizielle Übersicht der HMTG nennt nur noch die kommenden Termine; frühere Termine 2026 (u. a. laut Presse 02.08. Regionsentdeckertag) sind dort nicht mehr aufgeführt und wurden nicht aus amtlicher Quelle belegt. Öffnungszeiten nicht angegeben. 2027 noch nicht veröffentlicht.",
+"en": "Hanover"
+},
+{
+"id": "heidelberg",
+"name": "Heidelberg",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-03-22",
+"anlass": "Frühlingsfest mit Sommertagszug (zweiter Sonntag vor Ostern)",
+"bereich": "Stadtteil Handschuhsheim",
+"zeit": null,
+"quelle": 0
+},
+{
+"datum": "2026-09-06",
+"anlass": "Fischerfest Neuenheim (Sonntag nach dem ersten Samstag im September)",
+"bereich": "Stadtteil Neuenheim",
+"zeit": null,
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Familienherbst (Sonntag nach dem letzten Samstag im September)",
+"bereich": "Altstadt, Bergheim, Neuenheim und Gewerbegebiet Rohrbach-Süd",
+"zeit": null,
+"quelle": 0
+},
+{
+"datum": "2027-03-14",
+"anlass": "Frühlingsfest mit Sommertagszug (zweiter Sonntag vor Ostern)",
+"bereich": "Stadtteil Handschuhsheim",
+"zeit": null,
+"quelle": 0
+},
+{
+"datum": "2027-09-05",
+"anlass": "Fischerfest Neuenheim (Sonntag nach dem ersten Samstag im September)",
+"bereich": "Stadtteil Neuenheim",
+"zeit": null,
+"quelle": 0
+},
+{
+"datum": "2027-09-26",
+"anlass": "Familienherbst (Sonntag nach dem letzten Samstag im September)",
+"bereich": "Altstadt, Bergheim, Neuenheim und Gewerbegebiet Rohrbach-Süd",
+"zeit": null,
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Gemeinderat legt drei feste verkaufsoffene Sonntage fest (21.02.2025) – Satzung zur Bestimmung von verkaufsoffenen Sonntagen in Heidelberg",
+"herausgeber": "Stadt Heidelberg",
+"art": "Pressemitteilung",
+"url": "https://www.heidelberg.de/7071_35285_35413_35429_5586786_5600016_5615059_5613667.html",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Sonntagsverkauf (Reisebedarf und Heidelberg-typische Waren) 2026",
+"herausgeber": "Stadt Heidelberg, Ordnungsamt",
+"art": "Stadtseite",
+"url": "https://www.heidelberg.de/HD/Rathaus/Sonntagsverkauf.html",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Dauer-Satzung seit 2025 mit festen Regeln; Daten 2026/2027 daraus abgeleitet (2025: 6.4., 7.9., 28.9. von der Stadt bestätigt). Uhrzeit in der Mitteilung nicht genannt. Daneben gilt für Reisebedarf und Heidelberg-typische Waren eine eigene Regelung (40 Sonn-/Feiertage; Adventssonntage 2026 auf Antrag 11–19 Uhr) – kein allgemeiner verkaufsoffener Sonntag."
+},
+{
+"id": "heilbronn",
+"name": "Heilbronn",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-03-15",
+"anlass": "Böckinger Seeräubertag",
+"bereich": "Böckingen (Neckargartacher Straße u. a. Straßenzüge)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-19",
+"anlass": "Magie der Stimmen",
+"bereich": "Bezirk Heilbronn (Innenstadt) und Im Neckargarten (Neckargartach)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Jazz und Einkauf",
+"bereich": "Bezirk Heilbronn, Neckargartacher Straße (Böckingen), Im Neckargarten (Neckargartach)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Satzung über die Freigabe von Ladenöffnungszeiten an Sonntagen im Jahr 2026 im Stadtgebiet Heilbronn vom 29.01.2026 (Stadtzeitung Nr. 5 vom 04.03.2026)",
+"herausgeber": "Stadt Heilbronn",
+"art": "Verordnung",
+"url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/stadtrecht/1_Oeffentliche_Sicherheit_und_Ordnung/1_7_Satzung_ueber_die_Freigabe_von_Ladenoeffnungszeiten.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Satzung für 2026; weitere Sonntage per Allgemeinverfügung möglich (§ 3), keine gefunden. Für 2027 noch keine Satzung veröffentlicht."
+},
+{
+"id": "herne",
+"name": "Herne",
+"land": "NW",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt der Stadt Herne (Archiv, Ausgaben 2025 und 2026 durchsucht)",
+"herausgeber": "Stadt Herne",
+"art": "Amtsblatt",
+"url": "https://www.herne.de/Rathaus/Buergerservice/Amtsblatt/",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "In allen 107 online verfügbaren Amtsblättern 2025/2026 der Stadt Herne findet sich keine Verordnung über das Offenhalten von Verkaufsstellen; auch das Herner Ortsrecht enthält keine. Das Ratsinformationssystem (ALLRIS) ist per Zugriffsprüfung gesperrt. Ohne amtliche Quelle werden keine Termine genannt."
+},
+{
+"id": "hildesheim",
+"name": "Hildesheim",
+"land": "NI",
+"termine": [
+{
+"datum": "2027-04-18",
+"anlass": "Ab in den Frühling!",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-09-19",
+"anlass": "Hildesheimer Herbstvergnügen",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "nicht-gefunden",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffene Sonntage / Late-Night-Shopping in Hildesheim",
+"herausgeber": "Hildesheim Marketing GmbH (hildesheim-tourismus.de)",
+"art": "Stadtmarketing",
+"url": "https://www.hildesheim-tourismus.de/vos",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Übersicht der städtischen Marketinggesellschaft nennt für den Rest von 2026 nur Late-Night-Shopping (30.10. und 27.11., kein Sonntag) und bereits die Sonntage 2027 (Freigabe durch die Stadt steht noch aus). Für die vergangenen Sonntage 2026 keine amtliche Veröffentlichung gefunden (Suche auf stadt-hildesheim.de, Amtsblatt Landkreis Hildesheim 2025/2026 ohne Treffer)."
+},
+{
+"id": "ingolstadt",
+"name": "Ingolstadt",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-05-31",
+"anlass": "Ingolstädter Pfingstvolksfest (Sonntag des Festes, der nicht Pfingstsonntag ist)",
+"bereich": "Altstadt (innerhalb Schlosslände, Westliche/Nördliche/Östliche Ringstraße, Frühlingstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-03",
+"anlass": "Tag der Deutschen Einheit (Feiertag, Samstag) anlässlich des Herbstvolksfestes",
+"bereich": "Altstadt (innerhalb Schlosslände, Westliche/Nördliche/Östliche Ringstraße, Frühlingstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung der Stadt Ingolstadt zur Freigabe von Verkaufszeiten außerhalb der gesetzlichen Ladenöffnungszeiten vom 30.10.2025 (Amtsblatt Nr. 48 vom 19.11.2025), gilt bis 31.12.2029",
+"herausgeber": "Stadt Ingolstadt",
+"art": "Verordnung",
+"url": "https://www.ingolstadt.de/output/download.php?fid=465.11000.1.PDF",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Volksfeste Ingolstadt – Bewerbungsdetails Pfingst- und Herbstfest (Pfingstvolksfest 22.–31. Mai 2026, Herbstvolksfest 25.09.–04.10.2026)",
+"herausgeber": "Stadt Ingolstadt, Kulturamt",
+"art": "Stadtseite",
+"url": "https://www.ingolstadt.de/loadDocument.phtml?FID=3052.11550.1&Ext=PDF",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Dauer-Verordnung (2025–2029): ein Sonntag des Pfingstvolksfestes (nicht Pfingstsonntag) und der 3. Oktober, sofern kein Sonntag. 2026: Pfingstvolksfest 22.–31.05., Sonntage 24.05. (Pfingstsonntag, ausgeschlossen) und 31.05.; der 3.10.2026 ist ein Samstag-Feiertag. 2027 fällt der 3.10. auf einen Sonntag (keine Öffnung); Termine des Pfingstvolksfestes 2027 noch nicht veröffentlicht."
+},
+{
+"id": "iserlohn",
+"name": "Iserlohn",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-03-22",
+"anlass": null,
+"bereich": "Iserlohner Innenstadt (Fußgängerzone)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": null,
+"bereich": "Iserlohner Innenstadt (Fußgängerzone)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-07-19",
+"anlass": null,
+"bereich": "Stadtteil Letmathe (Innenstadtbereich, Fußgängerzone Hagener Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-06",
+"anlass": null,
+"bereich": "Stadtteil Letmathe (Innenstadtbereich, Fußgängerzone Hagener Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-13",
+"anlass": null,
+"bereich": "Stadtteil Letmathe (Innenstadtbereich, Fußgängerzone Hagener Straße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung der Stadt Iserlohn über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Iserlohner Innenstadt vom 17.02.2026 (Amtliches Bekanntmachungsblatt des Märkischen Kreises Nr. 10/2026)",
+"herausgeber": "Stadt Iserlohn (verkündet im Amtsblatt des Märkischen Kreises)",
+"art": "Amtsblatt",
+"url": "https://www.maerkischer-kreis.de/fileadmin/user_upload/Downloads/Amtliche_Bekanntmachungen/2026/Amtliches_Nr._10.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass im Stadtteil Letmathe vom 05.05.2026",
+"herausgeber": "Stadt Iserlohn",
+"art": "Verordnung",
+"url": "https://www.iserlohn.de/fileadmin/user_upload/Dokumente/Aktuelles/32/obvo_verkaufsoffene_sonntage_letmathe_2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Verordnungen nennen keinen Anlass. Iserlohn erlässt für die Innenstadt jeweils einzelne Verordnungen (2025 z. B. erst im Oktober für den 1. Advent); eine Verordnung für weitere Innenstadt-Termine Ende 2026 war bis Amtsblatt Nr. 43/2026 (28.10.2026) nicht veröffentlicht. Für 2027 nichts veröffentlicht."
+},
+{
+"id": "jena",
+"name": "Jena",
+"land": "TH",
+"termine": [
+{
+"datum": "2026-05-17",
+"anlass": "Frühlingsmarkt",
+"bereich": "Ortsteil Jena-Zentrum",
+"zeit": "12-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Altstadtfest",
+"bereich": "Ortsteil Jena-Zentrum",
+"zeit": "12-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Ortsteil Jena-Zentrum",
+"zeit": "12-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung der kreisfreien Stadt Jena über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonntagen für das Jahr 2026 vom 19.03.2026 (Amtsblatt 12/26 vom 26.03.2026)",
+"herausgeber": "Stadt Jena",
+"art": "Amtsblatt",
+"url": "https://rathaus.jena.de/system/files/2026-03/12_26.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Amtsblätter bis Nr. 42/26 durchsucht. Für 2027 noch keine Verordnung."
+},
+{
+"id": "kaiserslautern",
+"name": "Kaiserslautern",
+"land": "RP",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Shopping am Sonntag in Kaiserslautern (ohne Termine)",
+"herausgeber": "Stadt Kaiserslautern",
+"art": "Stadtseite",
+"url": "https://www.kaiserslautern.de/tourismus_freizeit_kultur/einkaufen/verkaufsoffene_sonntage/index.html.de",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Keine Rechtsverordnung nach § 10 LadöffnG für 2026 auf kaiserslautern.de gefunden; die städtische Seite »Verkaufsoffene Sonntage« nennt nur die Öffnungszeit 13–18 Uhr, aber keine Termine. Ein in Portalen genannter Termin (18.10.2026) ist amtlich nicht belegt und wurde nicht übernommen."
+},
+{
+"id": "karlsruhe",
+"name": "Karlsruhe",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-04-26",
+"anlass": "Fest der Sinne",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-26",
+"anlass": "Durlach blüht auf",
+"bereich": "Stadtteil Durlach",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Mühlburger Kerwe",
+"bereich": "Stadtteil Mühlburg",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Durlacher Kerwe",
+"bereich": "Stadtteil Durlach",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Stadtfest",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Herbstmess'",
+"bereich": "Umfeld Messplatz/Durlacher Allee bis A5",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-04-25",
+"anlass": "Fest der Sinne",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-04-25",
+"anlass": "Durlach blüht auf",
+"bereich": "Stadtteil Durlach",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-09-12",
+"anlass": "Mühlburger Kerwe",
+"bereich": "Stadtteil Mühlburg",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-09-19",
+"anlass": "Durlacher Kerwe",
+"bereich": "Stadtteil Durlach",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-10-10",
+"anlass": "Stadtfest",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-11-07",
+"anlass": "Herbstmess'",
+"bereich": "Umfeld Messplatz/Durlacher Allee",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Satzung über verkaufsoffene Sonntage 2024–2026 vom 28. November 2023 (Online-Bekanntmachung vom 20. Dezember 2023), Karlsruher Stadtrecht 1/7.1",
+"herausgeber": "Stadt Karlsruhe",
+"art": "Satzung",
+"url": "https://www.karlsruhe.de/fileadmin/user_upload/01_Stadt_Rathaus/013_Verwaltung_und_Stadtpolitik/Stadtrecht/1_OEffentliche_Sicherheit_und_Ordnung/1-7-1_Verkaufsoffene_Sonntage.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffene Sonntage für die nächsten Jahre beschlossen (30. September 2026)",
+"herausgeber": "Stadt Karlsruhe, Presse- und Informationsamt",
+"art": "Pressemitteilung",
+"url": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/verkaufsoffene-sonntage-fuer-die-naechsten-jahre-beschlossen",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "2027–2029 vom Gemeinderat im September 2026 beschlossen (Pressemitteilung); die neue Satzung 2027–2029 war im Stadtrecht noch nicht abrufbar. 2029 zusätzlich 22.07.2029 (World Games)."
+},
+{
+"id": "kassel",
+"name": "Kassel",
+"land": "HE",
+"termine": [
+{
+"datum": "2026-11-01",
+"anlass": "Casseler Herbst-Freyheit",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffener Sonntag am 1. November 2026 – Casseler Herbst-Freyheit",
+"herausgeber": "Kassel Marketing GmbH (städtische Gesellschaft)",
+"art": "Stadtmarketing",
+"url": "https://www.casseler-freyheit.de/inhalte-herbst/inhaltsseiten/verkaufsoffener-sonntag.php",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ladenöffnungszeiten (Ordnungsamt): bis zu 4 Sonn- oder Feiertage aus Anlass von Märkten, Messen oder örtlichen Ereignissen",
+"herausgeber": "Stadt Kassel, Ordnungsamt",
+"art": "Stadtseite",
+"url": "https://www.kassel.de/service/produkte/kassel/ordnungsamt/ordnungs--und-aufsichtsangelegenheiten/ladenoeffnungszeiten_8965640.php",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Freigabe-Bescheid der Stadt nicht online gefunden; Termin von Kassel Marketing (städtische Gesellschaft). Weitere Sonntage 2026 (z. B. Frühlings-Freyheit) amtlich nicht belegt. Für 2027 nichts veröffentlicht."
+},
+{
+"id": "kiel",
+"name": "Kiel",
+"land": "SH",
+"termine": [
+{
+"datum": "2026-03-01",
+"anlass": "Kieler Umschlag",
+"bereich": "Bezirke Kieler Innenstadt, Südfriedhof/Hassee (Gewerbegebiete), Holtenauer Straße und Wik",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-26",
+"anlass": "Kiel blüht auf",
+"bereich": "Bezirke Kieler Innenstadt, Südfriedhof/Hassee (Gewerbegebiete), Holtenauer Straße und Wik",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-06",
+"anlass": "Leuchtturmfest Pries-Friedrichsort",
+"bereich": "Ortsteil Pries-Friedrichsort",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": "Bauern- und Regionalmarkt",
+"bereich": "Bezirke Kieler Innenstadt, Südfriedhof/Hassee (Gewerbegebiete), Holtenauer Straße und Wik",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-01",
+"anlass": "Kieler Lichtermeer",
+"bereich": "Bezirke Kieler Innenstadt, Südfriedhof/Hassee (Gewerbegebiete), Holtenauer Straße und Wik",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Stadtverordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonn- und Feiertagen für das Jahr 2026 vom 20.01.2026 (bekanntgemacht am 26.01.2026)",
+"herausgeber": "Landeshauptstadt Kiel",
+"art": "Verordnung",
+"url": "https://www.kiel.de/de/_data/ortsrecht_bekanntmachungen/root/download.php?typ=bm&fid=633db5d9b7a3c4b2f1b8084cd0b92ef9",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Verordnung für 2027 wird üblicherweise im Januar bekanntgemacht und lag am 29.10.2026 noch nicht vor."
+},
+{
+"id": "koblenz",
+"name": "Koblenz",
+"land": "RP",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "koblenz.de war am 29.10.2026 nicht erreichbar (Verbindung abgelehnt); keine Termine aus offizieller Quelle."
+},
+{
+"id": "konstanz",
+"name": "Konstanz",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-05-31",
+"anlass": "Internationale Bodenseewoche und Maritimer Markt",
+"bereich": "Hafenareal, Altstadt, Niederburg und Stadelhofen",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Bio Regional Markt",
+"bereich": "Hafenareal, Altstadt, Niederburg und Stadelhofen",
+"zeit": "12-17 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Allgemeinverfügung über die Durchführung eines verkaufsoffenen Sonntags in Konstanz am 31.05.2026",
+"herausgeber": "Stadt Konstanz",
+"art": "Allgemeinverfügung",
+"url": "https://www.konstanz.de/site/Konstanz/get/documents_E585966095/konstanz/Dateien/Service/%C3%B6ffentliche%20Bekanntmachungen/Allgemeinverf%C3%BCgung%20%C3%BCber%20die%20Durchf%C3%BChrung%20eines%20verkaufsoffenen%20Sonntags%20in%20Konstanz%20am%2031.05.2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Allgemeinverfügung über die Durchführung eines verkaufsoffenen Sonntags in Konstanz am 11.10.2026 (bekannt gemacht am 07.09.2026)",
+"herausgeber": "Stadt Konstanz",
+"art": "Allgemeinverfügung",
+"url": "https://www.konstanz.de/site/Konstanz/get/documents_E585966095/konstanz/Dateien/Service/%C3%B6ffentliche%20Bekanntmachungen/Allgemeinverf%C3%BCgung%20%C3%BCber%20die%20Durchf%C3%BChrung%20eines%20verkaufsoffenen%20Sonntags%20in%20Konstanz%20am%2011.10.2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Zwei Allgemeinverfügungen 2026 (gescannte PDFs, per OCR gelesen). Für 2027 noch nichts veröffentlicht."
+},
+{
+"id": "krefeld",
+"name": "Krefeld",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-26",
+"anlass": "Frühlingsfest",
+"bereich": "Krefeld-Uerdingen (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": "Op dä Maat",
+"bereich": "Krefeld-Innenstadt (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-17",
+"anlass": "Frühlingsfest",
+"bereich": "Krefeld-Hüls (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-07-12",
+"anlass": "Genuss-Festival",
+"bereich": "Krefeld-Innenstadt (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Fischeln Open",
+"bereich": "Krefeld-Fischeln (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Bottermaat",
+"bereich": "Krefeld-Hüls (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Krefeld pur",
+"bereich": "Krefeld-Innenstadt (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": "Erntedankfest",
+"bereich": "Krefeld-Innenstadt (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": "Herbstfest",
+"bereich": "Krefeld-Uerdingen (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": "Weihnachts- und Nikolausmarkt",
+"bereich": "Krefeld-Hüls (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": "Weihnachts- und Nikolausmarkt",
+"bereich": "Krefeld-Uerdingen (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Krefeld-Innenstadt (zentraler Versorgungsbereich)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Krefelder Amtsblatt Nr. 14 vom 2. April 2026: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass vom 18.03.2026 (Ratsbeschluss vom 12.02.2026)",
+"herausgeber": "Stadt Krefeld",
+"art": "Amtsblatt",
+"url": "https://www.krefeld.de/system/files/2026-04/amtsblatt_14_2026%20-%20ohne%20Namen.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Eine Verordnung für 2026; die Öffnung gilt jeweils für die zentralen Versorgungsbereiche laut Zentrenkonzept. Am 29.11.2026 nennt die Verordnung Hüls und Uerdingen gemeinsam (Weihnachts- und Nikolausmarkt). Amtsblätter Nr. 1-43/2026 durchsucht, keine Änderung gefunden. Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "koeln",
+"name": "Köln",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-26",
+"anlass": "Carrée Fest",
+"bereich": "Stadtteil Sülz-Klettenberg",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-31",
+"anlass": "Porzer Autofrühling",
+"bereich": "Stadtteil Porz-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-14",
+"anlass": "Lindenthaler Familien- und Veedelsfest",
+"bereich": "Stadtteil Lindenthal",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-07-12",
+"anlass": "Rodenkirchener Sommertage",
+"bereich": "Stadtteil Rodenkirchen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-02",
+"anlass": "Familien- und Stadtteilfest",
+"bereich": "Stadtteil Deutz",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-30",
+"anlass": "Lindenthaler Sommerfest",
+"bereich": "Stadtteil Lindenthal",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Neuehrenfest",
+"bereich": "Stadtteil Neuehrenfeld",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Musikalischer Herbst",
+"bereich": "Stadtteil Porz-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Dä längste Desch vun Kölle",
+"bereich": "Severinsviertel",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Herbstfest",
+"bereich": "Stadtteil Rath-Heumar",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Straßenfest",
+"bereich": "Stadtteil Dellbrück",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Street Gallery",
+"bereich": "Stadtteil Lindenthal",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-18",
+"anlass": "Kunst im Carrée",
+"bereich": "Stadtteil Sülz-Klettenberg",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Braunsfelder Martinsmeile",
+"bereich": "Stadtteil Braunsfeld",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Weihnachten in Köln",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Porzer Adventsmarkt",
+"bereich": "Stadtteil Porz-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffene Sonntage (Ladenöffnungszeiten an Sonntagen 2026, Ratsbeschluss)",
+"herausgeber": "Stadt Köln",
+"art": "Stadtseite",
+"url": "https://www.stadt-koeln.de/wirtschaft/gewerbe/verkaufsoffene-sonntage",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Rechtsgrundlage für Sonntagsöffnung entfällt – Rat der Stadt Köln passt Rechtsverordnung an",
+"herausgeber": "Stadt Köln",
+"art": "Pressemitteilung",
+"url": "https://www.stadt-koeln.de/politik-und-verwaltung/presse/mitteilungen/28314/index.html",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Verordnung vom Rat am 5. Februar 2026 beschlossen; der verkaufsoffene Sonntag am 19. April 2026 (Innenstadt, FIBO) wurde per Dringlichkeitsentscheidung aufgehoben. Für 2027 noch keine Verordnung veröffentlicht.",
+"en": "Cologne"
+},
+{
+"id": "landshut",
+"name": "Landshut",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-03-22",
+"anlass": "Frühlingsmärkte (Verkaufsoffener Sonntag Nord-West)",
+"bereich": "Gebiet Landshut Nord-West (Industriegebiet/Gewerbegebiet Münchnerau)",
+"zeit": "ab 13 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": "Frühjahrsaktionstag mit Antikmarkt",
+"bereich": "Innenstadt",
+"zeit": "ab 13 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-04",
+"anlass": "Herbstmärkte (Verkaufsoffener Sonntag Nord-West)",
+"bereich": "Gebiet Landshut Nord-West (Industriegebiet/Gewerbegebiet Münchnerau)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-10-11",
+"anlass": "Herbstmarkt und Aktionstag Ehrenamt",
+"bereich": "historische Innenstadt",
+"zeit": "ab 13 Uhr",
+"quelle": 3
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffener Sonntag Nord-West (Landshut erleben)",
+"herausgeber": "Stadt Landshut (Stadtmarketing)",
+"art": "Stadtseite",
+"url": "https://erleben.landshut.de/einkaufen-geniessen/verkaufsoffener-sonntag-nord-west/",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "In den Frühling bummeln mit Antikmarkt und Schlagerparty (23.04.2026)",
+"herausgeber": "Stadt Landshut (Stadtmarketing)",
+"art": "Pressemitteilung",
+"url": "https://erleben.landshut.de/news/in-den-fruehling-bummeln-mit-antikmarkt-und-schlagerparty/",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffener-Sonntag Landshut Nord+West am 04.10.2026 (28.09.2026)",
+"herausgeber": "Stadt Landshut (Stadtmarketing)",
+"art": "Pressemitteilung",
+"url": "https://erleben.landshut.de/news/verkaufsoffener-sonntag-in-landshut-nordwest/",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffener Sonntag Landshut Innenstadt am 11.10.2026 mit Aktionstag Ehrenamt (09.10.2026)",
+"herausgeber": "Stadt Landshut (Stadtmarketing)",
+"art": "Pressemitteilung",
+"url": "https://erleben.landshut.de/news/verkaufsoffener-sonntag-landshut-innenstadt/",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Quellen: städtisches Portal erleben.landshut.de (© Stadt Landshut, Stadtmarketing). Die Rechtsverordnung selbst wurde auf landshut.de nicht gefunden. Geschäfte öffnen jeweils ab 13 Uhr, das Rahmenprogramm beginnt früher (11 bzw. 12 Uhr). Für 2027 nichts veröffentlicht."
+},
+{
+"id": "leipzig",
+"name": "Leipzig",
+"land": "SN",
+"termine": [
+{
+"datum": "2026-11-29",
+"anlass": "Leipziger Weihnachtsmarkt",
+"bereich": "Innenstadt (Ortsteil Zentrum inkl. Promenaden Hauptbahnhof)",
+"zeit": "12-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Leipziger Weihnachtsmarkt",
+"bereich": "Innenstadt (Ortsteil Zentrum inkl. Promenaden Hauptbahnhof)",
+"zeit": "12-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffene Sonntage in Leipzig – Verkaufsoffene Sonntage 2026",
+"herausgeber": "Stadt Leipzig",
+"art": "Stadtseite",
+"url": "https://www.leipzig.de/kultur-und-freizeit/einkaufen-und-ausgehen/shopping-in-leipzig/verkaufsoffene-sonntage",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Rechtsgrundlage: Rechtsverordnung der Stadt nach § 8 Abs. 1 SächsLadÖffG; die Stadtseite nennt für 2026 nur die zwei Adventssonntage in der Innenstadt (Geschäfte öffnen meist ab 13 Uhr). Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "leverkusen",
+"name": "Leverkusen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-26",
+"anlass": "Blühendes Schlebusch",
+"bereich": "Stadtteil Schlebusch (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-05-03",
+"anlass": "Frühlingsfest",
+"bereich": "Stadtteil Wiesdorf (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-10",
+"anlass": "Opladener Frühling",
+"bereich": "Stadtteil Opladen (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-07-26",
+"anlass": "Opladener Stadtfest mit Kirmes",
+"bereich": "Stadtteil Opladen",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-06",
+"anlass": "Musik- und Familienfest „LEVlive“",
+"bereich": "Stadtteil Wiesdorf",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Schlebuscher Wochenende mit Familienfest",
+"bereich": "Stadtteil Schlebusch",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-10-11",
+"anlass": "Opladener Herbstmarkt",
+"bereich": "Stadtteil Opladen",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-18",
+"anlass": "Herbstfest mit Herbstkirmes",
+"bereich": "Stadtteil Wiesdorf",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Schlebuscher Martinsmarkt",
+"bereich": "Stadtteil Schlebusch",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-11-29",
+"anlass": "Christkindchenmarkt",
+"bereich": "Stadtteil Wiesdorf",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Weihnachtsmarkt Bergisches Dorf",
+"bereich": "Stadtteil Opladen",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-06",
+"anlass": "Schlebuscher Adventsmarkt",
+"bereich": "Stadtteil Schlebusch",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2027-04-18",
+"anlass": "Blühendes Schlebusch",
+"bereich": "Stadtteil Schlebusch",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-05-09",
+"anlass": "Opladener Frühling",
+"bereich": "Stadtteil Opladen",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-05-23",
+"anlass": "Frühlingsfest",
+"bereich": "Stadtteil Wiesdorf",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-07-25",
+"anlass": "Opladener Stadtfest mit Kirmes",
+"bereich": "Stadtteil Opladen",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-09-05",
+"anlass": "Musik- und Familienfest „LEVlive“",
+"bereich": "Stadtteil Wiesdorf",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-09-19",
+"anlass": "Schlebuscher Wochenende mit Familienfest",
+"bereich": "Stadtteil Schlebusch",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-10-10",
+"anlass": "Opladener Herbstmarkt",
+"bereich": "Stadtteil Opladen",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-10-24",
+"anlass": "Herbstfest mit Herbstkirmes",
+"bereich": "Stadtteil Wiesdorf",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-11-07",
+"anlass": "Schlebuscher Martinsmarkt",
+"bereich": "Stadtteil Schlebusch",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-11-28",
+"anlass": "Christkindchenmarkt",
+"bereich": "Stadtteil Wiesdorf",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-12-05",
+"anlass": "Weihnachtsmarkt Bergisches Dorf",
+"bereich": "Stadtteil Opladen",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-12-05",
+"anlass": "Schlebuscher Adventsmarkt",
+"bereich": "Stadtteil Schlebusch",
+"zeit": "13-18 Uhr",
+"quelle": 3
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonntagen für den Stadtteil Wiesdorf für das Jahr 2026 vom 20.11.2025 (Amtsblatt Nr. 44 vom 05.12.2025)",
+"herausgeber": "Stadt Leverkusen",
+"art": "Verordnung",
+"url": "https://www.leverkusen.de/service/veroeffentlichungen/satzungen-verordnungen/dez-2/2304-Offenhalten-Verkaufsstellen-Wiesdorf.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung … für den Stadtteil Opladen für das Jahr 2026 vom 20.11.2025 (Amtsblatt Nr. 44 vom 05.12.2025)",
+"herausgeber": "Stadt Leverkusen",
+"art": "Verordnung",
+"url": "https://www.leverkusen.de/service/veroeffentlichungen/satzungen-verordnungen/dez-2/2305-Offenhalten-Verkaufsstellen-Opladen.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung … für den Stadtteil Schlebusch für das Jahr 2026 vom 20.11.2025 (Amtsblatt Nr. 44 vom 05.12.2025)",
+"herausgeber": "Stadt Leverkusen",
+"art": "Verordnung",
+"url": "https://www.leverkusen.de/service/veroeffentlichungen/satzungen-verordnungen/dez-2/2307-Offenhalten-von-Verkaufsstellen-Schlebusch.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Sitzung des Rates vom 12.10.2026: Verordnungen über das Offenhalten von Verkaufsstellen für Wiesdorf, Opladen und Schlebusch für das Jahr 2027 – mehrheitlich beschlossen (Ratsinformationssystem, mit Verordnungstexten als Anlage I)",
+"herausgeber": "Stadt Leverkusen",
+"art": "Verordnung",
+"url": "https://ratsinfo.leverkusen.de/si0057.asp?__ksinr=1884",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Verordnungen 2027 hat der Rat am 12.10.2026 beschlossen; die Verkündung im Amtsblatt stand bis Amtsblatt Nr. 42 vom 23.10.2026 noch aus. Amtsblätter Okt. 2025 bis Okt. 2026 durchsucht, keine Änderungen der Termine 2026."
+},
+{
+"id": "ludwigsburg",
+"name": "Ludwigsburg",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-03-22",
+"anlass": "Märzklopfen (Kunst- und Genussmarkt)",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Kastanienbeutelfest",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Zum verkaufsoffenen Sonntag nachhaltig in die Innenstadt (Mitteilung vom 16.03.2026)",
+"herausgeber": "Stadt Ludwigsburg",
+"art": "Pressemitteilung",
+"url": "https://www.ludwigsburg.de/start/rathaus+und+service/mitteilung+16_03_26+13_35.html",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Zum verkaufsoffenen Sonntag nachhaltig in die Stadt (Mitteilung vom 06.10.2026)",
+"herausgeber": "Stadt Ludwigsburg",
+"art": "Pressemitteilung",
+"url": "https://www.ludwigsburg.de/start/rathaus+und+service/mitteilung+06_10_26+7_39.html",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Satzung selbst nicht online gefunden; Termine aus Pressemitteilungen der Stadt (Archiv 2026 vollständig durchgesehen). Für 2027 noch nichts veröffentlicht."
+},
+{
+"id": "ludwigshafen-am-rhein",
+"name": "Ludwigshafen am Rhein",
+"land": "RP",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "ludwigshafen.de wird durch einen Bot-Schutz (Myra) gesperrt (HTTP 503); Amtsblatt 2026 konnte nicht gelesen werden, keine Umgehung versucht."
+},
+{
+"id": "luebeck",
+"name": "Lübeck",
+"land": "SH",
+"termine": [
+{
+"datum": "2026-10-04",
+"anlass": "Eine Stadt feiert Erntedank",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Nordische Filmtage Lübeck",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-10-03",
+"anlass": "Eine Stadt feiert Erntedank",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-11-07",
+"anlass": "Nordische Filmtage Lübeck",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Bericht VO/2022/11383 „Festsetzung von verkaufsoffenen Sonntagen in der Hansestadt Lübeck 2022-2028“ mit Entwurf der Stadtverordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass (Bürgerschaft, 25.08.2022)",
+"herausgeber": "Hansestadt Lübeck, Ordnungsamt",
+"art": "Stadtseite",
+"url": "https://www.luebeck.de/de/rathaus/politik/pil/bi/wicket/resource/org.apache.wicket.Application/doc1504457.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Termine 2022-2028 per Stadtverordnung des Bürgermeisters (§ 5 LÖffZG) festgesetzt; online gefunden wurde der der Bürgerschaft vorgelegte Bericht mit dem Verordnungsentwurf, nicht die verkündete Fassung. Sonntagsöffnungen in Travemünde nach der Bäderverordnung des Landes sind hier nicht erfasst."
+},
+{
+"id": "luenen",
+"name": "Lünen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-07-12",
+"anlass": null,
+"bereich": "Teilbereiche Lünen-Mitte und Lünen-Nord (u. a. Langestraße, Marktstraße, Willy-Brandt-Platz, Münsterstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": null,
+"bereich": "Teilbereiche Lünen-Mitte und Lünen-Nord (u. a. Langestraße, Marktstraße, Willy-Brandt-Platz, Münsterstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnungen über das Offenhalten von Verkaufsstellen am 12.07.2026 und am 29.11.2026 aus besonderem Anlass in der Stadt Lünen vom 16.04.2026 (Amtsblatt der Stadt Lünen Nr. 16/2026 vom 22.04.2026)",
+"herausgeber": "Stadt Lünen",
+"art": "Verordnung",
+"url": "https://www.luenen.de/de-wAssets/docs/PDFs/amtsblatt/16-2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Zwei Einzelverordnungen vom 16.04.2026; der Anlass wird im Verordnungstext nicht genannt. Für 2027 noch keine Verordnung veröffentlicht (Amtsblätter bis Nr. 37/2026 geprüft)."
+},
+{
+"id": "magdeburg",
+"name": "Magdeburg",
+"land": "ST",
+"termine": [
+{
+"datum": "2026-11-29",
+"anlass": "Weihnachtsmarkt 2026",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Weihnachtsmarkt 2026",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffene Sonntage in Magdeburg (Mitteilung vom 10.10.2026)",
+"herausgeber": "Landeshauptstadt Magdeburg",
+"art": "Pressemitteilung",
+"url": "https://www.magdeburg.de/B%C3%BCrger-Stadt/Aktuelles-Presse/Verkaufsoffene-Sonntage.php?ModID=255&FID=115.3941.1",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Allgemeinverfügung selbst nicht online gefunden; Termine aus der städtischen Mitteilung. Weitere Sonntage 2026 auf magdeburg.de nicht gefunden. Für 2027 nichts veröffentlicht."
+},
+{
+"id": "mainz",
+"name": "Mainz",
+"land": "RP",
+"termine": [
+{
+"datum": "2026-04-26",
+"anlass": "Meile des Sports",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "»Heimat shoppen« mit Stoffmarkt",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-25",
+"anlass": "Mantelsonntag / Fête de la Gastronomie (Burgunderfest)",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 2
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Pressemeldung 20.04.2026: Ein Sonntag, zwei Highlights: Meile des Sports und verkaufsoffener Sonntag",
+"herausgeber": "Landeshauptstadt Mainz",
+"art": "Pressemitteilung",
+"url": "https://www.mainz.de/pressemeldungen/Mainz/2026/april/ein-sonntag-zwei-highlights-meile-des-sports-und-verkaufsoffener-sonntag",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Pressemeldung 11.09.2026: Heimat shoppen in Mainz – Verkaufsoffener Sonntag am 20. September 2026",
+"herausgeber": "Landeshauptstadt Mainz",
+"art": "Pressemitteilung",
+"url": "https://www.mainz.de/pressemeldungen/Mainz/2026/september/heimat-shoppen-in-mainz-verkaufsoffener-sonntag-stoffmarkt-und-viele-aktionen-am-20.september-2026",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Pressemeldung 15.10.2026: »Mantelsonntag« lädt zum Herbstbummel nach Mainz ein",
+"herausgeber": "Landeshauptstadt Mainz",
+"art": "Pressemitteilung",
+"url": "https://www.mainz.de/pressemeldungen/Mainz/2026/oktober/mantelsonntag-laedt-zum-herbstbummel-nach-mainz-ein-einkaufen-geniessen-und-erleben-verkaufsoffener-sonntag-am-25.oktober-und-f-te-de-la-gastronomie-auf-gutenbergplatz",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Rechtsverordnung zu den Ladenöffnungen 2026 wurde im Ortsrecht von mainz.de nicht gefunden; Termine aus städtischen Pressemeldungen. Ein vierter Termin (Advent) ist nicht veröffentlicht. Für 2027 nichts veröffentlicht."
+},
+{
+"id": "mannheim",
+"name": "Mannheim",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-05-17",
+"anlass": "»In Mannheim spielt die Musik« / »Mode im Quadrat«",
+"bereich": "Innenstadt (Quadrate inkl. Ringe, Friedrichsplatz, Willy-Brandt-Platz)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-23",
+"anlass": "Sandhofener Kerwe",
+"bereich": "Stadtteil Sandhofen (alter Ortskern)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-11",
+"anlass": "MarktMeile / »Schmecken & Genießen«",
+"bereich": "Innenstadt (Quadrate inkl. Ringe, Friedrichsplatz, Willy-Brandt-Platz)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-18",
+"anlass": "Feudenheimer Kerwe",
+"bereich": "Stadtteil Feudenheim (historischer Kern)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-10-18",
+"anlass": "Seckenheimer Kerwe",
+"bereich": "Stadtteil Seckenheim (historischer Kern)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Satzungen über das Offenhalten von Verkaufsstellen in der Mannheimer Innenstadt (17.05.2026 und 11.10.2026) vom 07.05.2026, Amtsblatt der Stadt Mannheim KW 19/2026",
+"herausgeber": "Stadt Mannheim",
+"art": "Amtsblatt",
+"url": "https://www.mannheim.de/sites/default/files/2026-05/KW%2019_0507.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Satzung über das Offenhalten von Verkaufsstellen im Stadtteil Sandhofen vom 27.08.2026, Amtsblatt KW 35/2026",
+"herausgeber": "Stadt Mannheim",
+"art": "Amtsblatt",
+"url": "https://www.mannheim.de/sites/default/files/2026-08/KW%2035_0827.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Satzungen über das Offenhalten von Verkaufsstellen in den Stadtteilen Feudenheim und Seckenheim vom 03.09.2026, Amtsblatt KW 36/2026",
+"herausgeber": "Stadt Mannheim",
+"art": "Amtsblatt",
+"url": "https://www.mannheim.de/sites/default/files/2026-09/KW%2036_0903.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Alle Amtsblätter 2025/2026 der Stadt durchsucht; Satzungen werden einzeln je Anlass vom Gemeinderat beschlossen. Für 2027 noch keine Satzung veröffentlicht."
+},
+{
+"id": "marl",
+"name": "Marl",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-02-01",
+"anlass": null,
+"bereich": "Einkaufszentrum in Marl-Mitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": null,
+"bereich": "Einkaufszentrum in Marl-Mitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-11-08",
+"anlass": null,
+"bereich": "Einkaufszentrum in Marl-Mitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-20",
+"anlass": null,
+"bereich": "Einkaufszentrum in Marl-Mitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-02-07",
+"anlass": null,
+"bereich": "Einkaufszentrum in Marl-Mitte (laut Lageplan)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass im Einkaufszentrum Marler Stern am 01. Februar 2026 vom 03.04.2025 (Bekanntmachungsblatt der Stadt Marl Nr. 09/2025 vom 10.04.2025)",
+"herausgeber": "Stadt Marl",
+"art": "Verordnung",
+"url": "https://marl.de/fileadmin/user_upload/09-2025_vom_10.04.2025.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnungen über das Offenhalten von Verkaufsstellen aus besonderem Anlass im Einkaufszentrum Marler Stern am 11.10.2026, 08.11.2026, 20.12.2026 und 07.02.2027 vom 21.07.2026 (Bekanntmachungsblatt der Stadt Marl Nr. 21/2026 vom 23.07.2026)",
+"herausgeber": "Stadt Marl",
+"art": "Verordnung",
+"url": "https://marl.de/fileadmin/user_upload/21-2026_vom_23.07.2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Einzelverordnungen je Termin, räumlich beschränkt auf das Einkaufszentrum in Marl-Mitte (Ratsbeschlüsse vom 27.03.2025 und 02.07.2026); der Anlass wird im Verordnungstext nicht genannt. Weitere Termine für 2027 noch nicht veröffentlicht."
+},
+{
+"id": "moers",
+"name": "Moers",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-12",
+"anlass": null,
+"bereich": "Moers-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": null,
+"bereich": "Moers-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": null,
+"bereich": "Moers-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-04-04",
+"anlass": null,
+"bereich": "Moers-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-10-10",
+"anlass": null,
+"bereich": "Moers-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-12-12",
+"anlass": null,
+"bereich": "Moers-Mitte",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen vom 16.06.2025 (Amtsblatt der Stadt Moers Nr. 12 vom 03.07.2025)",
+"herausgeber": "Stadt Moers",
+"art": "Verordnung",
+"url": "https://www.moers.de/system/files?file=2025-07/Amtsblatt%20Nr.%2012%20vom%2003.07.2025.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Ratsbeschluss vom 04.06.2025; die Verordnung gilt für 2025 bis 2027 im Bereich Moers-Mitte (Hanckwitzstraße/Uerdinger Straße, Meerstraße/Im Rosenthal, Klever Straße/Homberger Straße, Neustraße/Krefelder Straße, Wilhelm-Schroeder-Straße/Rheinberger Straße). Die Verordnung nennt keinen Anlass."
+},
+{
+"id": "moenchengladbach",
+"name": "Mönchengladbach",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-09-06",
+"anlass": "Herbstmarkt",
+"bereich": "Stadtteil Giesenkirchen-Mitte (Konstantinstraße 129-190, Konstantinplatz u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": "Winterkappes",
+"bereich": "Stadtteil Rheindahlen-Mitte (Mühlentorplatz, St.-Helena-Platz, Kleiner Driesch u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-13",
+"anlass": "Mönchengladbacher Weihnachtswunder",
+"bereich": "Stadtteil Gladbach (Hindenburgstraße zwischen Europaplatz und Alter Markt, Bismarckstraße u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-13",
+"anlass": "Advent in Rheydt",
+"bereich": "Stadtteil Rheydt (Hauptstraße, Markt, Marktstraße, Friedrich-Ebert-Straße u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen in den Stadtteilen am 6. September 2026 (Herbstmarkt) vom 15. Juli 2026 (Amtsblatt Nr. 19/2026 S. 143, Ortsrecht 32.5)",
+"herausgeber": "Stadt Mönchengladbach",
+"art": "Verordnung",
+"url": "https://www.moenchengladbach.de/fileadmin/news_import/Ortsrecht/30-ff/32.5_-_EinzelVO_Herbstmarkt_06.09.2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Sitzung des Rates vom 14.10.2026, TOP Ö 17, Ö 18, Ö 18.1: Verordnungen für den 29.11.2026 (Winterkappes) und 13.12.2026 (Weihnachtswunder, Advent in Rheydt) – mit Stimmenmehrheit beschlossen (Ratsinformationssystem, mit Verordnungstexten)",
+"herausgeber": "Stadt Mönchengladbach",
+"art": "Verordnung",
+"url": "https://ris-moenchengladbach.itk-rheinland.de/sessionnetmglbi/si0057.asp?__ksinr=8430",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Amtsblätter 2026 Nr. 1-27 durchsucht. Die Verordnungen für 29.11. und 13.12.2026 hat der Rat am 14.10.2026 beschlossen; die Verkündung im Amtsblatt stand am 29.10.2026 noch aus. Frühere Jahre hatten zusätzlich Gourmet Festival, Kappesfest und Interkulturelles Familienfest; 2026 dafür keine Verordnung gefunden. 2027 noch nicht veröffentlicht."
+},
+{
+"id": "muelheim-an-der-ruhr",
+"name": "Mülheim an der Ruhr",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-08-30",
+"anlass": "13. Saarner Oldtimer-Cup",
+"bereich": "Stadtteil Saarn (Düsseldorfer Str. 1-144 u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt Mülheim an der Ruhr 2026/14 (08.06.2026): Ordnungsbehördliche Verordnung über besondere Ladenöffnungszeiten im Jahr 2026 vom 21.05.2026",
+"herausgeber": "Stadt Mülheim an der Ruhr",
+"art": "Amtsblatt",
+"url": "https://amtsblatt.muelheim-ruhr.de/node/5594",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Verordnung für 2026 (Ratsbeschluss vom 21.05.2026) gibt nur einen verkaufsoffenen Sonntag frei. Amtsblatt-Recherche nach weiteren Verordnungen 2026 ohne Ergebnis. Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "muenchen",
+"name": "München",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-02-15",
+"anlass": "Faschingssonntag (nur Konditoreiwaren, Süßwaren, Tabakwaren, Scherzartikel, Papier- und Schreibwaren)",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "12-17 Uhr",
+"quelle": 0,
+"eingeschraenkt": true
+},
+{
+"datum": "2026-09-20",
+"anlass": "Erster Oktoberfestsonntag (nur Lebens- und Genussmittel, Tabakwaren, Schreibwaren, Reiseandenken)",
+"bereich": "Stadtbezirke Altstadt-Lehel (nördl. bis Prinzregentenstraße), Ludwigvorstadt-Isarvorstadt, Maxvorstadt, Sendling, Schwanthalerhöhe (westl. bis Bahnlinie)",
+"zeit": "11-16 Uhr",
+"quelle": 0,
+"eingeschraenkt": true
+},
+{
+"datum": "2027-02-07",
+"anlass": "Faschingssonntag (nur Konditoreiwaren, Süßwaren, Tabakwaren, Scherzartikel, Papier- und Schreibwaren)",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "12-17 Uhr",
+"quelle": 0,
+"eingeschraenkt": true
+},
+{
+"datum": "2027-09-19",
+"anlass": "Erster Oktoberfestsonntag (nur Lebens- und Genussmittel, Tabakwaren, Schreibwaren, Reiseandenken)",
+"bereich": "Stadtbezirke Altstadt-Lehel (nördl. bis Prinzregentenstraße), Ludwigvorstadt-Isarvorstadt, Maxvorstadt, Sendling, Schwanthalerhöhe (westl. bis Bahnlinie)",
+"zeit": "11-16 Uhr",
+"quelle": 0,
+"eingeschraenkt": true
+},
+{
+"datum": "2027-10-03",
+"anlass": "Tag der Deutschen Einheit (nur Lebens- und Genussmittel, Tabakwaren, Schreibwaren, Reiseandenken)",
+"bereich": "Stadtbezirke Altstadt-Lehel (nördl. bis Prinzregentenstraße), Ludwigvorstadt-Isarvorstadt, Maxvorstadt, Sendling, Schwanthalerhöhe (westl. bis Bahnlinie)",
+"zeit": "11-16 Uhr",
+"quelle": 0,
+"eingeschraenkt": true
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über die Freigabe von Verkaufszeiten während des allgemeinen Ladenschlusses (Ladenschlussverordnung) vom 14. Januar 2026, MüABl. 30.01.2026 S. 43",
+"herausgeber": "Landeshauptstadt München",
+"art": "Verordnung",
+"url": "https://stadt.muenchen.de/rathaus/stadtrecht/vorschrift/440/version3/0.html",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Shopping-Nächte und Abendöffnungen in München",
+"herausgeber": "Landeshauptstadt München (muenchen.de)",
+"art": "Stadtseite",
+"url": "https://www.muenchen.de/shopping/aktuell/shopping-naechte-und-abendoeffnungen-muenchen",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "München hat keinen allgemeinen verkaufsoffenen Sonntag für alle Geschäfte. Die Dauer-Verordnung erlaubt nur am Faschingssonntag, am ersten Oktoberfestsonntag und am 3. Oktober Öffnungen mit begrenztem Sortiment (Daten aus den Regeln der Verordnung abgeleitet; 3.10.2026 ist ein Samstag). Zusätzlich dürfen in den Altstadt-Fußgängerbereichen Geschäfte für Tourismusbedarf an Sonn- und Feiertagen vom 1.4. bis 15.10. und an den vier Adventssonntagen 11–19 Uhr öffnen.",
+"en": "Munich"
+},
+{
+"id": "muenster",
+"name": "Münster",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-05-10",
+"anlass": "Hiltruper Frühlingsfest",
+"bereich": "Stadtbezirk Hiltrup, Ortsteil Hiltrup (Marktallee zwischen Westfalenstraße und Unckelstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-08-02",
+"anlass": "Hammer Straßenfest",
+"bereich": "Stadtbezirk Mitte, Hammer Straße (Ludgeriplatz bis Einmündung Geiststraße)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-08-30",
+"anlass": "NRW-Tag / Münster Mittendrin",
+"bereich": "Altstadt (zentrale Bereiche u. a. Prinzipalmarkt, Roggenmarkt, Drubbel, Ludgeristraße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Handorfer Herbst",
+"bereich": "Stadtbezirk Ost, Ortsteil Handorf (Grundversorgungszentrum)",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-05-23",
+"anlass": "Hiltruper Frühlingsfest",
+"bereich": "Stadtbezirk Hiltrup, Ortsteil Hiltrup (Marktallee zwischen Westfalenstraße und Unckelstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-08-01",
+"anlass": "Hammer Straßenfest",
+"bereich": "Stadtbezirk Mitte, Hammer Straße (Ludgeriplatz bis Einmündung Geiststraße)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2027-09-26",
+"anlass": "Handorfer Herbst",
+"bereich": "Stadtbezirk Ost, Ortsteil Handorf (Grundversorgungszentrum)",
+"zeit": "13-18 Uhr",
+"quelle": 3
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffener Sonntag zum Nordrhein-Westfalen-Tag (Meldung vom 20.05.2026, Ratsbeschluss)",
+"herausgeber": "Stadt Münster",
+"art": "Pressemitteilung",
+"url": "https://www.stadt-muenster.de/aktuelles/newsdetail/verkaufsoffener-sonntag-zum-nrw-tag",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup vom 25.03.2026 (Ortsrecht 32.05.3, Amtsblatt Nr. 7/2026 S. 69)",
+"herausgeber": "Stadt Münster",
+"art": "Verordnung",
+"url": "https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/32.05.3",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Bereich Hammer Straße vom 24.03.2017 (Ortsrecht 32.05.1, gültig bis 31.08.2027)",
+"herausgeber": "Stadt Münster",
+"art": "Verordnung",
+"url": "https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/32.05.1",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Ost, Ortsteil Handorf vom 24.03.2017 (Ortsrecht 32.05.5, gültig bis 30.09.2027)",
+"herausgeber": "Stadt Münster",
+"art": "Verordnung",
+"url": "https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/32.05.5",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Hammer Straße (jeweils erster Sonntag im August) und Handorf (jeweils letzter Sonntag im September) sind in den Dauerverordnungen als Regel festgelegt; die Daten sind daraus abgeleitet. Die Innenstadt hat seit dem Bürgerentscheid 2016 sonst keine verkaufsoffenen Sonntage; der 30.08.2026 war eine Ausnahme zum NRW-Tag."
+},
+{
+"id": "neuss",
+"name": "Neuss",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-05-03",
+"anlass": "Neuss blüht auf",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Hansefest",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": "Quirinus Adventsmarkt",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-05-09",
+"anlass": "Neuss blüht auf",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-09-19",
+"anlass": "Hansefest",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-11-28",
+"anlass": "Quirinus Adventsmarkt",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtliche Bekanntmachung: Ordnungsbehördliche Verordnung über das Öffnen von Verkaufsstellen an Sonn- und Feiertagen in der Stadt Neuss vom 24. Februar 2025 (Termine 2025-2027, Ratsbeschluss vom 21.02.2025)",
+"herausgeber": "Stadt Neuss",
+"art": "Verordnung",
+"url": "https://www.neuss.de/fileadmin/Redaktion/downloads/bekanntmachungen/2025/bekanntmachung-stadt-neuss_0166-2025_verkaufsoffene-sonn-und-feiertage-2025-2027.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Mehrjährige Verordnung mit festen Terminen für 2025, 2026 und 2027 in den innerstädtischen Straßen (Straßenliste in § 1). Bekanntmachungen 2026 durchgesehen, keine Änderung gefunden."
+},
+{
+"id": "nuernberg",
+"name": "Nürnberg",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-03-22",
+"anlass": "Ostermarkt",
+"bereich": "Altstadt (innerhalb des Altstadtrings/Grabenstraßen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Altstadtfest/Herbstmarkt",
+"bereich": "Altstadt (innerhalb des Altstadtrings/Grabenstraßen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung zur Öffnung von Verkaufsstellen an Sonntagen und in Nächten in 2026 (LadÖffVO 2026) vom 31. Oktober 2025, Amtsblatt S. 375",
+"herausgeber": "Stadt Nürnberg",
+"art": "Verordnung",
+"url": "https://www.nuernberg.de/imperia/md/stadtrecht/dokumente/320_505.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Pressemitteilung Nr. 1021 vom 22.09.2026: Verkaufsoffener Sonntag am 27. September",
+"herausgeber": "Stadt Nürnberg",
+"art": "Pressemitteilung",
+"url": "https://www.nuernberg.de/presse/mitteilungen/pm_28158.html",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Rechtsgrundlage Art. 6 BayLadSchlG. Zusätzlich verkaufsoffene Nächte (keine Sonntage) am 24.10.2026 und 27.11.2026 bis 22 Uhr im ganzen Stadtgebiet. Für 2027 noch keine Verordnung veröffentlicht (2026 wurde im Oktober des Vorjahres beschlossen).",
+"en": "Nuremberg"
+},
+{
+"id": "oberhausen",
+"name": "Oberhausen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-19",
+"anlass": "Frühlingsfest",
+"bereich": "Innenstadt Alt-Oberhausen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-04-26",
+"anlass": "Sterkrader Spiel- und Sportwochenende",
+"bereich": "Innenstadt Sterkrade",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": "Kunst- und Kulturfestival",
+"bereich": "Neue Mitte (Einkaufszentrum an der Centroallee)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-06",
+"anlass": "39. Osterfelder Stadtfest",
+"bereich": "Osterfelder Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-20",
+"anlass": "Kröönkärmes",
+"bereich": "Stadtteil Schmachtendorf",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-09-27",
+"anlass": "Cityfest",
+"bereich": "Innenstadt Alt-Oberhausen",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-10-04",
+"anlass": "Familienfest „Neue Mitte“",
+"bereich": "Neue Mitte (Einkaufszentrum an der Centroallee)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Freizeit- und Reisemesse Ruhr",
+"bereich": "Neue Mitte (Einkaufszentrum an der Centroallee)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-06",
+"anlass": "Nikolausmarkt",
+"bereich": "Stadtteil Schmachtendorf",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-13",
+"anlass": "Weihnachtsmärkte",
+"bereich": "Neue Mitte (Einkaufszentrum an der Centroallee)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "1. bis 8. Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen 2026 vom 26.03.2026 (Amtsblatt Nr. 6 vom 01.04.2026)",
+"herausgeber": "Stadt Oberhausen",
+"art": "Amtsblatt",
+"url": "https://www.oberhausen.de/de/index/rathaus/verwaltung/verwaltungsfuehrung/pressestelle-virtuelles-rathaus/amtsblatt/archiv-2026/amtsblatt-nr-6-2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "9. und 10. Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen 2026 vom 23.07.2026 (Amtsblatt Nr. 14 vom 03.08.2026)",
+"herausgeber": "Stadt Oberhausen",
+"art": "Amtsblatt",
+"url": "https://www.oberhausen.de/de/index/rathaus/verwaltung/verwaltungsfuehrung/pressestelle-virtuelles-rathaus/amtsblatt/archiv-2026/amtsblatt2026-downloads/amtsblatt-nr-14-2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "11. Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen 2026 vom 08.09.2026 (Sonderamtsblatt Nr. 10/2026, Dringlichkeitsentscheidung)",
+"herausgeber": "Stadt Oberhausen",
+"art": "Amtsblatt",
+"url": "https://www.oberhausen.de/de/index/rathaus/verwaltung/verwaltungsfuehrung/pressestelle-virtuelles-rathaus/amtsblatt/archiv-2026/amtsblatt2026-downloads/sonderamtsblatt-nr-10-2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Für die Kröönkärmes in Schmachtendorf nannte die 5. Verordnung (März 2026) den 13.09.2026; die 11. Verordnung vom 08.09.2026 (Dringlichkeitsentscheidung) gibt den 20.09.2026 frei – hier als maßgeblicher Termin geführt. Amtsblätter 2025/2026 vollständig durchsucht; für 2027 noch keine Verordnung."
+},
+{
+"id": "offenbach-am-main",
+"name": "Offenbach am Main",
+"land": "HE",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "offenbach.de: nur allgemeine Seite zu Ladenöffnungszeiten (§ 6 HLöG, bis 4 Sonntage), keine Freigabe 2026 über die Seitensuche gefunden."
+},
+{
+"id": "oldenburg",
+"name": "Oldenburg",
+"land": "NI",
+"termine": [
+{
+"datum": "2026-11-08",
+"anlass": "Aktionstag „Hallo Grünkohl“",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffene Sonntage („Für 2026 ist noch folgender verkaufsoffener Sonntag geplant“, zuletzt geändert am 22.10.2026)",
+"herausgeber": "Stadt Oldenburg (Oldb)",
+"art": "Stadtseite",
+"url": "https://www.oldenburg.de/startseite/kultur/veranstaltungen/verkaufsoffene-sonntage.html",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Aktionstag „Hallo Grünkohl“ – Shoppen und schlemmen am 8. November",
+"herausgeber": "Stadt Oldenburg (Oldb)",
+"art": "Stadtseite",
+"url": "https://www.oldenburg.de/startseite/kultur/veranstaltungen/verkaufsoffene-sonntage/aktionstag-hallo-gruenkohl.html",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Stadtseite nennt nur noch den letzten Termin 2026 („vorbehaltlich der Genehmigung“); frühere Termine 2026 sind dort nicht mehr aufgeführt und wurden nicht amtlich belegt. Im Amtsblatt der Stadt (Ausgaben 1-25/2026) keine Freigabe veröffentlicht. Zeit 13-18 Uhr laut Veranstaltungsseite."
+},
+{
+"id": "osnabrueck",
+"name": "Osnabrück",
+"land": "NI",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt der Stadt Osnabrück 2026 (Nr. 1-27, keine Sonntagsfreigabe enthalten)",
+"herausgeber": "Stadt Osnabrück",
+"art": "Amtsblatt",
+"url": "https://informiert.osnabrueck.de/de/amtliche-bekanntmachungen/amtsblatt/",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Keine amtliche Veröffentlichung zu verkaufsoffenen Sonntagen 2026 gefunden: Amtsblatt 2026 (Inhaltsangaben Nr. 1-27), Amtliche Bekanntmachungen, Volltextsuche auf osnabrueck.de und Veranstaltungsseiten der Marketing Osnabrück GmbH (Maiwoche, Jahrmärkte, Weihnachtsmarkt u. a.) ohne Treffer. Die allgemeine Websuche war im Laufe der Recherche nicht mehr verfügbar."
+},
+{
+"id": "paderborn",
+"name": "Paderborn",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-03-29",
+"anlass": "Frankfurter Weg-Fest (1. Aprilsonntag = Ostern, daher Sonntag vor Ostern)",
+"bereich": "Frankfurter Weg / Barkhauser Straße / Stadtlanfert u. a.",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-10",
+"anlass": "Frühlingsfest Paderborn",
+"bereich": "Innenstadt innerhalb des Inneren Rings",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-06-14",
+"anlass": "Dorffest Elsen",
+"bereich": "Stadtbezirk Elsen (Von-Ketteler-Straße u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-08-02",
+"anlass": "Libori (2. Sonntag)",
+"bereich": "Innenstadt innerhalb des Inneren Rings",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2026-10-25",
+"anlass": "Herbstlibori (2. Sonntag)",
+"bereich": "Innenstadt innerhalb des Inneren Rings",
+"zeit": "13-18 Uhr",
+"quelle": 4
+},
+{
+"datum": "2026-11-29",
+"anlass": "Paderborner Weihnachtsmarkt (1. Advent)",
+"bereich": "Innenstadt innerhalb des Inneren Rings",
+"zeit": "13-18 Uhr",
+"quelle": 5
+},
+{
+"datum": "2026-12-06",
+"anlass": "Weihnachtszauber im Schlosspark (2. Advent)",
+"bereich": "Stadtbezirk Schloß Neuhaus (Residenzstraße, Schloßstraße, Bielefelder Straße, Hatzfelder Platz)",
+"zeit": "13-18 Uhr",
+"quelle": 6
+},
+{
+"datum": "2027-03-21",
+"anlass": "Frankfurter Weg-Fest (1. Aprilsonntag = Weißer Sonntag, daher Sonntag vor Ostern)",
+"bereich": "Frankfurter Weg / Barkhauser Straße / Stadtlanfert u. a.",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-06-13",
+"anlass": "Dorffest Elsen",
+"bereich": "Stadtbezirk Elsen (Von-Ketteler-Straße u. a.)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2027-08-01",
+"anlass": "Libori (2. Sonntag)",
+"bereich": "Innenstadt innerhalb des Inneren Rings",
+"zeit": "13-18 Uhr",
+"quelle": 3
+},
+{
+"datum": "2027-10-31",
+"anlass": "Herbstlibori (2. Sonntag)",
+"bereich": "Innenstadt innerhalb des Inneren Rings",
+"zeit": "13-18 Uhr",
+"quelle": 4
+},
+{
+"datum": "2027-11-28",
+"anlass": "Paderborner Weihnachtsmarkt (1. Advent)",
+"bereich": "Innenstadt innerhalb des Inneren Rings",
+"zeit": "13-18 Uhr",
+"quelle": 5
+},
+{
+"datum": "2027-12-05",
+"anlass": "Weihnachtszauber im Schlosspark (2. Advent)",
+"bereich": "Stadtbezirk Schloß Neuhaus",
+"zeit": "13-18 Uhr",
+"quelle": 6
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen zum Frankfurter Weg-Fest (Gesamtdokument ab 16.03.2019)",
+"herausgeber": "Stadt Paderborn",
+"art": "Verordnung",
+"url": "https://www.paderborn.de/rathaus-service/stadtverwaltung/satzungen/oeffentliche-ordnung.php.media/149247/Gesamtdokument_OVO_ueber_das_Offenhalten_von_Verkaufsstellen_zum_Frankfurter_Weg-Fest_ab_16.03.2019.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen zum Frühlingsfest (ab 16.03.2019)",
+"herausgeber": "Stadt Paderborn",
+"art": "Verordnung",
+"url": "https://www.paderborn.de/rathaus-service/stadtverwaltung/satzungen/oeffentliche-ordnung.php.media/149250/Gesamtdokument_OVO_ueber_das_Offenhalten_von_Verkaufsstellen_zum_Fruehlingsfest_ab_16.03.2019.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen zum Dorffest Elsen (ab 16.03.2019)",
+"herausgeber": "Stadt Paderborn",
+"art": "Verordnung",
+"url": "https://www.paderborn.de/rathaus-service/stadtverwaltung/satzungen/oeffentliche-ordnung.php.media/149248/Gesamtdokument_OVO_und_ueber_das_Offenhalten_von_Verkaufstellen_zum_Dorffest_Elsen_ab_16.03.2019.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen zur Libori (ab 16.03.2019)",
+"herausgeber": "Stadt Paderborn",
+"art": "Verordnung",
+"url": "https://www.paderborn.de/rathaus-service/stadtverwaltung/satzungen/oeffentliche-ordnung.php.media/149252/Gesamtdokument_OVO_ueber_das_Offenhalten_von_Verkaufsstellen_zur_Libori_ab_16.03.2019.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen zur Herbstlibori (ab 16.03.2019)",
+"herausgeber": "Stadt Paderborn",
+"art": "Verordnung",
+"url": "https://www.paderborn.de/rathaus-service/stadtverwaltung/satzungen/oeffentliche-ordnung.php.media/149251/Gesamtdokument_OVO_ueber_das_Offenhalten_von_Verkaufsstellen_zur_Herbstlibori_ab_16.03.2019.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen zum Weihnachtsmarkt (ab 16.03.2019)",
+"herausgeber": "Stadt Paderborn",
+"art": "Verordnung",
+"url": "https://www.paderborn.de/rathaus-service/stadtverwaltung/satzungen/oeffentliche-ordnung.php.media/149253/Gesamtdokument_OVO_ueber_das_Offenhalten_von_Verkaufsstellen_zum_Weihnachtsmarkt_ab_16.03.2019.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen zum Weihnachtszauber (ab 16.03.2019)",
+"herausgeber": "Stadt Paderborn",
+"art": "Verordnung",
+"url": "https://www.paderborn.de/rathaus-service/stadtverwaltung/satzungen/oeffentliche-ordnung.php.media/149254/Gesamtdokument_OVO_ueber_das_Offenhalten_von_Verkaufsstellen_zum_Weihnachtszauber_ab_16.03.2019.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffener Sonntag: 10.05.2026 (Veranstaltungsseite; weitere Seiten für 02.08., 25.10., 29.11.2026)",
+"herausgeber": "Stadt Paderborn",
+"art": "Stadtseite",
+"url": "https://www.paderborn.de/tourismus-kultur/veranstaltungen/verkaufsoffener-sonntag.php",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Paderborn hat unbefristete Dauerverordnungen je Veranstaltung mit Terminregeln (z. B. 2. Liborisonntag, 1. Advent); die Daten sind daraus abgeleitet. Für 2026 bestätigen Stadtseiten 29.03., 10.05., 14.06., 02.08., 25.10., 29.11. und den Weihnachtszauber 04.-06.12. Das Frühlingsfest 2027 ist nicht aufgeführt, weil der 1. Mai 2027 ein Samstag ist und die Regel „1. Wochenende nach dem Maifeiertag“ dann nicht eindeutig ist."
+},
+{
+"id": "pforzheim",
+"name": "Pforzheim",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-04-26",
+"anlass": "22. Pforzheimer Wirtschaftswunder",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Pforzheimer Herbstglühen",
+"bereich": "Innenstadt",
+"zeit": null,
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "22. Pforzheimer Wirtschaftswunder 2026 – Erlebnisshopping beim Verkaufsoffenen Sonntag (So. 26.04.2026), Veranstalter Stadt Pforzheim/WSP",
+"herausgeber": "Stadt Pforzheim, Wirtschaft und Stadtmarketing Pforzheim (Eigenbetrieb)",
+"art": "Stadtseite",
+"url": "https://www.pforzheim.de/veranstaltungen/ansicht-veranstaltungen/event/eventDetail/1970-01-01_0100/22-pforzheimer-wirtschaftswunder.html",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Pforzheimer Herbstglühen 2026 – Erlebnistag mit verkaufsoffenem Sonntag (So. 11.10.2026)",
+"herausgeber": "Stadt Pforzheim, Wirtschaft und Stadtmarketing Pforzheim (Eigenbetrieb)",
+"art": "Stadtseite",
+"url": "https://www.pforzheim.de/veranstaltungen/ansicht-veranstaltungen/event/eventDetail/1970-01-01_0100/pforzheimer-herbstgluehen-2026.html",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Satzung selbst auf pforzheim.de nicht gefunden; Termine aus dem städtischen Veranstaltungskalender (Veranstalter: städtischer Eigenbetrieb WSP). Für 2027 nichts veröffentlicht."
+},
+{
+"id": "potsdam",
+"name": "Potsdam",
+"land": "BB",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "Keine ordnungsbehördliche Verordnung über Sonntagsöffnungen für 2026 auf potsdam.de oder egov.potsdam.de gefunden (Sitemap durchsucht; neueste Mitteilungen betreffen 2022 und 2024). Potsdam beschließt Advents-Sonntage üblicherweise erst im November der Stadtverordnetenversammlung. Keine Termine übernommen."
+},
+{
+"id": "ratingen",
+"name": "Ratingen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-04-19",
+"anlass": "Auto- und Mobilitätsmeile",
+"bereich": "Innenstadt (Ratingen Mitte, Verkaufsstellen laut Anlage 1)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-21",
+"anlass": "Ratinger Genießerwochenende und Fischmarkt",
+"bereich": "Innenstadt (Ratingen Mitte, Verkaufsstellen laut Anlage 1)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-09-06",
+"anlass": "Lintorfer Dorffest mit historischem Handwerkermarkt",
+"bereich": "Stadtteil Lintorf (Verkaufsstellen laut Anlage 1)",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-09-27",
+"anlass": "Bauernmarkt",
+"bereich": "Innenstadt (Ratingen Mitte, Verkaufsstellen laut Anlage 1)",
+"zeit": "13-18 Uhr",
+"quelle": 3
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen in der Ratinger Innenstadt anlässlich der Auto- und Mobilitätsmeile am 19.04.2026 (Amtsblatt der Stadt Ratingen 2026-08 vom 15.04.2026)",
+"herausgeber": "Stadt Ratingen",
+"art": "Verordnung",
+"url": "https://www.stadt-ratingen.de/fileadmin/user_upload/Bilder/33/Rechtsamt/Amtsblatt/2026/2026-08.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen in der Ratinger Innenstadt anlässlich des Ratinger Genießerwochenendes und des Fischmarktes am 21.06.2026 (Amtsblatt der Stadt Ratingen 2026-12 vom 09.06.2026)",
+"herausgeber": "Stadt Ratingen",
+"art": "Verordnung",
+"url": "https://www.stadt-ratingen.de/fileadmin/user_upload/Bilder/33/Rechtsamt/Amtsblatt/2026/2026-12-Wil.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen in Ratingen-Lintorf anlässlich des Lintorfer Dorffestes am 06.09.2026 (Amtsblatt der Stadt Ratingen 2026-17 vom 16.07.2026)",
+"herausgeber": "Stadt Ratingen",
+"art": "Verordnung",
+"url": "https://www.stadt-ratingen.de/fileadmin/user_upload/Bilder/33/Rechtsamt/Amtsblatt/2026/2026-17.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen in der Ratinger Innenstadt anlässlich des Bauernmarktes am 27.09.2026 (Amtsblatt der Stadt Ratingen 2026-24 vom 24.09.2026)",
+"herausgeber": "Stadt Ratingen",
+"art": "Verordnung",
+"url": "https://www.stadt-ratingen.de/fileadmin/user_upload/Bilder/33/Rechtsamt/Amtsblatt/2026/2026-24.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Ratingen erlässt für jeden Termin eine eigene Verordnung (nur die in Anlage 1 aufgeführten Verkaufsstellen). 2025 wurde die Verordnung zum Adventsleuchten (Mitte) und Nikolausmarkt (Hösel) erst im November beschlossen; für Advent 2026 ist bis Amtsblatt 2026-27 noch keine Verordnung veröffentlicht. Für 2027 nichts veröffentlicht."
+},
+{
+"id": "recklinghausen",
+"name": "Recklinghausen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-05-03",
+"anlass": "RE feiert (Altstadt-Frühlingsfest)",
+"bereich": "Altstadt (innerhalb des Walls)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Recklinghausen leuchtet",
+"bereich": "Altstadt (innerhalb des Walls)",
+"zeit": "15-20 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Suderwicher Martinimarkt",
+"bereich": "Stadtteil Suderwich (Suderwichstraße, Am alten Kirchplatz, Schulstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-12-13",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Altstadt (innerhalb des Walls)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-05-09",
+"anlass": "RE feiert (Altstadt-Frühlingsfest)",
+"bereich": "Altstadt (innerhalb des Walls)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-11-07",
+"anlass": "Suderwicher Martinimarkt",
+"bereich": "Stadtteil Suderwich (Suderwichstraße, Am alten Kirchplatz, Schulstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2027-12-12",
+"anlass": "Weihnachtsmarkt (3. Advent)",
+"bereich": "Altstadt (innerhalb des Walls)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffene Sonntage – Termine 2026",
+"herausgeber": "Stadt Recklinghausen",
+"art": "Stadtseite",
+"url": "https://www.recklinghausen.de/Inhalte/Startseite/Wirtschaft_Einkaufen/Einkaufen_in_Recklinghausen/Verkaufsoffene_Sonntage/index.asp",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Siebte Verordnung zur Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen in der Stadt Recklinghausen vom 29.09.2026 (Amtsblatt Nr. 29 vom 30.09.2026)",
+"herausgeber": "Stadt Recklinghausen",
+"art": "Verordnung",
+"url": "https://abo-online.gkd-re.de/abo-online/PDFAusgabe?Info=YWdzPTA1NTYyMDMyfGluZm89QW10c2JsYXR0fG5ldHo9MXxwZGY9NDQyNDc%3D",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Dauerhafte Verordnung mit Regeltagen: erster Sonntag im Mai (2027 abweichend zweiter Sonntag im Mai, Ratsbeschluss vom 28.09.2026), letzter Sonntag von „Recklinghausen leuchtet“ (15-20 Uhr), 3. Advent (Altstadt) sowie Sonntag vor dem Volkstrauertag (Suderwich). Die Daten für Suderwich 2026 und für 2027 sind aus diesen Regeln abgeleitet; der Termin von „Recklinghausen leuchtet“ 2027 steht noch nicht fest."
+},
+{
+"id": "regensburg",
+"name": "Regensburg",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-10-11",
+"anlass": "Herbstfest (zweiter Sonntag im Oktober)",
+"bereich": "Altstadt südlich der Donau innerhalb des Grüngürtels, Stadtamhof und Steinweg",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": "Regensburger Christkindlmärkte (1. Adventssonntag)",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-10-10",
+"anlass": "Herbstfest (zweiter Sonntag im Oktober)",
+"bereich": "Altstadt südlich der Donau innerhalb des Grüngürtels, Stadtamhof und Steinweg",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-11-28",
+"anlass": "Regensburger Christkindlmärkte (1. Adventssonntag)",
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über Ladenschlussregelungen in der Stadt Regensburg (Regensburger Ladenschluss-Verordnung – RLSV) vom 29. Oktober 2025 (AMBl. Nr. 47 vom 17. November 2025), Stadtrecht 20.2.1",
+"herausgeber": "Stadt Regensburg",
+"art": "Verordnung",
+"url": "https://www.regensburg.de/sixcms/media.php/140/20.1998331.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Dauer-Verordnung mit Regeln (zweiter Sonntag im Oktober; erster Advent, wenn im November); Daten daraus abgeleitet. Die Öffnung entfällt, wenn die Anlassveranstaltung entfällt."
+},
+{
+"id": "remscheid",
+"name": "Remscheid",
+"land": "NW",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "remscheid.de war am 29.10.2026 nur über eine Browser-Sicherheitsprüfung erreichbar (HTTP 403), das Amtsblatt der Stadt Remscheid daher nicht abrufbar. Das Pflichtexemplar der Ausgaben 2026 (Nr. 1-6 und Sonderausgaben bis 10.06.2026) liegt bei der ULB Düsseldorf, ist aber nur im Lesesaal zugänglich. Keine Termine ohne amtliche Quelle aufgeführt."
+},
+{
+"id": "reutlingen",
+"name": "Reutlingen",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-10-11",
+"anlass": "26. Tag der Sicherheit",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "26. Tag der Sicherheit – Verkaufsoffener Sonntag (Veranstaltungskalender der Stadt Reutlingen; Veranstalter StaRT – Stadtmarketing und Tourismus Reutlingen GmbH)",
+"herausgeber": "Stadt Reutlingen",
+"art": "Stadtseite",
+"url": "https://www.reutlingen.de/de/Leben/Veranstaltungeskalender/Veranstaltung?view=publish&item=eventDate&id=51398",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Satzung nicht online gefunden; vergangene Termine 2026 sind im städtischen Kalender nicht mehr abrufbar, daher möglicherweise unvollständig. 2027 noch nicht veröffentlicht."
+},
+{
+"id": "rostock",
+"name": "Rostock",
+"land": "MV",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "rathaus.rostock.de durchsucht (Suche 'verkaufsoffen', 'Ladenöffnung', Öffentliche Bekanntmachungen): nur Treffer aus 2010, 2020 und 2023, keine Festlegung für 2026."
+},
+{
+"id": "saarbruecken",
+"name": "Saarbrücken",
+"land": "SL",
+"termine": [
+{
+"datum": "2026-03-29",
+"anlass": null,
+"bereich": "Innenstadt (City)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": null,
+"bereich": "Innenstadt (City)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-04",
+"anlass": null,
+"bereich": "Innenstadt (City)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": null,
+"bereich": "Innenstadt (City)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verkaufsoffene Sonntage und Lange Einkaufsnacht",
+"herausgeber": "Landeshauptstadt Saarbrücken (tourismus.saarbruecken.de)",
+"art": "Stadtseite",
+"url": "https://tourismus.saarbruecken.de/erleben/shopping_tipps/verkaufsoffene_sonntage_und_einkaufsnacht",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Termine von der Tourismusseite der Stadt (saarbruecken.de); die zugrunde liegende Verordnung wurde nicht online gefunden. Für 2027 noch keine Termine."
+},
+{
+"id": "salzgitter",
+"name": "Salzgitter",
+"land": "NI",
+"termine": [
+{
+"datum": "2026-08-16",
+"anlass": "CityFest",
+"bereich": "Salzgitter-Lebenstedt, Bereich City Lebenstedt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "HerbstMarkt",
+"bereich": "Salzgitter-Lebenstedt, Bereich City Lebenstedt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Zulassung von verkaufsoffenen Sonntagen 2026 in Salzgitter (Amtsblatt der Stadt Salzgitter Nr. 6 vom 04.03.2026, Nr. 35)",
+"herausgeber": "Stadt Salzgitter, Fachdienst Sicherheit, Recht und Ordnung",
+"art": "Amtsblatt",
+"url": "https://www.salzgitter.de/rathaus/downloads/amtsblatt-2026/Amtsblatt-Nr.6-04.03.2026-ohne-oeffentl.Zustellungen.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Anträge für das Folgejahr sind bis 31.10. einzureichen; die Zulassungen für 2027 werden voraussichtlich Anfang 2027 im Amtsblatt bekanntgemacht."
+},
+{
+"id": "schwerin",
+"name": "Schwerin",
+"land": "MV",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Schweriner Märkte & verkaufsoffene Sonntage (Tabelle 2026 leer)",
+"herausgeber": "Landeshauptstadt Schwerin",
+"art": "Stadtseite",
+"url": "https://www.schwerin.de/kultur-tourismus/veranstaltungen/maerkte-verkaufsoffene-sonntage/index.html",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Keine Allgemeinverfügung für 2026 gefunden: die städtische Seite »Verkaufsoffene Sonntage Innenstadt 2026« (schwerin.de) enthält eine leere Tabelle; unter Bekanntmachungen nur die AV für den 1. Advent 2025 (30.11.2025). Keine Termine übernommen."
+},
+{
+"id": "siegen",
+"name": "Siegen",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-08-30",
+"anlass": "Stadtfest Siegen",
+"bereich": "Marktbezirk Siegen (u. a. Bahnhofstraße, Kölner Straße, Markt, Kornmarkt, Löhrstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Bürgerfest Geisweid",
+"bereich": "Marktbezirk Geisweid (u. a. Marktstraße, Rathausstraße, Friedrich-Neuss-Platz, Geisweider Straße 27-61)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen vom 15. April 2026 (Marktbezirk Siegen)",
+"herausgeber": "Universitätsstadt Siegen",
+"art": "Verordnung",
+"url": "https://www.siegen.de/fileadmin/user_upload/Dokumente/RathausUndPolitik/Bekanntmachungen/OBVMarktbezirkSiegen2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen vom 15. April 2026 (Marktbezirk Geisweid)",
+"herausgeber": "Universitätsstadt Siegen",
+"art": "Verordnung",
+"url": "https://www.siegen.de/fileadmin/user_upload/Dokumente/RathausUndPolitik/Bekanntmachungen/OBVMarktbezirkGeisweid2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffene Sonntage (Dienstleistungen A bis Z)",
+"herausgeber": "Universitätsstadt Siegen",
+"art": "Stadtseite",
+"url": "https://www.siegen.de/rathaus-politik/stadtverwaltung/dienstleistungen-a-bis-z/detailseite/verkaufsoffene-sonntage",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Ratsbeschluss vom 25.03.2026. Die Stadtseite nennt für Geisweid den „12. Oktober 2026“ (ein Montag); maßgeblich ist die Verordnung: Sonntag, 11. Oktober 2026. Für 2027 noch keine Verordnung veröffentlicht."
+},
+{
+"id": "solingen",
+"name": "Solingen",
+"land": "NW",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt der Klingenstadt Solingen – Verzeichnis",
+"herausgeber": "Klingenstadt Solingen",
+"art": "Amtsblatt",
+"url": "https://www.solingen.de/inhalt/verzeichnis/officialJournals",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Das Verzeichnis der Amtsblätter 2026 war lesbar (Ausgaben Nr. 22-43 verlinkt), die PDF-Dateien selbst wurden am 29.10.2026 von der Server-Firewall abgewiesen („Request Rejected“); ältere Ausgaben (Nr. 1-21) sind nur per Skript-Navigation erreichbar. Eine Verordnung über das Offenhalten von Verkaufsstellen 2026 konnte daher nicht eingesehen werden; keine Termine aufgeführt."
+},
+{
+"id": "stuttgart",
+"name": "Stuttgart",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-05-10",
+"anlass": "Musik und Wein",
+"bereich": "Stadtbezirk Bad Cannstatt (Gebiet Überkinger Straße, Badstraße, Wilhelmsplatz/Wilhelmstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-05-10",
+"anlass": "Maibaumfest",
+"bereich": "Stadtbezirk Weilimdorf",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-21",
+"anlass": "Sillenbuch in Weiss",
+"bereich": "Stadtbezirk Sillenbuch (Kirchheimer Straße ab Trossinger Straße bis Höhe Nr. 108)",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-06-21",
+"anlass": "Fleckenfest",
+"bereich": "Stadtbezirk Zuffenhausen (inkl. Gebiete mit PLZ 70435)",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-13",
+"anlass": "Feuerbacher Kirbe",
+"bereich": "Stadtbezirk Feuerbach (Teilgebiet)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Vaihinger Herbst",
+"bereich": "Stadtbezirk Vaihingen",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Volksfestumzug",
+"bereich": "Stadtbezirk Bad Cannstatt (Teilgebiet inkl. Seelbergstraße, Daimlerstraße bis Wasen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Knausbira-Sonntag",
+"bereich": "Stadtbezirk Hedelfingen",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Möhringer Herbst",
+"bereich": "Stadtbezirk Möhringen",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-11",
+"anlass": "Weilemer Herbst",
+"bereich": "Stadtbezirk Weilimdorf",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-25",
+"anlass": "Degerlocher Kirbe",
+"bereich": "Stadtbezirk Degerloch (Teilgebiet)",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-25",
+"anlass": "Fleggatreff",
+"bereich": "Stadtbezirk Untertürkheim (Teilgebiet)",
+"zeit": "12-17 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-08",
+"anlass": "Martinimarkt",
+"bereich": "Stadtbezirk Sillenbuch (Kirchheimer Straße ab Trossinger Straße bis Höhe Nr. 108)",
+"zeit": "12-17 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Allgemeinverfügung über verkaufsoffene Sonntage im Jahr 2026 in der Landeshauptstadt Stuttgart (vom 24.11.2025)",
+"herausgeber": "Landeshauptstadt Stuttgart, Amt für öffentliche Ordnung",
+"art": "Allgemeinverfügung",
+"url": "https://www.stuttgart.de/medien/ibs/allgemeinverfuegung_2026_kurz.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Allgemeinverfügung über einen verkaufsoffenen Sonntag am 10.5.2026 in der Landeshauptstadt Stuttgart (vom 20.04.2026)",
+"herausgeber": "Landeshauptstadt Stuttgart, Amt für öffentliche Ordnung",
+"art": "Allgemeinverfügung",
+"url": "https://www.stuttgart.de/medien/downloads/amtliche-bekanntmachungen/amt-fuer-oeffentliche-ordnung/1826-AV-Verkaufsoffener-Sonntag-Mai-2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Teilweiser Widerruf der Allgemeinverfügung vom 24.11.2025 (Nr. 2 Vaihingen 10.5.2026), Stuttgarter Amtsblatt Nr. 16 vom 16.04.2026",
+"herausgeber": "Landeshauptstadt Stuttgart",
+"art": "Allgemeinverfügung",
+"url": "https://www.stuttgart.de/rathaus/stadtbezirke/verkaufsoffene-sonntage.php.media/480799/1626-Allgemeinverfuegung-teilweise-Widerruf-VoS.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Teilweiser Widerruf der Allgemeinverfügung vom 24.11.2025 (Nr. 14 Bad Cannstatt 8.11.2026, Martini-Umzug abgesagt)",
+"herausgeber": "Landeshauptstadt Stuttgart",
+"art": "Allgemeinverfügung",
+"url": "https://www.stuttgart.de/medien/downloads/amtliche-bekanntmachungen/amt-fuer-oeffentliche-ordnung/4226-AV-Widerruf-verkaufsoffene-Sonntage.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Verkaufsoffene Sonntage 2026 (Stand 14.10.2026)",
+"herausgeber": "Landeshauptstadt Stuttgart",
+"art": "Stadtseite",
+"url": "https://www.stuttgart.de/rathaus/stadtbezirke/verkaufsoffene-sonntage",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Nur in Stadtbezirken, nicht in der Innenstadt. Widerrufen: Vaihingen 10.05.2026 (Vaihinger Frühling abgesagt) und Bad Cannstatt 08.11.2026 (Martini-Umzug abgesagt). Bad Cannstatt »Musik und Wein« stand in der AV vom 24.11.2025 am 12.04.2026 und wurde per AV vom 20.04.2026 für den 10.05.2026 zugelassen; die städtische Übersicht (Stand 14.10.2026) führt nur den 10.05. Für 2027 noch keine Allgemeinverfügung veröffentlicht."
+},
+{
+"id": "trier",
+"name": "Trier",
+"land": "RP",
+"termine": [
+{
+"datum": "2026-03-29",
+"anlass": null,
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-03",
+"anlass": null,
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-25",
+"anlass": null,
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-11-29",
+"anlass": null,
+"bereich": "gesamtes Stadtgebiet",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Rechtsverordnung über das Offenhalten von Verkaufsstellen in der Stadt Trier am 29.03., 03.05., 25.10. und 29.11.2026 (Amtsblatt Trier Nr. 2 vom 13.01.2026)",
+"herausgeber": "Stadt Trier",
+"art": "Amtsblatt",
+"url": "https://www.trier.de/media/www.trier.de/org/med_4038/13909_amtsblatttrier_nr_2_20260113.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Amtsblätter 2026 auf trier.de durchsucht. Für 2027 noch keine Verordnung."
+},
+{
+"id": "tuebingen",
+"name": "Tübingen",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-03-22",
+"anlass": "Frühlings- und Antiquitätenmarkt",
+"bereich": "Innenstadt (Altstadt, Europaplatz samt Zinserdreieck)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-02",
+"anlass": "Tübinger Oldtimer Classic",
+"bereich": "Innenstadt (Altstadt, Europaplatz samt Zinserdreieck)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-20",
+"anlass": "Umbrisch-Provenzalischer Markt",
+"bereich": "Innenstadt (Altstadt, Europaplatz samt Zinserdreieck)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Satzung über das Offenhalten von Verkaufsstellen im Stadtgebiet Tübingen für die Jahre 2025 und 2026 (Anlage zur Gemeinderatsvorlage 57/2025)",
+"herausgeber": "Universitätsstadt Tübingen",
+"art": "Satzung",
+"url": "https://www.tuebingen.de/gemeinderat/getfile.asp?id=98151&type=do",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Vorlage 57/2025: Satzung über das Offenhalten von Verkaufsstellen an Sonntagen in den Jahren 2025 und 2026 (Verkaufsoffene Sonntage)",
+"herausgeber": "Universitätsstadt Tübingen",
+"art": "Stadtseite",
+"url": "https://www.tuebingen.de/gemeinderat/vo0050.php?__kvonr=18230",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Quelle ist die Satzung als Anlage der Gemeinderatsvorlage 57/2025 (die Termine 2025 fanden statt). Für 2027 noch keine Satzung veröffentlicht (Tübingen beschließt jeweils für zwei Jahre)."
+},
+{
+"id": "ulm",
+"name": "Ulm",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-10-03",
+"anlass": "Ulmer Marktsonntag (Herbst-, Antik- und Kunsthandwerkermarkt)",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Ulmer Marktsonntag & verkaufsoffener Sonntag",
+"herausgeber": "Ulm/Neu-Ulm Touristik GmbH (Tourismusgesellschaft der Städte Ulm und Neu-Ulm)",
+"art": "Stadtmarketing",
+"url": "https://tourismus.ulm.de/de/entdecken/veranstaltungen/veranstaltungshighlights/ulmer-marktsonntag",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "ulm.de (Öffentliche Bekanntmachungen, Satzungen) antwortet mit 403; die Satzung 2026 konnte nicht gelesen werden. Die Touristik-Seite nennt 03.10.2026 (Samstag, Tag der Deutschen Einheit), Geschäfte 13-18 Uhr; ein Frühjahrstermin 2026 ist dort nicht genannt. Vorjahre: Satzungen mit Frühjahrs- und Herbsttermin."
+},
+{
+"id": "villingen-schwenningen",
+"name": "Villingen-Schwenningen",
+"land": "BW",
+"termine": [
+{
+"datum": "2026-04-19",
+"anlass": "Altstadt Antikmarkt",
+"bereich": "Stadtbezirk Villingen und Ortsteile Herzogenweiler, Marbach, Obereschach, Pfaffenweiler, Rietheim, Tannheim, Weilersbach",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-05-10",
+"anlass": "Frühjahrsmarkt",
+"bereich": "Stadtbezirk Schwenningen und Ortsteile Mühlhausen, Weigheim",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-27",
+"anlass": "Kürbisfest",
+"bereich": "Stadtbezirk Schwenningen und Ortsteile Mühlhausen, Weigheim",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-10-18",
+"anlass": "Museumsfest des Fördervereins Kulturzentrum Franziskaner",
+"bereich": "Stadtbezirk Villingen und Ortsteile Herzogenweiler, Marbach, Obereschach, Pfaffenweiler, Rietheim, Tannheim, Weilersbach",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-04-11",
+"anlass": "Altstadt Antikmarkt",
+"bereich": "Stadtbezirk Villingen und Ortsteile Herzogenweiler, Marbach, Obereschach, Pfaffenweiler, Rietheim, Tannheim, Weilersbach",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-04-25",
+"anlass": "Frühjahrsmarkt",
+"bereich": "Stadtbezirk Schwenningen und Ortsteile Mühlhausen, Weigheim",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-09-26",
+"anlass": "Kürbisfest",
+"bereich": "Stadtbezirk Schwenningen und Ortsteile Mühlhausen, Weigheim",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-10-17",
+"anlass": "Museumsfest des Fördervereins Kulturzentrum Franziskaner",
+"bereich": "Stadtbezirk Villingen und Ortsteile Herzogenweiler, Marbach, Obereschach, Pfaffenweiler, Rietheim, Tannheim, Weilersbach",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "veroeffentlicht",
+"quellen": [
+{
+"titel": "Satzung zur Durchführung von verkaufsoffenen Sonntagen im Gebiet der Stadt Villingen-Schwenningen in den Jahren 2025 bis 2030 vom 18.12.2024 (Amtliche Bekanntmachung 19.12.2024)",
+"herausgeber": "Stadt Villingen-Schwenningen",
+"art": "Satzung",
+"url": "https://www.villingen-schwenningen.de/fileadmin/VS/01_Rathaus_Leben/Unsere_Stadt/Ortsrecht/2025/19.12.2024_Amtliche_Bekanntmachung_Satzung_zur_Durchf%C3%BChrung_von_verkaufsoffenen_Sonntagen.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Satzung mit festen Daten 2025–2030 (auch 2028–2030 enthalten)."
+},
+{
+"id": "wiesbaden",
+"name": "Wiesbaden",
+"land": "HE",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "Keine amtliche Festsetzung für 2026 gefunden: wiesbaden.de (Sitemap, öffentliche Bekanntmachungen, Pressemitteilungen 2026 inkl. »Heimat shoppen« Aug./Sept. 2026) nennt keinen verkaufsoffenen Sonntag 2026; letzte städtische Erwähnung betrifft September 2025. Keine Termine übernommen."
+},
+{
+"id": "witten",
+"name": "Witten",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-05-17",
+"anlass": "Himmelfahrtskirmes",
+"bereich": "Innenstadt Witten-Mitte (u. a. Ruhrstraße, Bahnhofstraße)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-09-06",
+"anlass": "Zwiebelkirmes",
+"bereich": "Innenstadt Witten-Mitte",
+"zeit": null,
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Pressemitteilung „Wittener Himmelfahrtskirmes“ (05.05.2026)",
+"herausgeber": "Stadt Witten",
+"art": "Pressemitteilung",
+"url": "https://www.witten.de/portal/pressemitteilungen/uebersicht-900002234-37500.html?rubrik=900000028",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Pressemitteilung „Zwiebelkirmes von oben“ und „Geschichte mit Aussicht“ (02.09.2026)",
+"herausgeber": "Stadt Witten",
+"art": "Pressemitteilung",
+"url": "https://www.witten.de/portal/pressemitteilungen/uebersicht-900002662-37500.html?rubrik=900000028",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Ordnungsbehördliche Verordnung der Stadt Witten über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen vom 19.06.2007 (Ortsrecht 3.6.2, Stand: Änderung vom 13.05.2025)",
+"herausgeber": "Stadt Witten",
+"art": "Verordnung",
+"url": "https://www.witten.de/downloads/datei/NGQzNDUzNDFkOGM4NTkxZmZmVHJkMHg2UVZHWXRKVVdlcUJtcGdhbEFOOXNNSFFkVXNuaHB1US9tVFFtdWpyaUxCdHlYS0xqUmJHMU1HTUtSTVZTZ2Qxd3E5RFRQWEthNFA4WnRSWVllbk9DdXo2bGIxbEdhUUNjV1FlRklqTkUyTjB5TVUzd0xESWp1dlVCTFFSRFFoWGkvaXNtbkgwTFBEVkU3VFJVRDVjckVoc2JTQjk4UEhaNlU3SDBHY0EycUd6SG1UZ0ZhQ0hMaThkYW5ocVB3dnFIVllZcVo0OE1sQ3lBY1BRUCtucDhNMko4WU8wY2hjVHl4SjQ9",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die im Ortsrecht veröffentlichte Fassung der Verordnung nennt nur die Termine 2025 (Himmelfahrtskirmes, Zwiebelkirmes, Weihnachtsmarkt); eine Änderung für 2026 wurde in den Amtsblättern 2026 nicht gefunden. Die Termine 2026 stammen aus Pressemitteilungen der Stadt. Ein Termin zum Weihnachtsmarkt 2026 (2025: 4. Advent) ist noch nicht amtlich veröffentlicht. Für 2027 nichts veröffentlicht."
+},
+{
+"id": "wolfsburg",
+"name": "Wolfsburg",
+"land": "NI",
+"termine": [
+{
+"datum": "2026-05-03",
+"anlass": "Wolfsburger Weintage",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-08-02",
+"anlass": "Weekend Italiano",
+"bereich": "Outlet-Center",
+"zeit": "13-18 Uhr",
+"quelle": 1
+},
+{
+"datum": "2026-08-30",
+"anlass": "Summer Carnival",
+"bereich": "Outlet-Center",
+"zeit": "13-18 Uhr",
+"quelle": 2
+},
+{
+"datum": "2026-10-11",
+"anlass": "Kartoffelsonntag",
+"bereich": "Altstadt Fallersleben",
+"zeit": "12-17 Uhr",
+"quelle": 3
+},
+{
+"datum": "2026-10-11",
+"anlass": "Schweinemarkt",
+"bereich": "Altstadt Vorsfelde",
+"zeit": "12-17 Uhr",
+"quelle": 3
+},
+{
+"datum": "2026-11-01",
+"anlass": "Streetfood Festival",
+"bereich": "Innenstadt",
+"zeit": "13-18 Uhr",
+"quelle": 4
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Amtsblatt für die Stadt Wolfsburg Nr. 16/2026 vom 24.04.2026: Verkaufsoffener Sonntag in der Wolfsburger Innenstadt",
+"herausgeber": "Stadt Wolfsburg",
+"art": "Amtsblatt",
+"url": "https://www.wolfsburg.de/-/media/wolfsburg/statistik_daten_fakten/amtsblatt/2026/amtsblatt_16_2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtsblatt für die Stadt Wolfsburg Nr. 30/2026 vom 31.07.2026: Verkaufsoffener Sonntag in den designer outlets Wolfsburg",
+"herausgeber": "Stadt Wolfsburg",
+"art": "Amtsblatt",
+"url": "https://www.wolfsburg.de/-/media/wolfsburg/statistik_daten_fakten/amtsblatt/2026/amtsblatt_30_2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtsblatt für die Stadt Wolfsburg Nr. 33/2026 vom 21.08.2026: Verkaufsoffener Sonntag in den designer outlets Wolfsburg",
+"herausgeber": "Stadt Wolfsburg",
+"art": "Amtsblatt",
+"url": "https://www.wolfsburg.de/-/media/wolfsburg/statistik_daten_fakten/amtsblatt/2026/amtsblatt_33_2026.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtsblatt für die Stadt Wolfsburg Nr. 38/2026: Bekanntmachung Verkaufsoffener Sonntage (Vorsfelde, Fallersleben)",
+"herausgeber": "Stadt Wolfsburg",
+"art": "Amtsblatt",
+"url": "https://www.wolfsburg.de/-/media/wolfsburg/statistik_daten_fakten/amtsblatt/2026/amtsblatt_38_26.pdf",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Amtsblatt für die Stadt Wolfsburg Nr. 42/2026 vom 23.10.2026: Verkaufsoffener Sonntag in Wolfsburg",
+"herausgeber": "Stadt Wolfsburg",
+"art": "Amtsblatt",
+"url": "https://www.wolfsburg.de/-/media/wolfsburg/statistik_daten_fakten/amtsblatt/2026/amtsblatt_42_2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Jeder Termin wird einzeln kurz vorher im Amtsblatt bekanntgemacht (Ausgaben 2026 bis Nr. 42 durchsucht); weitere Termine 2026 können noch folgen. 2027 noch nicht veröffentlicht."
+},
+{
+"id": "worms",
+"name": "Worms",
+"land": "RP",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [],
+"notiz": "worms.de: Seitensuche findet nur den Eintrag 'Ladenöffnungsgesetz Anträge (verkaufsoffene Sonntage)' im Telefonverzeichnis; keine Rechtsverordnung 2026 gefunden."
+},
+{
+"id": "wuppertal",
+"name": "Wuppertal",
+"land": "NW",
+"termine": [
+{
+"datum": "2026-10-11",
+"anlass": "Barmer Lichterzauber Kirmes",
+"bereich": "Wuppertal-Barmen (Alter Markt, Werth, Johannes-Rau-Platz, Geschwister-Scholl-Platz)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung über das Offenhalten von Verkaufsstellen am 11.10.2026 in Wuppertal-Barmen (Der Stadtbote Nr. 7/2026 vom 11.03.2026, Ratsbeschluss vom 23.02.2026)",
+"herausgeber": "Stadt Wuppertal",
+"art": "Amtsblatt",
+"url": "https://www.wuppertal.de/vv/produkte/302/302.22_Ladenoeffnungszeiten___sonntags_____Sonntagarbeit.php.media/577322/VOS-11_10_2026-Barmer-Lichrterzauber-veroeffentlichte-Verordnung.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Einzige für 2026 erlassene Verordnung. Gegengeprüft im Ratsinformationssystem (ris.wuppertal.de): Ratssitzungen Juni 2025 bis Oktober 2026 enthalten nur Verordnungen für Barmen (12.10.2025, 11.10.2026). Die Stadtseite „Verkaufsoffene Sonntage“ auf wuppertal.de ist per Bot-Sperre (HTTP 403) nicht abrufbar. Für 2027 noch nichts beschlossen."
+},
+{
+"id": "wuerzburg",
+"name": "Würzburg",
+"land": "BY",
+"termine": [
+{
+"datum": "2026-10-25",
+"anlass": "Mantelsonntag (1. Sonntag der Herbstmesse/Allerheiligenmesse)",
+"bereich": "Kernbereich der Altstadt (Innenstadt)",
+"zeit": "13-18 Uhr",
+"quelle": 1
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Verordnung der Stadt Würzburg über den Vollzug des Ladenschlussgesetzes (städtische Ladenschlussverordnung), zuletzt geändert durch Beschluss vom 28. April 2026 (MP und VBl Nr. 99), § 3 Mantelsonntag, § 3a Hätzfeld hat's",
+"herausgeber": "Stadt Würzburg",
+"art": "Verordnung",
+"url": "https://www.wuerzburg.de/m_10768_dl",
+"gelesen": "2026-10-29"
+},
+{
+"titel": "Mantelsonntag am 25. Oktober 2026",
+"herausgeber": "Stadtmarketing „Würzburg macht Spaß“ e.V.",
+"art": "Stadtmarketing",
+"url": "https://wuems.de/mantelsonntag",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Die Dauer-Verordnung erlaubt den Mantelsonntag (1. Sonntag der Herbstmesse) in der Altstadt und einen Sonntag zum Stadtteilfest »Hätzfeld hat's« in Heidingsfeld (13–18 Uhr). Das Datum des Stadtteilfests 2026 wurde amtlich nicht gefunden und ist daher nicht aufgeführt. Für 2027 Messetermin noch nicht veröffentlicht."
+},
+{
+"id": "zwickau",
+"name": "Zwickau",
+"land": "SN",
+"termine": [
+{
+"datum": "2026-12-06",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Innenstadt innerhalb des Dr.-Friedrichs-Rings zzgl. Äußere Plauensche Straße",
+"zeit": "12-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2026-12-20",
+"anlass": "Weihnachtsmarkt",
+"bereich": "Innenstadt innerhalb des Dr.-Friedrichs-Rings zzgl. Äußere Plauensche Straße",
+"zeit": "12-18 Uhr",
+"quelle": 0
+}
+],
+"status2026": "veroeffentlicht",
+"status2027": "nicht-veroeffentlicht",
+"quellen": [
+{
+"titel": "Rechtsverordnung über verkaufsoffene Sonntage 2026 aus Anlass des Weihnachtsmarktes vom 01.04.2026 (Elektronisches Amtsblatt 14/2026)",
+"herausgeber": "Stadt Zwickau",
+"art": "Amtsblatt",
+"url": "https://www.zwickau.de/media/downloads/image/01_buerger/e_amtsblatt/2026/Elektronisches-Amtsblatt-14-2026.pdf",
+"gelesen": "2026-10-29"
+}
+],
+"notiz": "Elektronische Amtsblätter 2026 (Liste der Stadt) durchsucht; keine weitere Verordnung für 2026 gefunden. Für 2027 noch nichts veröffentlicht."
+}
+]
+}

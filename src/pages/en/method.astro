@@ -1,0 +1,44 @@
+---
+/** Method (EN): state acts, rules engine, town research, date finder, tests, limits. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { srcLink } from '../../lib/helpers';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+import { displayDate, formatNumber } from '../../lib/format';
+const lang = 'en';
+const path = route('method', lang);
+const title = 'Shopping Sundays Germany 2026: method, sources and checks';
+const description = 'How we record German shopping Sundays for 2026 and 2027: 16 shop opening acts in full, town ordinances with reading dates, a rules check and automated tests.';
+const s = (k: string, t: string) => srcLink(k, lang, t);
+const d = (x: string) => displayDate(x, 'en-GB');
+const n = (x: number) => formatNumber(x, 0, lang);
+const alle = K.alleTermine();
+const ohne = K.STAEDTE.filter((x) => x.status2026 === 'nicht-gefunden').length;
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'Method', description, path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path }])]} breadcrumbs={[{ label: 'Method' }]}>
+  <article class="prose prose-slate max-w-none">
+    <h1>How we record and check shopping Sundays</h1>
+    <p>This site separates two questions that are often mixed up: what does a state’s act allow, and what has a town actually released? The first is answered by a rule set built from the sixteen shop opening acts, the second by a list of the towns’ own notices. State of the acts and the list: {d(K.STAND)}.</p>
+
+    <h2>The sixteen acts</h2>
+    <p>Each state has its own act, such as the <Fragment set:html={s('lo-nw', 'North Rhine-Westphalia shop opening act')} />, the <Fragment set:html={s('lo-by', 'Bavarian Shop Closing Act')} /> or the <Fragment set:html={s('lo-be', 'Berlin shop opening act')} />. We read every text in the state’s law portal, in the version shown there as in force, and recorded: the maximum number of days, whether holidays count, earliest start, latest end and longest duration, who releases, what occasion is required and which days may never be released. Every item is as the act states it; where the act is silent, such as on hours in Mecklenburg-Western Pomerania, we say “not set”.</p>
+    <p>Some barred days depend on the church year. We compute Easter Sunday with the <Fragment set:html={s('ostern-ptb', 'PTB Easter formula')} />; Palm Sunday is a week before, Whit Sunday 49 days after. The fourth Advent Sunday is the Sunday on or before 24 December, the other three a week apart before it; Totensonntag is the Sunday before the first Advent Sunday, Volkstrauertag two weeks before it. From this the calculator checks, for any Sunday and state, whether a release would be legally possible, and gives the reason if not.</p>
+
+    <h2>The towns’ dates</h2>
+    <p>For {n(K.STAEDTE.length)} towns we looked for ordinances, general orders and official gazettes, plus the pages of the towns and their marketing companies. Each of the {n(alle.length)} entries carries the date, area, occasion, hours and the source with its reading date. Where an ordinance gives a rule instead of a date, such as “second Sunday in October”, we computed the date and noted this with the source. For {n(ohne)} towns we found no official notice for 2026; they appear on the list as “no source”.</p>
+    <p>We do not use aggregator sites, advertising, shopping-centre pages or press articles. Names of individual shops, chains or shopping centres that appear in an ordinance are replaced by a neutral description of the area. A date that has only been announced, not published, stays off the list until the town publishes it.</p>
+
+    <h2>The date finder</h2>
+    <p>The finder runs in your browser. After loading it reads your device’s date and shows the dates from today, today only or this weekend. The countdown runs to opening time in German time, even if your device is set to another time zone. The calendar file is created on your device to RFC 5545, with the Europe/Berlin time zone; dates without hours appear as all-day events.</p>
+
+    <h2>Tests</h2>
+    <p>Automated tests check at every change: Advent Sundays and Easter for many years, each barring rule against examples from the act, that every source has a secure address and a reading date, that no aggregator site is used, and that every listed date is possible at all under its state’s act. A date the act bars would make the test fail and would have to be resolved at the source.</p>
+
+    <h2>Limits</h2>
+    <p>The list covers large towns and the towns people search for most, not every municipality. Resort and spa rules are not covered. In Saarland shops only notify the local police authority of their Sundays; there is no public list. We learn of urgent court rulings only once the town announces them.</p>
+
+    <h2>Updates</h2>
+    <p>Towns are re-read at every update, above all between November and February, when councils adopt the ordinances for the new year. Report errors through the <a href={route('contact', lang)}>contact page</a>; how we correct is set out in the <a href={route('editorial', lang)}>editorial policy</a>.</p>
+  </article>
+</PageLayout>

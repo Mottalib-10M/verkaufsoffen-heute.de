@@ -1,0 +1,279 @@
+{
+ "_lisezmoi": "Paramètres et sources du site. Chaque règle de src/lib/engine/regeln.ts renvoie à une clé de 'sources' ; chaque date de ville vit dans src/data/staedte.json avec sa propre source. Relire la source avant de changer une valeur, puis mettre retrieved_at à jour.",
+ "year": 2026,
+ "retrieved_at": "2026-10-29",
+ "valid_from": "2026-01-01",
+ "valid_to": "2027-12-31",
+ "jahre": [
+  2026,
+  2027
+ ],
+ "sources": {
+  "lo-bw": {
+   "url": "https://www.landesrecht-bw.de/bsbw/document/jlr-NNLBW00007C45",
+   "label": {
+    "de": "Baden-Württemberg: Gesetz über die Ladenöffnung (LadÖG), § 8",
+    "en": "Baden-Württemberg: Shop Opening Act (LadÖG), section 8"
+   }
+  },
+  "lo-by": {
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayLadSchlG-6",
+   "label": {
+    "de": "Bayern: Bayerisches Ladenschlussgesetz (BayLadSchlG) vom 25. Juli 2025, Art. 6",
+    "en": "Bavaria: Bavarian Shop Closing Act (BayLadSchlG) of 25 July 2025, Art. 6"
+   }
+  },
+  "lo-be": {
+   "url": "https://gesetze.berlin.de/bsbe/document/jlr-NNLBE00004B5F",
+   "label": {
+    "de": "Berlin: Berliner Ladenöffnungsgesetz (BerlLadÖffG), § 6",
+    "en": "Berlin: Berlin Shop Opening Act (BerlLadÖffG), section 6"
+   }
+  },
+  "lo-bb": {
+   "url": "https://bravors.brandenburg.de/gesetze/bbgloeg",
+   "label": {
+    "de": "Brandenburg: Brandenburgisches Ladenöffnungsgesetz (BbgLöG), § 5",
+    "en": "Brandenburg: Brandenburg Shop Opening Act (BbgLöG), section 5"
+   }
+  },
+  "lo-hb": {
+   "url": "https://www.transparenz.bremen.de/sixcms/detail.php?gsid=bremen2014_tp.c.68438.de",
+   "label": {
+    "de": "Bremen: Bremisches Ladenschlussgesetz, § 10",
+    "en": "Bremen: Bremen Shop Closing Act, section 10"
+   }
+  },
+  "lo-hh": {
+   "url": "https://www.landesrecht-hamburg.de/bsha/document/jlr-NNLHH00006D9C",
+   "label": {
+    "de": "Hamburg: Hamburgisches Gesetz zur Regelung der Ladenöffnungszeiten (LÖG), § 8",
+    "en": "Hamburg: Hamburg Shop Opening Hours Act (LÖG), section 8"
+   }
+  },
+  "lo-he": {
+   "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000051A7NN00000000013",
+   "label": {
+    "de": "Hessen: Hessisches Ladenöffnungsgesetz (HLöG), § 6",
+    "en": "Hesse: Hessian Shop Opening Act (HLöG), section 6"
+   }
+  },
+  "lo-mv": {
+   "url": "https://www.landesrecht-mv.de/bsmv/document/jlr-NNLMV00007266",
+   "label": {
+    "de": "Mecklenburg-Vorpommern: Öffnungszeitengesetz (ÖffZG M-V) vom 10. Januar 2024, § 6",
+    "en": "Mecklenburg-Western Pomerania: Opening Hours Act (ÖffZG M-V) of 10 January 2024, section 6"
+   }
+  },
+  "lo-ni": {
+   "url": "https://voris.wolterskluwer-online.de/browse/document/2d07af25-4331-3998-8b3b-4e6b02ac90e9",
+   "label": {
+    "de": "Niedersachsen: Gesetz über Ladenöffnungs- und Verkaufszeiten (NLöffVZG), § 5",
+    "en": "Lower Saxony: Shop Opening and Sales Hours Act (NLöffVZG), section 5"
+   }
+  },
+  "lo-nw": {
+   "url": "https://recht.nrw.de/lrgv/gesetz/30032018-gesetz-zur-regelung-der-ladenoeffnungszeiten-ladenoeffnungsgesetz-loeg-nrw/",
+   "label": {
+    "de": "Nordrhein-Westfalen: Ladenöffnungsgesetz (LÖG NRW), § 6",
+    "en": "North Rhine-Westphalia: Shop Opening Act (LÖG NRW), section 6"
+   }
+  },
+  "lo-rp": {
+   "url": "https://landesrecht.rlp.de/bsrp/document/jlr-NNLRP00005F66",
+   "label": {
+    "de": "Rheinland-Pfalz: Ladenöffnungsgesetz (LadöffnG), § 10",
+    "en": "Rhineland-Palatinate: Shop Opening Act (LadöffnG), section 10"
+   }
+  },
+  "lo-sl": {
+   "url": "https://recht.saarland.de/bssl/document/jlr-NNLSL0000A2EFNN00000000009",
+   "label": {
+    "de": "Saarland: Ladenöffnungsgesetz (LÖG Saarland), § 8",
+    "en": "Saarland: Shop Opening Act (LÖG Saarland), section 8"
+   }
+  },
+  "lo-sn": {
+   "url": "https://www.revosax.sachsen.de/vorschrift/11548-Saechsisches-Ladenoeffnungsgesetz",
+   "label": {
+    "de": "Sachsen: Sächsisches Ladenöffnungsgesetz (SächsLadÖffG), § 8",
+    "en": "Saxony: Saxon Shop Opening Act (SächsLadÖffG), section 8"
+   }
+  },
+  "lo-st": {
+   "url": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-NNLST000041C8",
+   "label": {
+    "de": "Sachsen-Anhalt: Ladenöffnungszeitengesetz (LÖffZeitG LSA), § 7",
+    "en": "Saxony-Anhalt: Shop Opening Hours Act (LÖffZeitG LSA), section 7"
+   }
+  },
+  "lo-sh": {
+   "url": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-NNLSH00002A93",
+   "label": {
+    "de": "Schleswig-Holstein: Ladenöffnungszeitengesetz (LÖffZG), § 5",
+    "en": "Schleswig-Holstein: Shop Opening Hours Act (LÖffZG), section 5"
+   }
+  },
+  "lo-th": {
+   "url": "https://landesrecht.thueringen.de/bsth/document/jlr-NNLTH00003E18",
+   "label": {
+    "de": "Thüringen: Thüringer Ladenöffnungsgesetz (ThürLadÖffG), § 10",
+    "en": "Thuringia: Thuringian Shop Opening Act (ThürLadÖffG), section 10"
+   }
+  },
+  "gg-140": {
+   "url": "https://www.gesetze-im-internet.de/gg/art_140.html",
+   "label": {
+    "de": "Grundgesetz, Art. 140 (mit Art. 139 Weimarer Reichsverfassung: Schutz der Sonn- und Feiertage)",
+    "en": "Basic Law, Art. 140 (with Art. 139 Weimar Constitution: protection of Sundays and holidays)"
+   }
+  },
+  "bverfg-2009": {
+   "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/12/rs20091201_1bvr285707.html",
+   "label": {
+    "de": "Bundesverfassungsgericht, Urteil vom 1. Dezember 2009, 1 BvR 2857/07 (Adventssonntage in Berlin)",
+    "en": "Federal Constitutional Court, judgment of 1 December 2009, 1 BvR 2857/07 (Advent Sundays in Berlin)"
+   }
+  },
+  "ladschlg-14": {
+   "url": "https://www.gesetze-im-internet.de/ladschlg/__14.html",
+   "label": {
+    "de": "Gesetz über den Ladenschluss (Bund), § 14: gilt in Bayern seit 1. August 2025 nicht mehr",
+    "en": "Federal Shop Closing Act, section 14: no longer applies in Bavaria since 1 August 2025"
+   }
+  },
+  "ftg-bw": {
+   "url": "https://www.landesrecht-bw.de/bsbw/document/jlr-FeiertGBWrahmen",
+   "label": {
+    "de": "Baden-Württemberg: Gesetz über die Sonntage und Feiertage (Feiertagsgesetz), § 1",
+    "en": "Baden-Württemberg: Sunday and Public Holiday Act, section 1"
+   }
+  },
+  "ftg-by": {
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayFTG-1",
+   "label": {
+    "de": "Bayern: Feiertagsgesetz (FTG), Art. 1",
+    "en": "Bavaria: Public Holiday Act (FTG), Art. 1"
+   }
+  },
+  "by-mh": {
+   "url": "https://www.statistik.bayern.de/statistik/gebiet_bevoelkerung/zensus/himmelfahrt/index.php",
+   "label": {
+    "de": "Bayerisches Landesamt für Statistik: Mariä Himmelfahrt, Gemeinden mit überwiegend katholischer Bevölkerung (Zensus 2022)",
+    "en": "Bavarian State Office for Statistics: municipalities with a predominantly Catholic population for Assumption Day (2022 census)"
+   }
+  },
+  "ftg-be": {
+   "url": "https://gesetze.berlin.de/perma?a=FeiertG_BE",
+   "label": {
+    "de": "Berlin: Gesetz über die Sonn- und Feiertage (FeiertG), § 1",
+    "en": "Berlin: Sunday and Public Holiday Act (FeiertG), section 1"
+   }
+  },
+  "ftg-bb": {
+   "url": "https://bravors.brandenburg.de/gesetze/ftg_2015",
+   "label": {
+    "de": "Brandenburg: Feiertagsgesetz (FTG), § 2",
+    "en": "Brandenburg: Public Holiday Act (FTG), section 2"
+   }
+  },
+  "ftg-hb": {
+   "url": "https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-sonn-gedenk-und-feiertage-vom-12-november-1954-74780",
+   "label": {
+    "de": "Bremen: Gesetz über die Sonn-, Gedenk- und Feiertage, § 2",
+    "en": "Bremen: Act on Sundays, Days of Remembrance and Public Holidays, section 2"
+   }
+  },
+  "ftg-hh": {
+   "url": "https://www.landesrecht-hamburg.de/bsha/document/jlr-FeiertGHArahmen",
+   "label": {
+    "de": "Hamburg: Gesetz über Sonntage, Feiertage, Gedenktage und Trauertage (Feiertagsgesetz), § 1",
+    "en": "Hamburg: Public Holiday Act, section 1"
+   }
+  },
+  "ftg-he": {
+   "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-FeiertGHE1952rahmen",
+   "label": {
+    "de": "Hessen: Hessisches Feiertagsgesetz (HFeiertagsG), § 1",
+    "en": "Hesse: Public Holiday Act (HFeiertagsG), section 1"
+   }
+  },
+  "ftg-mv": {
+   "url": "https://www.landesrecht-mv.de/bsmv/document/jlr-FTGMVrahmen",
+   "label": {
+    "de": "Mecklenburg-Vorpommern: Feiertagsgesetz (FTG M-V), § 2",
+    "en": "Mecklenburg-Western Pomerania: Public Holiday Act (FTG M-V), section 2"
+   }
+  },
+  "ftg-ni": {
+   "url": "https://www.mi.niedersachsen.de/themen/allgemeine_angelegenheiten_inneren/feiertagsrecht/feiertagsgesetz-61491.html",
+   "label": {
+    "de": "Niedersachsen: Niedersächsisches Gesetz über die Feiertage (NFeiertagsG), § 2, Innenministerium",
+    "en": "Lower Saxony: Public Holiday Act (NFeiertagsG), section 2, Ministry of the Interior"
+   }
+  },
+  "ftg-nw": {
+   "url": "https://recht.nrw.de/lrgv/gesetz/01012000-bekanntmachung-der-neufassung-des-gesetzes-ueber-die-sonn-und-feiertage/",
+   "label": {
+    "de": "Nordrhein-Westfalen: Gesetz über die Sonn- und Feiertage (Feiertagsgesetz NW), § 2",
+    "en": "North Rhine-Westphalia: Sunday and Public Holiday Act (Feiertagsgesetz NW), section 2"
+   }
+  },
+  "ftg-rp": {
+   "url": "https://landesrecht.rlp.de/bsrp/document/jlr-FeiertGRPrahmen",
+   "label": {
+    "de": "Rheinland-Pfalz: Landesgesetz über den Schutz der Sonn- und Feiertage (LFtG), § 2",
+    "en": "Rhineland-Palatinate: Sunday and Public Holiday Protection Act (LFtG), section 2"
+   }
+  },
+  "ftg-sl": {
+   "url": "https://recht.saarland.de/perma?a=FeiertG_SL",
+   "label": {
+    "de": "Saarland: Gesetz über die Sonn- und Feiertage (SFG), § 2",
+    "en": "Saarland: Sunday and Public Holiday Act (SFG), section 2"
+   }
+  },
+  "ftg-sn": {
+   "url": "https://www.revosax.sachsen.de/vorschrift/3997-SaechsSFG",
+   "label": {
+    "de": "Sachsen: Gesetz über Sonn- und Feiertage im Freistaat Sachsen (SächsSFG), § 1",
+    "en": "Saxony: Sunday and Public Holiday Act (SächsSFG), section 1"
+   }
+  },
+  "sn-fl": {
+   "url": "https://www.revosax.sachsen.de/vorschrift/4142-FronleichnamsVO",
+   "label": {
+    "de": "Sachsen: Verordnung über den Feiertag Fronleichnam (FronleichnamsVO)",
+    "en": "Saxony: Corpus Christi Ordinance (FronleichnamsVO)"
+   }
+  },
+  "ftg-st": {
+   "url": "https://www.landesrecht.sachsen-anhalt.de/perma?a=FeiertG_ST",
+   "label": {
+    "de": "Sachsen-Anhalt: Gesetz über die Sonn- und Feiertage (FeiertG LSA), § 2",
+    "en": "Saxony-Anhalt: Sunday and Public Holiday Act (FeiertG LSA), section 2"
+   }
+  },
+  "ftg-sh": {
+   "url": "https://www.gesetze-rechtsprechung.sh.juris.de/perma?a=FeiertG_SH",
+   "label": {
+    "de": "Schleswig-Holstein: Gesetz über Sonn- und Feiertage (SFTG), § 2",
+    "en": "Schleswig-Holstein: Sunday and Public Holiday Act (SFTG), section 2"
+   }
+  },
+  "ftg-th": {
+   "url": "https://landesrecht.thueringen.de/bsth/document/jlr-FeiertGTHrahmen",
+   "label": {
+    "de": "Thüringen: Thüringer Feier- und Gedenktagsgesetz (ThürFGtG), §§ 2 und 10",
+    "en": "Thuringia: Public Holiday and Commemoration Act (ThürFGtG), sections 2 and 10"
+   }
+  },
+  "ostern-ptb": {
+   "url": "https://www.ptb.de/cms/ptb/fachabteilungen/abt4/fb-44/ag-441/darstellung-der-gesetzlichen-zeit/wann-ist-ostern.html",
+   "label": {
+    "de": "Physikalisch-Technische Bundesanstalt: Wann ist Ostern? (Gaußsche Osterformel)",
+    "en": "Physikalisch-Technische Bundesanstalt (PTB): When is Easter? (Gauss's Easter formula)"
+   }
+  }
+ }
+}

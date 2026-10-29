@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { displayDate } from '../../lib/format';
+const lang = 'en';
+---
+<PageLayout title="Editorial policy: sources, checks and corrections" description="Where the acts and shopping Sunday dates come from, in what order we read sources, how we check them and what happens when something is wrong or a date is cancelled." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Editorial policy and corrections</h1>
+    <p>Travel into town because of a wrong date and you find the doors shut. So this page sets out where each date comes from and what happens when something is wrong.</p>
+    <h2>Responsibility</h2><p>Content and tools are the responsibility of {AUTHOR_NAME}. Contact: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Order of sources</h2>
+    <ol>
+      <li><strong>Acts</strong> in force on the states’ law portals: the sixteen shop opening acts, plus Art. 140 of the Basic Law;</li>
+      <li><strong>Town decisions</strong>: ordinances, bylaws and general orders in the official gazette, notices on the town’s website;</li>
+      <li><strong>Town statements</strong>: pages of public order offices and municipal marketing companies, the town’s press releases where no ordinance is online.</li>
+    </ol>
+    <p>Aggregator sites, advertising, shopping-centre pages and newspaper articles are not a source for a date. Where there is no official source we write “not yet published” or “no source”.</p>
+    <h2>Computed where possible</h2><p>Church-year barred days such as Easter, Whitsun, Advent and Totensonntag are derived from their rules by a calculation core. Automated tests check at every change that each listed date is possible under its state’s act and that every source has a reading date.</p>
+    <h2>Rhythm</h2><p>Towns are re-read at every update, above all from November to February. A full review of the acts at least every {REVIEW_CYCLE_MONTHS} months and after every change in the law.</p>
+    <h2>Handling errors and cancellations</h2>
+    <ol><li>Check at the source.</li><li>Correct or remove the date, with a new reading date.</li><li>New position on every page and in the calendar file.</li></ol>
+    <h2>Independence</h2><p>No money from shops, shopping centres, associations or authorities. No affiliate links, no paid content, no lead-generation form.</p>
+    <p>See also <a href={route('method', lang)}>method</a>. Version of {displayDate(LAST_UPDATED, 'en-GB')}.</p>
+  </div>
+</PageLayout>

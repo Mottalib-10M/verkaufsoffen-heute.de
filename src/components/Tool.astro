@@ -1,0 +1,12 @@
+---
+/** L'outil d'une page : le Termin-Finder (date du visiteur, .ics) ou un simulateur déclaratif de tool-specs.ts. */
+import SpecTool from './calc/SpecTool';
+import Finder from './vs/Finder';
+import { route } from '../i18n/routes';
+import type { Lang } from '../lib/format';
+interface Props { kind: string; lang: Lang; arg?: Record<string, number | string>; idPrefix?: string }
+const { kind, lang, arg, idPrefix = 't' } = Astro.props;
+const methodHref = route('method', lang);
+---
+{kind === 'finder' ? <Finder client:load lang={lang} land={arg?.land ? String(arg.land) : undefined} stadt={arg?.stadt ? String(arg.stadt) : undefined} modus={arg?.modus ? (String(arg.modus) as any) : undefined} methodHref={methodHref} idPrefix={idPrefix} />
+  : <SpecTool client:load kind={kind} lang={lang} arg={arg ? JSON.stringify(arg) : undefined} methodHref={methodHref} idPrefix={idPrefix} />}

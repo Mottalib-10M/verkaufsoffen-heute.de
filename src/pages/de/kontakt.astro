@@ -1,0 +1,22 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { CONTACT_EMAIL, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'de';
+const description = 'Schreiben Sie uns, wenn ein verkaufsoffener Sonntag fehlt, abgesagt wurde oder falsch eingetragen ist, oder wenn Sie den Termin-Finder auf Ihrer Seite einbinden möchten.';
+---
+<PageLayout title={`Kontakt zu ${SITE_NAMES[lang]}: Termin melden, Finder einbinden`} description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Kontakt', description, path: route('contact', lang), lang })]} breadcrumbs={[{ label: 'Kontakt' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Kontakt</h1>
+    <p>E-Mail: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Antwort meist innerhalb einer Woche.</p>
+    <h2>Ein Termin fehlt oder stimmt nicht</h2>
+    <p>Nennen Sie die Stadt, das Datum und, wenn möglich, den Link zur Verordnung, zur Allgemeinverfügung oder zum Amtsblatt. Wir prüfen an der Quelle und korrigieren innerhalb weniger Tage. Termine aus Werbung oder Sammelseiten übernehmen wir nicht.</p>
+    <h2>Ihre Stadt fehlt</h2>
+    <p>Schreiben Sie uns den Namen der Stadt und, wenn Sie ihn kennen, den Ort, an dem sie ihre Sonntage bekannt macht. Wir nehmen eine Stadt auf, sobald wir die amtliche Quelle selbst gelesen haben.</p>
+    <h2>Finder einbinden</h2>
+    <p>Stadtmarketing, Vereine und Lokalzeitungen können den Termin-Finder kostenlos einbinden: <a href={route('widget', lang)}>Einbinden</a>.</p>
+    <h2>Was wir nicht leisten</h2>
+    <p>Keine Rechtsberatung, keine Auskunft über Öffnungszeiten einzelner Geschäfte und keine Werbung für Geschäfte.</p>
+  </div>
+</PageLayout>

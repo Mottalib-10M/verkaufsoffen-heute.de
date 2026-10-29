@@ -1,0 +1,58 @@
+# Sources primaires du site (lois des Länder et jurisprudence) — une ligne de justification par domaine.
+
+# Bundesverfassungsgericht: Urteil 1 BvR 2857/07 zu den Adventssonntagen (Sonntagsschutz)
+bundesverfassungsgericht.de
+
+# Bayern: amtliche Rechtssammlung des Freistaats (BayLadSchlG)
+gesetze-bayern.de
+
+# Brandenburg: amtliches Vorschriftensystem BRAVORS (BbgLöG)
+bravors.brandenburg.de
+
+# Schleswig-Holstein: Landesrechtsportal (LÖffZG)
+gesetze-rechtsprechung.sh.juris.de
+
+# Berlin: amtliches Landesrechtsportal (BerlLadÖffG)
+gesetze.berlin.de
+
+# Baden-Württemberg: Landesrecht BW (LadÖG)
+landesrecht-bw.de
+
+# Hamburg: Landesrecht Hamburg (LÖG)
+landesrecht-hamburg.de
+
+# Mecklenburg-Vorpommern: Landesrecht M-V (ÖffZG M-V)
+landesrecht-mv.de
+
+# Rheinland-Pfalz: Landesrecht RLP (LadöffnG)
+landesrecht.rlp.de
+
+# Sachsen-Anhalt: Landesrecht LSA (LÖffZeitG)
+landesrecht.sachsen-anhalt.de
+
+# Thüringen: Landesrecht Thüringen (ThürLadÖffG)
+landesrecht.thueringen.de
+
+# Nordrhein-Westfalen: recht.nrw.de, amtliche Sammlung des Landesrechts (LÖG NRW)
+recht.nrw.de
+
+# Saarland: amtliches Rechtsportal (LÖG Saarland)
+recht.saarland.de
+
+# Sachsen: REVOSAX, Recht und Vorschriftenverwaltung Sachsen (SächsLadÖffG)
+revosax.sachsen.de
+
+# Hessen: Bürgerservice Hessenrecht (HLöG)
+rv.hessenrecht.hessen.de
+
+# Bremen: Transparenzportal mit dem amtlichen Landesrecht (Bremisches Ladenschlussgesetz)
+transparenz.bremen.de
+
+# Niedersachsen: VORIS, Niedersächsisches Vorschriften-Informationssystem im Auftrag des Landes (NLöffVZG)
+voris.wolterskluwer-online.de
+
+# Niedersachsen: Ministerium für Inneres (Feiertage)
+mi.niedersachsen.de
+
+# Physikalisch-Technische Bundesanstalt: amtliche Osterformel
+ptb.de
