@@ -3677,48 +3677,19 @@
 "id": "luebeck",
 "name": "Lübeck",
 "land": "SH",
-"termine": [
-{
-"datum": "2026-10-04",
-"anlass": "Eine Stadt feiert Erntedank",
-"bereich": "gesamtes Stadtgebiet",
-"zeit": "13-18 Uhr",
-"quelle": 0
-},
-{
-"datum": "2026-11-08",
-"anlass": "Nordische Filmtage Lübeck",
-"bereich": "gesamtes Stadtgebiet",
-"zeit": "13-18 Uhr",
-"quelle": 0
-},
-{
-"datum": "2027-10-03",
-"anlass": "Eine Stadt feiert Erntedank",
-"bereich": "gesamtes Stadtgebiet",
-"zeit": "13-18 Uhr",
-"quelle": 0
-},
-{
-"datum": "2027-11-07",
-"anlass": "Nordische Filmtage Lübeck",
-"bereich": "gesamtes Stadtgebiet",
-"zeit": "13-18 Uhr",
-"quelle": 0
-}
-],
-"status2026": "veroeffentlicht",
-"status2027": "veroeffentlicht",
+"termine": [],
+"status2026": "nicht-gefunden",
+"status2027": "nicht-gefunden",
 "quellen": [
 {
-"titel": "Bericht VO/2022/11383 „Festsetzung von verkaufsoffenen Sonntagen in der Hansestadt Lübeck 2022-2028“ mit Entwurf der Stadtverordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass (Bürgerschaft, 25.08.2022)",
-"herausgeber": "Hansestadt Lübeck, Ordnungsamt",
+"titel": "Bürgerinformationssystem der Hansestadt Lübeck",
+"herausgeber": "Hansestadt Lübeck",
 "art": "Stadtseite",
-"url": "https://www.luebeck.de/de/rathaus/politik/pil/bi/wicket/resource/org.apache.wicket.Application/doc1504457.pdf",
+"url": "https://www.luebeck.de/de/rathaus/politik/pil/bi/",
 "gelesen": "2026-10-29"
 }
 ],
-"notiz": "Termine 2022-2028 per Stadtverordnung des Bürgermeisters (§ 5 LÖffZG) festgesetzt; online gefunden wurde der der Bürgerschaft vorgelegte Bericht mit dem Verordnungsentwurf, nicht die verkündete Fassung. Sonntagsöffnungen in Travemünde nach der Bäderverordnung des Landes sind hier nicht erfasst."
+"notiz": "Der Bericht VO/2022/11383 der Bürgerschaft (25.08.2022) nannte für 2022-2028 Sonntagsöffnungen zu „Eine Stadt feiert Erntedank“ (Anfang Oktober) und zu den Nordischen Filmtagen (Anfang November). Das Dokument war am 29.10.2026 nicht mehr abrufbar und die verkündete Stadtverordnung nicht online auffindbar: Termine daher nicht bestätigt. Sonntagsöffnungen in Travemünde nach der Bäderverordnung des Landes sind hier nicht erfasst."
 },
 {
 "id": "luenen",
@@ -4345,16 +4316,30 @@
 "bereich": "Altstadt (innerhalb des Altstadtrings/Grabenstraßen)",
 "zeit": "13-18 Uhr",
 "quelle": 0
+},
+{
+"datum": "2027-03-14",
+"anlass": "Ostermarkt",
+"bereich": "Altstadt (innerhalb des Altstadtrings/Grabenstraßen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
+},
+{
+"datum": "2027-09-19",
+"anlass": "Herbstmarkt und Altstadtfest",
+"bereich": "Altstadt (innerhalb des Altstadtrings/Grabenstraßen)",
+"zeit": "13-18 Uhr",
+"quelle": 0
 }
 ],
 "status2026": "veroeffentlicht",
-"status2027": "nicht-veroeffentlicht",
+"status2027": "veroeffentlicht",
 "quellen": [
 {
-"titel": "Verordnung zur Öffnung von Verkaufsstellen an Sonntagen und in Nächten in 2026 (LadÖffVO 2026) vom 31. Oktober 2025, Amtsblatt S. 375",
+"titel": "Verkaufsoffene Sonntage und Einkaufsnächte in Nürnberg (2026/2027)",
 "herausgeber": "Stadt Nürnberg",
-"art": "Verordnung",
-"url": "https://www.nuernberg.de/imperia/md/stadtrecht/dokumente/320_505.pdf",
+"art": "Stadtseite",
+"url": "https://www.nuernberg.de/internet/stadtportal/verkaufsoffene_sonntage_nuernberg.html",
 "gelesen": "2026-10-29"
 },
 {
@@ -4365,7 +4350,7 @@
 "gelesen": "2026-10-29"
 }
 ],
-"notiz": "Rechtsgrundlage Art. 6 BayLadSchlG. Zusätzlich verkaufsoffene Nächte (keine Sonntage) am 24.10.2026 und 27.11.2026 bis 22 Uhr im ganzen Stadtgebiet. Für 2027 noch keine Verordnung veröffentlicht (2026 wurde im Oktober des Vorjahres beschlossen).",
+"notiz": "Rechtsgrundlage Art. 6 BayLadSchlG. Je zwei verkaufsoffene Sonntage 2026 und 2027, nur Innenstadt, 13-18 Uhr. Zusätzlich verkaufsoffene Nächte (keine Sonntage) bis 22 Uhr im ganzen Stadtgebiet: 24.10.2026, 27.11.2026, 28.05.2027, 26.11.2027.",
 "en": "Nuremberg"
 },
 {
